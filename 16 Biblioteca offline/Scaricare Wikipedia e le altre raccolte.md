@@ -30,7 +30,7 @@ ultima_revisione: 2026-11-16
 
 Nella cartella `strumenti` della wiki c'è uno script che fa tutto da solo: trova l'ultima edizione, scarica, rinomina e annota le versioni.
 
-- **Linux e macOS**: apri il terminale nella cartella della wiki e scrivi `./strumenti/scarica-contenuti.sh nopic`
+- **Linux e macOS**: apri il terminale nella cartella della wiki e scrivi `bash strumenti/scarica-contenuti.sh nopic`
 - **Windows**: tasto destro su `strumenti\scarica-contenuti.ps1` → **Esegui con PowerShell**
 
 Se preferisci fare a mano, segui i passi qui sotto.

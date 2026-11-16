@@ -29,9 +29,9 @@ Le guide di questa wiki sono brevi. Quando serve approfondire (per esempio "cos'
 
 Il "server" è solo un programma che fa vedere Wikipedia come se fosse un sito, ma dal tuo computer.
 
-**Linux, modo semplice**: fai doppio clic su `avvia-biblioteca.sh` nella cartella `project-racoon-dati` (se chiede, scegli "Esegui nel terminale"), oppure da terminale:
+**Linux e macOS, modo semplice**: apri il terminale nella cartella della wiki e scrivi:
 ```
-~/Documenti/obsidian/project-racoon-dati/avvia-biblioteca.sh
+bash strumenti/avvia-biblioteca.sh
 ```
 
 **Linux, modo manuale** (con kiwix-tools installato): apri il terminale e scrivi, adattando il percorso:

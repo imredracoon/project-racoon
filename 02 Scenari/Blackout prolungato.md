@@ -1,0 +1,73 @@
+---
+tipo: guida
+sezione: Scenari
+livello: principiante
+tempo_lettura: 7 minuti
+ultima_revisione: 2026-11-16
+---
+
+# Blackout prolungato
+
+> [!summary] In breve
+> - Usa **torce**, non candele (rischio incendio).
+> - **Non aprire** frigo e congelatore: il frigo tiene il freddo circa **4 ore**, il congelatore pieno circa **48 ore**.
+> - **Stacca** gli elettrodomestici delicati, lascia accesa una lampada per sapere quando torna la corrente.
+> - Risparmia la batteria del telefono, ascolta una **radio a pile**.
+> - **Mai** generatori, fornelli a gas o bracieri al chiuso: il **monossido di carbonio** uccide senza odore.
+
+## Perché è importante
+
+Senza corrente si fermano molte cose che diamo per scontate: luce, frigo, riscaldamento o condizionatore, ascensori, pompe dell'acqua nei condomini, telefono di casa (se è in fibra), bancomat, pagamenti con carta, distributori di benzina. Un blackout lungo, anche di giorni, può nascere da maltempo, ondate di calore, guasti o attacchi informatici.
+
+## Prima
+
+- [ ] Torce e **pile di ricambio** in un posto noto: [[Power bank, pile e batterie]].
+- [ ] **Power bank carichi** e una **radio a pile o a manovella**: [[Radio in emergenza]].
+- [ ] Un po' di **contanti**: [[Contanti]].
+- [ ] Riserva di **acqua**: se abiti in un condominio con autoclave, senza corrente l'acqua può non arrivare ai piani alti. [[Quanta acqua conservare e come]].
+- [ ] Un modo per **cucinare senza corrente** (fornellino da campeggio, da usare all'aperto o con finestre aperte): [[Cucinare senza corrente]].
+- [ ] Se in casa c'è chi usa **apparecchi medici elettrici** (ossigeno, ventilatori, pompe): parla con il medico e con il gestore elettrico per avere un piano e batterie di riserva. Vedi [[Anziani e persone con disabilità]].
+- [ ] Sappi dove è il **contatore** e l'interruttore generale.
+
+## Durante
+
+1. **Controlla se il problema è solo tuo**: guarda se i vicini e i lampioni hanno luce. Se è solo casa tua, controlla l'interruttore generale (il "salvavita").
+2. **Luce**: usa torce o lampade a batteria. Se usi candele, mai incustodite e lontano da tende.
+3. **Elettrodomestici**: stacca dalla presa computer, TV e apparecchi delicati, così non si rovinano quando torna la corrente con uno sbalzo. Lascia accesa una sola lampadina per accorgerti del ritorno.
+4. **Frigo e congelatore**: tienili **chiusi**. Mangia prima i cibi del frigo, poi quelli del congelatore.
+5. **Telefono**: abbassa la luminosità, chiudi le app, attiva il risparmio energetico. Usa SMS invece delle chiamate. [[Risparmiare la batteria del telefono]].
+6. **Informazioni**: ascolta la radio a pile o la radio dell'auto (senza tenere il motore acceso in garage!).
+7. **Caldo o freddo**: vedi [[Ondata di calore]] e [[Ondata di freddo]].
+8. **Ascensori**: non usarli. Se qualcuno è bloccato dentro, chiama il 112.
+9. **Vicini**: controlla le persone anziane o sole del palazzo.
+
+## Dopo
+
+- **Cibo del frigo**: se è rimasto oltre 4 ore sopra i 4 °C, butta carne, pesce, latticini, avanzi cotti. **Nel dubbio, butta**.
+- **Congelatore**: se il cibo ha ancora cristalli di ghiaccio puoi ricongelarlo; se è scongelato del tutto, cucinalo subito o buttalo.
+- Riaccendi gli elettrodomestici **uno alla volta**.
+- Ricarica subito power bank e torce.
+
+## Errori da evitare
+
+- **Generatore, barbecue, fornello a gas o braciere in casa, in garage o sul balcone chiuso**: producono **monossido di carbonio**, un gas senza odore che uccide nel sonno. Il generatore va **all'aperto**, lontano da porte e finestre.
+- **Aprire spesso il frigo**.
+- **Candele vicino a tende** o lasciate accese quando dormi.
+- **Scaricare il telefono** con video e social.
+
+## Parole nuove
+
+- **Monossido di carbonio (CO)**: gas invisibile e senza odore prodotto da qualunque fiamma o motore. In un ambiente chiuso fa svenire e uccide. Sintomi: mal di testa, nausea, sonnolenza.
+- **Autoclave**: la pompa che spinge l'acqua ai piani alti dei palazzi. Senza corrente si ferma.
+- **Salvavita**: l'interruttore differenziale di casa, che stacca la corrente in caso di guasto.
+
+## Per saperne di più
+
+- [[Generatore in sicurezza]]
+- [[Pagare durante un blackout o un attacco informatico]]
+
+## Fonti
+
+- Dipartimento della Protezione Civile, indicazioni sul black-out elettrico.
+- U.S. Department of Agriculture, Food Safety and Inspection Service, sicurezza degli alimenti durante le interruzioni di corrente.
+- Ministero della Salute, intossicazione da monossido di carbonio.

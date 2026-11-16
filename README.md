@@ -141,7 +141,7 @@ Lo script trova da solo l'ultima edizione disponibile, scarica tutto, rinomina i
 **Linux e macOS**: dalla cartella della wiki esegui
 
 ```bash
-./strumenti/scarica-contenuti.sh nopic     # oppure: mini, maxi
+bash strumenti/scarica-contenuti.sh nopic     # oppure: mini, maxi
 ```
 
 **Windows**: tasto destro su `strumenti\scarica-contenuti.ps1` → **Esegui con PowerShell**, oppure
@@ -180,7 +180,7 @@ Altre mappe Mapsforge (altri Paesi o regioni) si trovano su <https://download.ma
 ## 5. Collegare Wikipedia a Obsidian
 
 1. **Accendi la biblioteca.**
-   - Linux e macOS: `./strumenti/avvia-biblioteca.sh`
+   - Linux e macOS: `bash strumenti/avvia-biblioteca.sh`
    - Windows: doppio clic su `strumenti\avvia-biblioteca.bat`, oppure apri Kiwix Desktop → *Server locale* → porta `8080` → *Avvia*.
 
    Per controllare, apri <http://localhost:8080> nel browser: deve comparire la biblioteca.
@@ -208,7 +208,7 @@ Le istruzioni passo per passo per principianti sono anche dentro la wiki, nella 
 ## 7. Aggiornare
 
 - **Wiki**: `git pull`, oppure scarica di nuovo lo ZIP.
-- **Biblioteca**: una volta l'anno rilancia `scarica-contenuti`, che scarica solo le edizioni nuove. Per la mappa: `AGGIORNA_MAPPA=1 ./strumenti/scarica-contenuti.sh` (su Windows cancella prima `italy.map`).
+- **Biblioteca**: una volta l'anno rilancia `scarica-contenuti`, che scarica solo le edizioni nuove. Per la mappa: `AGGIORNA_MAPPA=1 bash strumenti/scarica-contenuti.sh` (su Windows cancella prima `italy.map`).
 - **Mappe sul telefono**: dall'app, *Aggiorna tutto*.
 
 ---

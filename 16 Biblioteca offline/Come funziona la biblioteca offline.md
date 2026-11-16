@@ -19,12 +19,11 @@ Durante un'emergenza Internet può non funzionare per giorni. Avere Wikipedia e 
 
 ```
 Documenti/obsidian/
-├── project-racoon/          ← questa wiki (leggera, meno di 150 MB)
+├── project-racoon/          ← questa wiki (meno di 150 MB), script in strumenti/
 └── project-racoon-dati/     ← la biblioteca (pesante, da 5 a 60 GB)
     ├── zim/                 ← Wikipedia e le altre raccolte
     ├── mappe/               ← le mappe offline
-    ├── bin/                 ← il server di Kiwix (Linux)
-    ├── avvia-biblioteca.sh  ← accende Wikipedia per Obsidian
+    ├── bin/                 ← il server di Kiwix (facoltativo)
     └── VERSIONI.txt         ← quali edizioni hai e quando le hai scaricate
 ```
 
