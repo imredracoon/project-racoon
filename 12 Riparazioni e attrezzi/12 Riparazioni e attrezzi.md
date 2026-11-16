@@ -14,4 +14,3 @@ Attrezzi e riparazioni di base, spiegati per chi non le ha mai fatte.
 
 ← [[00 - START]]
 
-> [!note] Le voci sbiadite sono guide ancora da scrivere: cliccandole Obsidian crea una pagina vuota, quindi meglio lasciarle stare finché non sono pronte.

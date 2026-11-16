@@ -13,4 +13,3 @@ Restare puliti e sani senza acqua corrente.
 
 ← [[00 - START]]
 
-> [!note] Le voci sbiadite sono guide ancora da scrivere: cliccandole Obsidian crea una pagina vuota, quindi meglio lasciarle stare finché non sono pronte.

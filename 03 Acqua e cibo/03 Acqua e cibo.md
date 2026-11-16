@@ -16,4 +16,3 @@ Avere acqua sicura e cibo quando i negozi e la rete non funzionano.
 
 ← [[00 - START]]
 
-> [!note] Le voci sbiadite sono guide ancora da scrivere: cliccandole Obsidian crea una pagina vuota, quindi meglio lasciarle stare finché non sono pronte.

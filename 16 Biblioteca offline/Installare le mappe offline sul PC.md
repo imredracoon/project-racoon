@@ -27,8 +27,16 @@ Se devi evacuare o trovare un ospedale, una fontana o una strada alternativa, un
    - Linux: cerca **GPXSee** nel negozio di applicazioni (è su Flathub) oppure, da terminale su Ubuntu/Debian: `sudo apt install gpxsee`.
 2. **Scarica la mappa.** Vai su **download.mapsforge.org**, apri `maps` → `v5` → `europe` e scarica `italy.map`.
 3. Crea la cartella `project-racoon-dati/mappe` e mettici dentro il file.
-4. **Aprila in GPXSee**: menu **Mappa → Carica mappa** (o **Map → Load map**) e scegli `italy.map`.
-5. Usa la rotellina del mouse per ingrandire fino alla tua zona.
+4. **Aprila in GPXSee** dal menu **Mappa → Carica mappa** (in inglese **Map → Load map**) e scegli `italy.map`.
+   > [!warning] Non usare File → Apri
+   > Il menu **File → Apri** serve per le tracce GPS: se ci apri una mappa ti dice "formato non supportato".
+5. **Per averla sempre pronta** (Linux): collega la mappa alla cartella delle mappe di GPXSee, così la trovi nel menu **Mappa** a ogni avvio:
+   ```
+   mkdir -p ~/.local/share/gpxsee/maps
+   ln -s ~/Documenti/obsidian/project-racoon-dati/mappe/italy.map ~/.local/share/gpxsee/maps/
+   ```
+   Su Windows e macOS la cartella delle mappe si apre da GPXSee nel menu delle impostazioni o si trova nella documentazione su gpxsee.org: copia lì il file.
+6. Usa la rotellina del mouse per ingrandire fino alla tua zona.
 
 ## Consigli
 

@@ -22,6 +22,7 @@ Come complemento facoltativo puoi collegare una **biblioteca offline**: Wikipedi
 7. [Aggiornare](#7-aggiornare)
 8. [Struttura delle cartelle](#8-struttura-delle-cartelle)
 9. [Licenza](#9-licenza)
+10. [Appendice: disinstallare completamente](#appendice-disinstallare-completamente)
 
 ---
 
@@ -83,7 +84,7 @@ sudo apt install kiwix kiwix-tools
 flatpak install flathub it.tumic.GPXSee
 ```
 
-> Su Ubuntu, se `flatpak` non c'è: `sudo apt install flatpak` e poi `flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`. In alternativa GPXSee offre pacchetti `.deb` ufficiali, linkati da [gpxsee.org](https://www.gpxsee.org).
+> Su Ubuntu, se `flatpak` non c'è: `sudo apt install flatpak` e poi `flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`. In alternativa, la pagina *Download* di [gpxsee.org](https://www.gpxsee.org) indica i repository ufficiali di GPXSee per Debian e Ubuntu.
 
 ### Linux: Arch e derivate (Manjaro, EndeavourOS)
 
@@ -195,7 +196,12 @@ Altre mappe Mapsforge (altri Paesi o regioni) si trovano su <https://download.ma
 
 Se il server è spento i link non si aprono, ma le guide restano tutte leggibili. Il Web viewer esiste solo su computer: sul telefono usa direttamente l'app Kiwix.
 
-**Mappe**: apri GPXSee → *Mappa → Carica mappa* → `project-racoon-dati/mappe/italy.map`.
+**Mappe**: apri GPXSee → *Mappa → Carica mappa* (non *File → Apri*, che è per le tracce GPS) → `project-racoon-dati/mappe/italy.map`. Su Linux, per averla sempre nel menu:
+
+```bash
+mkdir -p ~/.local/share/gpxsee/maps
+ln -s "$(realpath ../project-racoon-dati/mappe/italy.map)" ~/.local/share/gpxsee/maps/
+```
 
 Le istruzioni passo per passo per principianti sono anche dentro la wiki, nella sezione `16 Biblioteca offline`.
 
@@ -246,3 +252,131 @@ Ogni nuova guida parte da `98 Modelli/Modello guida.md`. Le regole sono:
 I testi, gli schemi originali e gli script sono rilasciati con licenza [MIT](LICENSE).
 
 I contenuti di terzi inclusi nel repository (per esempio alcune immagini) mantengono la loro licenza e sono elencati in [`99 Allegati/ATTRIBUZIONI.md`](99%20Allegati/ATTRIBUZIONI.md). I contenuti scaricati a parte hanno licenze proprie: Wikipedia, WikiMed e Wikivoyage sono CC BY-SA, le mappe sono © contributori OpenStreetMap con licenza ODbL.
+
+---
+
+## Appendice: disinstallare completamente
+
+Project Racoon non installa niente di nascosto: gli script scrivono **solo** dentro la cartella della wiki e dentro `project-racoon-dati/`. Per togliere tutto basta seguire questi passi, nell'ordine. Salta quelli che non ti riguardano.
+
+> [!warning] Prima di cancellare
+> Se nella cartella `_personale/` hai scritto contatti o il piano familiare, **copiali altrove** prima di cancellare la wiki.
+
+### Passo 1. Fermare la biblioteca
+
+Se `avvia-biblioteca` è aperto, chiudi la sua finestra o premi `Ctrl+C`. Se è rimasto attivo in background:
+
+- **Linux / macOS**: `pkill kiwix-serve`
+- **Windows** (Prompt dei comandi): `taskkill /IM kiwix-serve.exe /F`
+
+### Passo 2. Togliere la wiki da Obsidian
+
+1. In Obsidian apri il selettore dei vault (icona in basso a sinistra, *Gestisci vault*).
+2. Accanto a `project-racoon` scegli **Rimuovi dalla lista**. Questo non cancella i file, li toglie solo dall'elenco.
+3. Se Obsidian non ti serve per altro, disinstallalo come un normale programma.
+
+### Passo 3. Cancellare la wiki e la biblioteca
+
+Cancella le due cartelle (la biblioteca può occupare più di 10 GB):
+
+```
+project-racoon/          la wiki
+project-racoon-dati/     Wikipedia, WikiMed, Wikivoyage, mappe, kiwix-serve portatile, log
+```
+
+Su Linux e macOS, dalla cartella che le contiene:
+
+```bash
+rm -rf project-racoon project-racoon-dati
+```
+
+Su Windows cancellale da Esplora file e svuota il Cestino.
+
+### Passo 4. Disinstallare i programmi
+
+**Fedora**
+
+```bash
+sudo dnf remove kiwix-desktop kiwix-tools gpxsee
+```
+
+**Debian, Ubuntu, Linux Mint**
+
+```bash
+sudo apt purge kiwix kiwix-tools
+sudo apt autoremove
+flatpak uninstall --delete-data it.tumic.GPXSee
+```
+
+**Arch e derivate**
+
+```bash
+sudo pacman -Rns kiwix-desktop kiwix-tools gpxsee
+```
+
+**Se avevi usato Flatpak** (qualunque distribuzione):
+
+```bash
+flatpak uninstall --user --delete-data org.kiwix.desktop it.tumic.GPXSee
+flatpak uninstall --unused
+```
+
+Togli `--user` se li avevi installati a livello di sistema.
+
+**Versione portatile di kiwix-serve**: era in `project-racoon-dati/bin/`, quindi è già stata cancellata al passo 3.
+
+**Windows 10 e 11**: *Impostazioni → App → App installate*, poi disinstalla **Kiwix** e **GPXSee**. Se avevi copiato `kiwix-serve.exe`, era in `project-racoon-dati\bin\` (già cancellato).
+
+**macOS**: trascina **Kiwix** e **GPXSee** da *Applicazioni* al Cestino. Se avevi installato kiwix-serve con Homebrew:
+
+```bash
+brew uninstall kiwix-tools
+```
+
+### Passo 5. Cancellare impostazioni e file residui
+
+I gestori di pacchetti non cancellano le impostazioni personali. Queste cartelle sono nella tua cartella utente e si possono eliminare senza rischi.
+
+**Linux**
+
+```bash
+# collegamento alla mappa creato per GPXSee (sezione 5)
+rm -f ~/.local/share/gpxsee/maps/italy.map
+# impostazioni e cache di GPXSee e Kiwix
+rm -rf ~/.config/gpxsee ~/.local/share/gpxsee ~/.cache/gpxsee
+rm -rf ~/.config/kiwix ~/.local/share/kiwix ~/.cache/kiwix
+rm -rf ~/.local/share/kiwix-desktop ~/.cache/kiwix-desktop
+# dati delle versioni Flatpak, se ne restano
+rm -rf ~/.var/app/org.kiwix.desktop ~/.var/app/it.tumic.GPXSee
+```
+
+Alcune cartelle potrebbero non esistere: è normale. Per controllare che non sia rimasto niente:
+
+```bash
+find ~ -maxdepth 4 \( -iname '*kiwix*' -o -iname '*gpxsee*' \) 2>/dev/null
+```
+
+**Windows** (PowerShell): per vedere le cartelle residue, prima di cancellarle a mano.
+
+```powershell
+Get-ChildItem $env:APPDATA, $env:LOCALAPPDATA -Directory |
+  Where-Object Name -match 'kiwix|gpxsee'
+```
+
+**macOS**
+
+```bash
+find ~/Library -maxdepth 3 \( -iname '*kiwix*' -o -iname '*gpxsee*' \) 2>/dev/null
+```
+
+Controlla l'elenco e cancella le cartelle trovate con `rm -rf "percorso"`. Le impostazioni dell'app Kiwix dell'App Store di solito sono in `~/Library/Containers/`.
+
+### Passo 6. Telefono
+
+1. In **Obsidian**: rimuovi il vault dalla lista e cancella la sua cartella.
+2. In **Kiwix**: elimina i file `.zim` dalla libreria (tieni premuto sul libro e scegli *Elimina*). Poi disinstalla l'app.
+3. In **Organic Maps** o **OsmAnd**: cancella le mappe scaricate dal menu *Mappe scaricate* e poi disinstalla l'app.
+
+### Passo 7. Copia del repository
+
+Se hai fatto un **fork** su GitHub e non ti serve più: *Settings → Danger Zone → Delete this repository* nel tuo fork. Le chiavette USB con le copie di emergenza vanno cancellate a mano.

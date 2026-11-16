@@ -24,4 +24,3 @@ Primo soccorso spiegato passo per passo. Non sostituisce un corso BLSD.
 
 ← [[00 - START]]
 
-> [!note] Le voci sbiadite sono guide ancora da scrivere: cliccandole Obsidian crea una pagina vuota, quindi meglio lasciarle stare finché non sono pronte.

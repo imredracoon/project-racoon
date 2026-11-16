@@ -2,7 +2,7 @@
 tipo: guida
 sezione: Comunicazioni
 livello: principiante
-tempo_lettura: da compilare
+tempo_lettura: 5 minuti
 ultima_revisione: 2026-11-16
 ---
 

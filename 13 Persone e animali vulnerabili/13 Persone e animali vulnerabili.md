@@ -13,4 +13,3 @@ Esigenze di chi ha bisogno di più aiuto.
 
 ← [[00 - START]]
 
-> [!note] Le voci sbiadite sono guide ancora da scrivere: cliccandole Obsidian crea una pagina vuota, quindi meglio lasciarle stare finché non sono pronte.

@@ -68,4 +68,3 @@ Come ricevere notizie, avvisare chi ami e parlare via radio quando telefono e In
 
 ← [[00 - START]]
 
-> [!note] Le voci sbiadite sono guide ancora da scrivere: cliccandole Obsidian crea una pagina vuota, quindi meglio lasciarle stare finché non sono pronte.
