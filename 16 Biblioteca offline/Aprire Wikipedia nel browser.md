@@ -10,7 +10,7 @@ ultima_revisione: 2026-11-16
 
 > **In breve**
 > 1. Avvia il server di Kiwix sul computer.
-> 2. Clicca i link "Approfondisci su Wikipedia" presenti nelle guide (in Zettlr: `Ctrl` + clic, su Mac `Cmd` + clic).
+> 2. Clicca i link "Approfondisci su Wikipedia" presenti nelle guide (in alcuni programmi serve `Ctrl` + clic, su Mac `Cmd` + clic).
 > 3. La voce si apre nel **browser**, ma arriva dal tuo computer: Internet non serve.
 
 ## Perché è importante
@@ -52,8 +52,9 @@ Nelle guide troverai link come questo:
 
 [Approfondisci su Wikipedia: Terremoto](http://localhost:8080/search?books.name=wikipedia_it&pattern=Terremoto)
 
-- **Zettlr** (computer): tieni premuto `Ctrl` (su Mac `Cmd`) e clicca il link. Si apre il browser.
-- **Markor** (telefono): passa alla **modalità lettura** (l'icona a forma di occhio) e tocca il link. Funziona solo se sul telefono è acceso un server Kiwix: di solito è più semplice usare direttamente l'app Kiwix e cercare la parola a mano.
+- **Programma sul computer**: clicca il link. In alcuni programmi (per esempio Zettlr) devi tenere premuto `Ctrl` (su Mac `Cmd`). Si apre il browser.
+- **Solo terminale**: copia l'indirizzo e aprilo con un browser testuale, per esempio `w3m "http://localhost:8080/search?books.name=wikipedia_it&pattern=Terremoto"` (vedi [Programmi per leggere la wiki](../11%20Tecnologia%20offline/Programmi%20per%20leggere%20la%20wiki.md)).
+- **Telefono**: in un lettore Markdown con vista di lettura (per esempio Markor, icona a forma di occhio) tocca il link. Funziona solo se sul telefono è acceso un server Kiwix: di solito è più semplice usare direttamente l'app Kiwix e cercare la parola a mano.
 
 Il link fa una **ricerca** dentro la tua Wikipedia offline e mostra le voci trovate. Funziona solo se il server è acceso.
 

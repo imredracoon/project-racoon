@@ -34,4 +34,6 @@ Questa wiki funziona senza Internet. Ogni guida è scritta per chi non sa niente
 - [Glossario](00%20-%20Glossario.md)
 - [Modello guida](98%20Modelli/Modello%20guida.md) (per scrivere nuove guide)
 
-*Usa la ricerca (Ctrl/Cmd + Shift + F) per trovare qualunque parola in tutte le guide.*
+- [Programmi per leggere la wiki](11%20Tecnologia%20offline/Programmi%20per%20leggere%20la%20wiki.md) (computer, telefono, browser o solo terminale)
+
+*Per trovare una parola in tutte le guide usa la ricerca del tuo programma, oppure dal terminale: `grep -rin "parola" --include="*.md" .`*

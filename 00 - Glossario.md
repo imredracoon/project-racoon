@@ -37,6 +37,7 @@ Le parole tecniche usate nelle guide, spiegate in modo semplice e in ordine alfa
 - **Bendaggio compressivo**: una benda stretta sopra le garze che continua a premere al posto tuo. ([Emorragie e laccio emostatico](04%20Salute%20e%20primo%20soccorso/Emorragie%20e%20laccio%20emostatico.md))
 - **BFO**: oscillatore di battimento usato per ricevere SSB e CW. ([12 Modulazioni AM e FM](07%20Comunicazioni/Corso%20patente%20radioamatore/12%20Modulazioni%20AM%20e%20FM.md))
 - **BMS**: elettronica dentro le batterie al litio che le protegge. ([Piccolo impianto a 12 volt](05%20Energia%20e%20luce/Piccolo%20impianto%20a%2012%20volt.md))
+- **Browser testuale**: un browser che mostra le pagine web solo come testo, dentro il terminale (per esempio w3m o lynx). ([Programmi per leggere la wiki](11%20Tecnologia%20offline/Programmi%20per%20leggere%20la%20wiki.md))
 - **Botulino**: un batterio che può crescere nelle conserve fatte male o danneggiate e produce un veleno pericolosissimo. ([Cibo a lunga conservazione](03%20Acqua%20e%20cibo/Cibo%20a%20lunga%20conservazione.md))
 
 ## C
@@ -121,6 +122,7 @@ Le parole tecniche usate nelle guide, spiegate in modo semplice e in ordine alfa
 
 ## L
 
+- **Link relativo**: un collegamento che indica dove si trova un altro file rispetto a quello che stai leggendo, senza bisogno di Internet. ([Programmi per leggere la wiki](11%20Tecnologia%20offline/Programmi%20per%20leggere%20la%20wiki.md))
 - **Lacuna**: "posto vuoto" lasciato da un elettrone, si comporta come una carica positiva. ([09 Filtri e semiconduttori](07%20Comunicazioni/Corso%20patente%20radioamatore/09%20Filtri%20e%20semiconduttori.md))
 - **Lama**: in Puglia, un solco naturale nel terreno che porta l'acqua verso il mare. Spesso è asciutta, ma con piogge forti diventa un torrente in poche ore. ([Alluvione](02%20Scenari/Alluvione.md))
 - **Latitudine**: quanto sei a nord dell'equatore. ([Coordinate e come comunicarle](09%20Orientamento%20e%20mappe/Coordinate%20e%20come%20comunicarle.md))
@@ -133,6 +135,7 @@ Le parole tecniche usate nelle guide, spiegate in modo semplice e in ordine alfa
 
 ## M
 
+- **Markdown**: un modo di scrivere testo semplice con pochi simboli (`#` per i titoli, `**` per il grassetto) che i programmi trasformano in pagine ordinate. Tutta la wiki è scritta così. ([Programmi per leggere la wiki](11%20Tecnologia%20offline/Programmi%20per%20leggere%20la%20wiki.md))
 - **Manovra di Heimlich**: le compressioni sulla pancia che spingono l'aria fuori dai polmoni, come un tappo che salta. ([Soffocamento](04%20Salute%20e%20primo%20soccorso/Soffocamento.md))
 - **Mapsforge**: un formato di mappa offline gratuito, basato su OpenStreetMap. ([Installare le mappe offline sul PC](16%20Biblioteca%20offline/Installare%20le%20mappe%20offline%20sul%20PC.md))
 - **Media frequenza (FI)**: frequenza fissa su cui lavora la parte principale del ricevitore. ([07 Schemi a blocchi e ROS](07%20Comunicazioni/Corso%20patente%20radioamatore/07%20Schemi%20a%20blocchi%20e%20ROS.md))
