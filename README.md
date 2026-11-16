@@ -61,31 +61,36 @@ Per collegare Wikipedia a Obsidian serve anche **kiwix-serve**, il piccolo serve
 
 ### Linux: Fedora
 
+Tutto è nei repository ufficiali (Fedora 43 e successive):
+
 ```bash
-# Kiwix e GPXSee da Flathub (installazione utente, senza sudo)
+sudo dnf install kiwix-desktop kiwix-tools gpxsee
+```
+
+In alternativa, senza sudo, puoi usare Flathub come remote **utente** (il Flathub di sistema su Fedora è "filtrato"):
+
+```bash
 flatpak remote-add --user --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-flatpak install --user flathub org.kiwix.desktop
-flatpak install --user flathub it.tumic.GPXSee
-
-# kiwix-serve
-sudo dnf install kiwix-tools
+flatpak install --user flathub org.kiwix.desktop it.tumic.GPXSee
 ```
 
-> Su Fedora il Flathub di sistema è "filtrato" e alcune app non compaiono. Per questo si aggiunge Flathub come remote **utente** (`--user`).
+### Linux: Debian, Ubuntu, Linux Mint
 
-### Linux: Ubuntu, Debian, Linux Mint
+Kiwix (pacchetto `kiwix`) e kiwix-serve (pacchetto `kiwix-tools`) sono nei repository ufficiali (Ubuntu: sezione *universe*). GPXSee **non** è nei repository di Debian e Ubuntu: si installa da Flathub.
 
 ```bash
-sudo apt install kiwix-tools gpxsee      # kiwix-serve e GPXSee
-flatpak install flathub org.kiwix.desktop # Kiwix Desktop (oppure dal negozio di app)
+sudo apt install kiwix kiwix-tools
+flatpak install flathub it.tumic.GPXSee
 ```
 
-### Linux: Arch e derivate
+> Su Ubuntu, se `flatpak` non c'è: `sudo apt install flatpak` e poi `flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`. In alternativa GPXSee offre pacchetti `.deb` ufficiali, linkati da [gpxsee.org](https://www.gpxsee.org).
+
+### Linux: Arch e derivate (Manjaro, EndeavourOS)
+
+Tutto è nel repository ufficiale *extra*:
 
 ```bash
-sudo pacman -S gpxsee
-flatpak install flathub org.kiwix.desktop
-# kiwix-serve: pacchetto AUR "kiwix-tools" oppure il binario statico (vedi sotto)
+sudo pacman -S kiwix-desktop kiwix-tools gpxsee
 ```
 
 ### Linux: qualunque distribuzione, senza installare niente
