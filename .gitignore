@@ -1,0 +1,20 @@
+# Dati personali: non pubblicare mai
+_personale/
+
+# Stato locale di Obsidian (finestre aperte, cache)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# File pesanti o con licenze diverse dalla MIT: restano fuori dal repository
+*.zim
+*.map
+*.mbtiles
+*.pmtiles
+*.pdf
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
