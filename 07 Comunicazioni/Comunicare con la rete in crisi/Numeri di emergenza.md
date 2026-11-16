@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Numeri di emergenza
 
-> [!summary] In breve
+> **In breve**
 > Il numero da ricordare è uno solo: **112**. Funziona gratis, senza credito e senza SIM, in tutta l'Unione Europea. Gli altri numeri sono utili, ma scrivili su carta: in emergenza non te li ricorderai.
 
 ## I numeri nazionali
@@ -32,9 +32,9 @@ ultima_revisione: 2026-11-16
 - [ ] **Polizia locale** e **Protezione Civile del tuo Comune**.
 - [ ] Il tuo **medico** e il **pediatra**.
 - [ ] Il numero guasti del **gas**, dell'**acqua** (in Puglia Acquedotto Pugliese) e della **luce** (lo trovi sulla bolletta).
-- [ ] Il **contatto fuori zona** della famiglia: [[Piano di comunicazione familiare]].
+- [ ] Il **contatto fuori zona** della famiglia: [Piano di comunicazione familiare](Piano%20di%20comunicazione%20familiare.md).
 
-Scrivili sulla [[Scheda contatti e piano familiare]].
+Scrivili sulla [Scheda contatti e piano familiare](../../90%20Schede%20stampabili/Scheda%20contatti%20e%20piano%20familiare.md).
 
 ## Errori da evitare
 
@@ -44,7 +44,7 @@ Scrivili sulla [[Scheda contatti e piano familiare]].
 
 ## Per saperne di più
 
-- [[Chiamare il 112]]: cosa dire all'operatore.
+- [Chiamare il 112](../../04%20Salute%20e%20primo%20soccorso/Chiamare%20il%20112.md): cosa dire all'operatore.
 
 ## Fonti
 

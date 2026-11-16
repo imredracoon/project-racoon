@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Prepararsi con poco budget
 
-> [!summary] In breve
+> **In breve**
 > Non serve spendere tanto tutto insieme: **10 euro a settimana** per 3 mesi bastano per un buon kit.
 > Parti da ciò che è **gratis**: piano familiare, numeri scritti su carta, sapere dove chiudere gas e acqua.
 > Compra **un pezzo in più** ogni volta che fai la spesa (acqua, scatolame, pile).
@@ -20,13 +20,13 @@ Molte persone non si preparano perché pensano che costi troppo. In realtà le c
 
 ## Cosa è gratis (fallo subito)
 
-- [ ] [[Piano familiare di emergenza]] e punto di ritrovo.
-- [ ] Numeri importanti scritti su carta ([[Scheda contatti e piano familiare]]).
-- [ ] Sapere dove sono gas, acqua, quadro elettrico ([[Chiudere gas, acqua e luce]]).
-- [ ] Leggere il [[Piano di evacuazione del Comune]].
-- [ ] Riempire **bottiglie vuote** pulite con acqua del rubinetto (vedi [[Quanta acqua conservare e come]]).
+- [ ] [Piano familiare di emergenza](Piano%20familiare%20di%20emergenza.md) e punto di ritrovo.
+- [ ] Numeri importanti scritti su carta ([Scheda contatti e piano familiare](../90%20Schede%20stampabili/Scheda%20contatti%20e%20piano%20familiare.md)).
+- [ ] Sapere dove sono gas, acqua, quadro elettrico ([Chiudere gas, acqua e luce](../06%20Riparo%2C%20calore%20e%20casa/Chiudere%20gas%2C%20acqua%20e%20luce.md)).
+- [ ] Leggere il [Piano di evacuazione del Comune](../08%20Sicurezza%20ed%20evacuazione/Piano%20di%20evacuazione%20del%20Comune.md).
+- [ ] Riempire **bottiglie vuote** pulite con acqua del rubinetto (vedi [Quanta acqua conservare e come](../03%20Acqua%20e%20cibo/Quanta%20acqua%20conservare%20e%20come.md)).
 - [ ] Scaricare mappe offline e questa wiki sul telefono.
-- [ ] Copia digitale dei documenti ([[Backup dei documenti importanti]]).
+- [ ] Copia digitale dei documenti ([Backup dei documenti importanti](../11%20Tecnologia%20offline/Backup%20dei%20documenti%20importanti.md)).
 
 ## Piano di 12 settimane (circa 10 euro a settimana)
 
@@ -50,7 +50,7 @@ Molte persone non si preparano perché pensano che costi troppo. In realtà le c
 - **Compra in offerta** e in confezioni grandi le cose che usi comunque.
 - **Rotazione**: metti le cose nuove dietro e usa quelle vecchie. Le scorte non scadono e non sprechi.
 - **Usato**: zaini, sacchi a pelo, attrezzi si trovano a pochi euro nei mercatini.
-- **Condividi** con i vicini: un generatore o una power station per palazzo, un kit grande per più famiglie (vedi [[Rete di aiuto di quartiere]]).
+- **Condividi** con i vicini: un generatore o una power station per palazzo, un kit grande per più famiglie (vedi [Rete di aiuto di quartiere](../13%20Persone%20e%20animali%20vulnerabili/Rete%20di%20aiuto%20di%20quartiere.md)).
 - **Non comprare** gadget "survival" costosi: un coltellino normale e una torcia di qualità servono di più.
 
 ## Errori da evitare
@@ -61,9 +61,9 @@ Molte persone non si preparano perché pensano che costi troppo. In realtà le c
 
 ## Per saperne di più
 
-- [[Kit 72 ore UE]]
-- [[Scorte domestiche per due settimane]]
-- [[Manutenzione del kit]]
+- [Kit 72 ore UE](Kit%2072%20ore%20UE.md)
+- [Scorte domestiche per due settimane](Scorte%20domestiche%20per%20due%20settimane.md)
+- [Manutenzione del kit](Manutenzione%20del%20kit.md)
 
 ## Fonti
 

@@ -1,12 +1,12 @@
 # Project Racoon
 
-Una wiki offline di emergenza in italiano, fatta di semplici file Markdown. Si apre con [Obsidian](https://obsidian.md) o con qualunque editor di testo e funziona **senza Internet** su Windows, macOS, Linux, Android e iOS.
+Una wiki offline di emergenza in italiano, fatta di semplici file Markdown. Si apre con [Zettlr](https://www.zettlr.com) sul computer, con [Markor](https://github.com/gsantner/markor) su Android o con qualunque editor di testo, e funziona **senza Internet**. Si legge anche direttamente qui su GitHub.
 
 Ogni guida è scritta per chi **non sa niente dell'argomento**. Gli argomenti sono preparazione, scenari di emergenza (con attenzione all'Italia), primo soccorso, acqua e cibo, energia, comunicazioni di emergenza (radio, PMR446, CB, radioamatori, reti mesh) e altro.
 
 Come complemento facoltativo puoi collegare una **biblioteca offline**: Wikipedia in italiano, un'enciclopedia medica, Wikivoyage e la mappa d'Italia. Le guide la richiamano con dei link.
 
-> [!WARNING]
+> **Attenzione**
 > Queste guide hanno scopo informativo. Non sostituiscono le indicazioni delle autorità (Protezione Civile, 112) né un corso di primo soccorso.
 
 ---
@@ -17,7 +17,7 @@ Come complemento facoltativo puoi collegare una **biblioteca offline**: Wikipedi
 2. [Installazione rapida](#2-installazione-rapida)
 3. [Installare i programmi](#3-installare-i-programmi)
 4. [Scaricare la biblioteca offline](#4-scaricare-la-biblioteca-offline)
-5. [Collegare Wikipedia a Obsidian](#5-collegare-wikipedia-a-obsidian)
+5. [Aprire Wikipedia dai link](#5-aprire-wikipedia-dai-link)
 6. [Telefono](#6-telefono)
 7. [Aggiornare](#7-aggiornare)
 8. [Struttura delle cartelle](#8-struttura-delle-cartelle)
@@ -45,8 +45,8 @@ I file della biblioteca restano fuori dal repository perché sono molto pesanti 
 
 ## 2. Installazione rapida
 
-1. **Scarica la wiki.** Clona il repository oppure scarica lo ZIP da GitHub (*Code → Download ZIP*) ed estrailo, per esempio in `Documenti/obsidian/project-racoon`.
-2. **Installa Obsidian** da [obsidian.md](https://obsidian.md). Aprilo e scegli **Apri cartella come vault**, poi seleziona la cartella `project-racoon`. Non servono plugin di comunità.
+1. **Scarica la wiki.** Clona il repository oppure scarica lo ZIP da GitHub (*Code → Download ZIP*) ed estrailo, per esempio in `Documenti/project-racoon`.
+2. **Installa Zettlr** (vedi la [sezione 3](#3-installare-i-programmi)). Aprilo, scegli *File → Apri spazio di lavoro* e seleziona la cartella `project-racoon`. Per seguire un link tieni premuto `Ctrl` (su Mac `Cmd`) e fai clic.
 3. **Apri la nota `00 - START`.** La wiki è già utilizzabile così.
 4. *(Facoltativo)* Per la biblioteca offline segui le sezioni 3, 4 e 5.
 
@@ -54,25 +54,32 @@ I file della biblioteca restano fuori dal repository perché sono molto pesanti 
 
 ## 3. Installare i programmi
 
-Servono due programmi gratuiti e open source:
+Servono alcuni programmi gratuiti e open source:
+- **Zettlr** (computer) o **Markor** (Android) per leggere la wiki. Va bene anche qualunque editor Markdown: i file sono Markdown standard, con link relativi.
 - **Kiwix** apre i file `.zim` (Wikipedia e le altre raccolte).
 - **GPXSee** apre la mappa offline sul computer.
 
-Per collegare Wikipedia a Obsidian serve anche **kiwix-serve**, il piccolo server di Kiwix (vedi la sezione 5).
+Per aprire Wikipedia dai link delle guide serve anche **kiwix-serve**, il piccolo server di Kiwix (vedi la sezione 5).
 
 ### Linux: Fedora
 
-Tutto è nei repository ufficiali (Fedora 43 e successive):
+Kiwix e GPXSee sono nei repository ufficiali (Fedora 43 e successive):
 
 ```bash
 sudo dnf install kiwix-desktop kiwix-tools gpxsee
+```
+
+Zettlr non è nei repository di Fedora. Scarica il file `.rpm` più recente da <https://github.com/Zettlr/Zettlr/releases> (scegli `x86_64`, o `aarch64` per Raspberry Pi e simili) e installalo con dnf dalla cartella dove l'hai salvato:
+
+```bash
+sudo dnf install ./Zettlr-*.rpm
 ```
 
 In alternativa, senza sudo, puoi usare Flathub come remote **utente** (il Flathub di sistema su Fedora è "filtrato"):
 
 ```bash
 flatpak remote-add --user --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-flatpak install --user flathub org.kiwix.desktop it.tumic.GPXSee
+flatpak install --user flathub org.kiwix.desktop it.tumic.GPXSee com.zettlr.Zettlr
 ```
 
 ### Linux: Debian, Ubuntu, Linux Mint
@@ -84,6 +91,8 @@ sudo apt install kiwix kiwix-tools
 flatpak install flathub it.tumic.GPXSee
 ```
 
+Per Zettlr scarica il file `.deb` da <https://github.com/Zettlr/Zettlr/releases> e installalo con `sudo apt install ./Zettlr-*.deb`.
+
 > Su Ubuntu, se `flatpak` non c'è: `sudo apt install flatpak` e poi `flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`. In alternativa, la pagina *Download* di [gpxsee.org](https://www.gpxsee.org) indica i repository ufficiali di GPXSee per Debian e Ubuntu.
 
 ### Linux: Arch e derivate (Manjaro, EndeavourOS)
@@ -93,6 +102,8 @@ Tutto è nel repository ufficiale *extra*:
 ```bash
 sudo pacman -S kiwix-desktop kiwix-tools gpxsee
 ```
+
+Zettlr è nell'AUR (pacchetto `zettlr`), per esempio con `yay -S zettlr`.
 
 ### Linux: qualunque distribuzione, senza installare niente
 
@@ -108,13 +119,15 @@ cp kiwix-tools_linux-x86_64-*/kiwix-serve ../project-racoon-dati/bin/
 
 1. **Kiwix Desktop**: scarica l'installer da [kiwix.org](https://kiwix.org) → *Download* → *Windows*. Si trova anche nel Microsoft Store.
 2. **GPXSee**: scarica l'installer da [gpxsee.org](https://www.gpxsee.org).
-3. **kiwix-serve** (facoltativo, perché Kiwix Desktop ha già un "Server locale"): scarica `kiwix-tools_win-*.zip` da <https://download.kiwix.org/release/kiwix-tools/> e copia `kiwix-serve.exe` in `project-racoon-dati\bin\`.
+3. **Zettlr**: scarica l'installer da [zettlr.com](https://www.zettlr.com/download), oppure dal Prompt dei comandi: `winget install Zettlr.Zettlr`.
+4. **kiwix-serve** (facoltativo, perché Kiwix Desktop ha già un "Server locale"): scarica `kiwix-tools_win-*.zip` da <https://download.kiwix.org/release/kiwix-tools/> e copia `kiwix-serve.exe` in `project-racoon-dati\bin\`.
 
 ### macOS
 
 1. **Kiwix**: dall'App Store.
 2. **GPXSee**: scarica il file `.dmg` da [gpxsee.org](https://www.gpxsee.org).
-3. **kiwix-serve**: con [Homebrew](https://brew.sh) esegui `brew install kiwix-tools`. In alternativa usa il "Server locale" di Kiwix, se disponibile nella tua versione.
+3. **Zettlr**: scarica il file `.dmg` da [zettlr.com](https://www.zettlr.com/download), oppure con Homebrew: `brew install --cask zettlr`.
+4. **kiwix-serve**: con [Homebrew](https://brew.sh) esegui `brew install kiwix-tools`. In alternativa usa il "Server locale" di Kiwix, se disponibile nella tua versione.
 
 ---
 
@@ -123,7 +136,7 @@ cp kiwix-tools_linux-x86_64-*/kiwix-serve ../project-racoon-dati/bin/
 I file vanno in una cartella **accanto** alla wiki, non dentro:
 
 ```
-Documenti/obsidian/
+Documenti/
 ├── project-racoon/          ← questo repository
 └── project-racoon-dati/     ← biblioteca (creata dallo script)
     ├── zim/                 wikipedia_it.zim, wikimed.zim, wikivoyage_it.zim
@@ -183,18 +196,17 @@ Altre mappe Mapsforge (altri Paesi o regioni) si trovano su <https://download.ma
 
 ---
 
-## 5. Collegare Wikipedia a Obsidian
+## 5. Aprire Wikipedia dai link
 
 1. **Accendi la biblioteca.**
    - Linux e macOS: `bash strumenti/avvia-biblioteca.sh`
    - Windows: doppio clic su `strumenti\avvia-biblioteca.bat`, oppure apri Kiwix Desktop → *Server locale* → porta `8080` → *Avvia*.
 
    Per controllare, apri <http://localhost:8080> nel browser: deve comparire la biblioteca.
-2. **In Obsidian**: *Impostazioni → Plugin core →* attiva **Web viewer**. Nelle sue opzioni attiva *Apri i link esterni nel Web viewer*.
-3. **Usa i link nelle guide**, che hanno questa forma:
+2. **Usa i link nelle guide.** In Zettlr tieni premuto `Ctrl` (su Mac `Cmd`) e fai clic: la pagina si apre nel browser. I link hanno questa forma:
    `http://localhost:8080/search?books.name=wikipedia_it&pattern=Terremoto`
 
-Se il server è spento i link non si aprono, ma le guide restano tutte leggibili. Il Web viewer esiste solo su computer: sul telefono usa direttamente l'app Kiwix.
+Se il server è spento i link non si aprono, ma le guide restano tutte leggibili. Sul telefono usa direttamente l'app Kiwix.
 
 **Mappe**: apri GPXSee → *Mappa → Carica mappa* (non *File → Apri*, che è per le tracce GPS) → `project-racoon-dati/mappe/italy.map`. Su Linux, per averla sempre nel menu:
 
@@ -209,7 +221,8 @@ Le istruzioni passo per passo per principianti sono anche dentro la wiki, nella 
 
 ## 6. Telefono
 
-1. Copia la cartella della wiki sul telefono e aprila con l'app Obsidian. Sincronizzala come preferisci: cavo, Syncthing, ecc.
+1. **Android**: installa **Markor** (F-Droid o Play Store), copia la cartella della wiki sul telefono e aprila da Markor. Tocca l'icona a forma di **occhio** per la vista di lettura, dove i link si toccano come in una pagina web. Sincronizza la cartella come preferisci: cavo, Syncthing, ecc.
+   **iPhone**: Markor non esiste. Puoi leggere le guide con l'app *File* o con un qualunque lettore Markdown, oppure stampare le schede di `90 Schede stampabili`.
 2. Installa **Kiwix** (Play Store o App Store) e copia sul telefono i file `.zim`. Se hai poco spazio, la versione `mini` è sufficiente.
 3. Installa **Organic Maps** (o CoMaps) oppure **OsmAnd** e, con il Wi-Fi, scarica le regioni che ti servono.
 4. Prova tutto in **modalità aereo**.
@@ -243,7 +256,8 @@ _personale/                (non pubblicata) dati personali, contatti, piano fami
 Ogni nuova guida parte da `98 Modelli/Modello guida.md`. Le regole sono:
 - linguaggio semplice, un'azione per passo, parole tecniche spiegate;
 - testo sempre originale, mai copiato dalle fonti;
-- solo fonti affidabili e ufficiali, citate in fondo alla guida.
+- solo fonti affidabili e ufficiali, citate in fondo alla guida;
+- solo Markdown standard: link relativi come `[Titolo](../Cartella/Titolo%20della%20guida.md)`, niente `[[wikilink]]` né callout `> [!nota]`, così la wiki si legge uguale in Zettlr, Markor e su GitHub.
 
 ---
 
@@ -259,7 +273,7 @@ I contenuti di terzi inclusi nel repository (per esempio alcune immagini) manten
 
 Project Racoon non installa niente di nascosto: gli script scrivono **solo** dentro la cartella della wiki e dentro `project-racoon-dati/`. Per togliere tutto basta seguire questi passi, nell'ordine. Salta quelli che non ti riguardano.
 
-> [!warning] Prima di cancellare
+> **Attenzione: Prima di cancellare**
 > Se nella cartella `_personale/` hai scritto contatti o il piano familiare, **copiali altrove** prima di cancellare la wiki.
 
 ### Passo 1. Fermare la biblioteca
@@ -269,11 +283,10 @@ Se `avvia-biblioteca` è aperto, chiudi la sua finestra o premi `Ctrl+C`. Se è 
 - **Linux / macOS**: `pkill kiwix-serve`
 - **Windows** (Prompt dei comandi): `taskkill /IM kiwix-serve.exe /F`
 
-### Passo 2. Togliere la wiki da Obsidian
+### Passo 2. Togliere la wiki da Zettlr
 
-1. In Obsidian apri il selettore dei vault (icona in basso a sinistra, *Gestisci vault*).
-2. Accanto a `project-racoon` scegli **Rimuovi dalla lista**. Questo non cancella i file, li toglie solo dall'elenco.
-3. Se Obsidian non ti serve per altro, disinstallalo come un normale programma.
+1. In Zettlr, nel pannello dei file a sinistra, fai clic destro sulla cartella `project-racoon` e scegli **Chiudi spazio di lavoro**. Questo non cancella i file, li toglie solo dall'elenco.
+2. Se Zettlr non ti serve per altro, disinstallalo come gli altri programmi (passo 4).
 
 ### Passo 3. Cancellare la wiki e la biblioteca
 
@@ -297,13 +310,13 @@ Su Windows cancellale da Esplora file e svuota il Cestino.
 **Fedora**
 
 ```bash
-sudo dnf remove kiwix-desktop kiwix-tools gpxsee
+sudo dnf remove kiwix-desktop kiwix-tools gpxsee zettlr
 ```
 
 **Debian, Ubuntu, Linux Mint**
 
 ```bash
-sudo apt purge kiwix kiwix-tools
+sudo apt purge kiwix kiwix-tools zettlr
 sudo apt autoremove
 flatpak uninstall --delete-data it.tumic.GPXSee
 ```
@@ -311,13 +324,13 @@ flatpak uninstall --delete-data it.tumic.GPXSee
 **Arch e derivate**
 
 ```bash
-sudo pacman -Rns kiwix-desktop kiwix-tools gpxsee
+sudo pacman -Rns kiwix-desktop kiwix-tools gpxsee zettlr
 ```
 
 **Se avevi usato Flatpak** (qualunque distribuzione):
 
 ```bash
-flatpak uninstall --user --delete-data org.kiwix.desktop it.tumic.GPXSee
+flatpak uninstall --user --delete-data org.kiwix.desktop it.tumic.GPXSee com.zettlr.Zettlr
 flatpak uninstall --unused
 ```
 
@@ -325,12 +338,13 @@ Togli `--user` se li avevi installati a livello di sistema.
 
 **Versione portatile di kiwix-serve**: era in `project-racoon-dati/bin/`, quindi è già stata cancellata al passo 3.
 
-**Windows 10 e 11**: *Impostazioni → App → App installate*, poi disinstalla **Kiwix** e **GPXSee**. Se avevi copiato `kiwix-serve.exe`, era in `project-racoon-dati\bin\` (già cancellato).
+**Windows 10 e 11**: *Impostazioni → App → App installate*, poi disinstalla **Kiwix**, **GPXSee** e **Zettlr**. Se avevi copiato `kiwix-serve.exe`, era in `project-racoon-dati\bin\` (già cancellato).
 
-**macOS**: trascina **Kiwix** e **GPXSee** da *Applicazioni* al Cestino. Se avevi installato kiwix-serve con Homebrew:
+**macOS**: trascina **Kiwix**, **GPXSee** e **Zettlr** da *Applicazioni* al Cestino. Se avevi usato Homebrew:
 
 ```bash
 brew uninstall kiwix-tools
+brew uninstall --cask zettlr
 ```
 
 ### Passo 5. Cancellare impostazioni e file residui
@@ -346,34 +360,36 @@ rm -f ~/.local/share/gpxsee/maps/italy.map
 rm -rf ~/.config/gpxsee ~/.local/share/gpxsee ~/.cache/gpxsee
 rm -rf ~/.config/kiwix ~/.local/share/kiwix ~/.cache/kiwix
 rm -rf ~/.local/share/kiwix-desktop ~/.cache/kiwix-desktop
+# impostazioni di Zettlr
+rm -rf ~/.config/Zettlr
 # dati delle versioni Flatpak, se ne restano
-rm -rf ~/.var/app/org.kiwix.desktop ~/.var/app/it.tumic.GPXSee
+rm -rf ~/.var/app/org.kiwix.desktop ~/.var/app/it.tumic.GPXSee ~/.var/app/com.zettlr.Zettlr
 ```
 
 Alcune cartelle potrebbero non esistere: è normale. Per controllare che non sia rimasto niente:
 
 ```bash
-find ~ -maxdepth 4 \( -iname '*kiwix*' -o -iname '*gpxsee*' \) 2>/dev/null
+find ~ -maxdepth 4 \( -iname '*kiwix*' -o -iname '*gpxsee*' -o -iname '*zettlr*' \) 2>/dev/null
 ```
 
 **Windows** (PowerShell): per vedere le cartelle residue, prima di cancellarle a mano.
 
 ```powershell
 Get-ChildItem $env:APPDATA, $env:LOCALAPPDATA -Directory |
-  Where-Object Name -match 'kiwix|gpxsee'
+  Where-Object Name -match 'kiwix|gpxsee|zettlr'
 ```
 
 **macOS**
 
 ```bash
-find ~/Library -maxdepth 3 \( -iname '*kiwix*' -o -iname '*gpxsee*' \) 2>/dev/null
+find ~/Library -maxdepth 3 \( -iname '*kiwix*' -o -iname '*gpxsee*' -o -iname '*zettlr*' \) 2>/dev/null
 ```
 
 Controlla l'elenco e cancella le cartelle trovate con `rm -rf "percorso"`. Le impostazioni dell'app Kiwix dell'App Store di solito sono in `~/Library/Containers/`.
 
 ### Passo 6. Telefono
 
-1. In **Obsidian**: rimuovi il vault dalla lista e cancella la sua cartella.
+1. **Wiki**: cancella la sua cartella dal telefono (con Markor o con l'app dei file). Poi disinstalla **Markor**, se non ti serve per altro.
 2. In **Kiwix**: elimina i file `.zim` dalla libreria (tieni premuto sul libro e scegli *Elimina*). Poi disinstalla l'app.
 3. In **Organic Maps** o **OsmAnd**: cancella le mappe scaricate dal menu *Mappe scaricate* e poi disinstalla l'app.
 

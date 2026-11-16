@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 07 Schemi a blocchi e ROS
 
-> [!summary] In breve
+> **In breve**
 > **Ricevitore supereterodina**: antenna → amplificatore RF → **mixer** (con oscillatore locale) → **media frequenza (FI)** → rivelatore → amplificatore audio → altoparlante.
 > **Frequenza immagine**: dista **2 × FI** dalla frequenza voluta; si riduce con filtri prima del mixer e con una FI alta.
 > **Trasmettitore**: oscillatore → (moltiplicatori) → modulatore → amplificatori → **filtro** → antenna.
@@ -30,7 +30,7 @@ Antenna → Filtro/ampl. RF → MIXER → Filtro FI → Ampl. FI → Rivelatore 
 1. **Amplificatore RF**: amplifica il segnale dell'antenna e filtra le frequenze lontane.
 2. **Mixer**: mescola il segnale (fs) con l'oscillatore locale (fol). In uscita ci sono la **somma** e la **differenza**: fs + fol e |fs − fol|.
 3. **Media frequenza (FI)**: un filtro fisso che lascia passare solo la differenza (per esempio 455 kHz o 10,7 MHz). Cambiando fol si sintonizzano stazioni diverse, ma la FI resta la stessa: così si usano **filtri ottimi** a frequenza fissa.
-4. **Rivelatore (demodulatore)**: estrae l'audio (vedi [[12 Modulazioni AM e FM]]).
+4. **Rivelatore (demodulatore)**: estrae l'audio (vedi [12 Modulazioni AM e FM](12%20Modulazioni%20AM%20e%20FM.md)).
 5. **Amplificatore di bassa frequenza (BF)**: porta l'audio all'altoparlante.
 6. **CAG** (controllo automatico di guadagno): riduce l'amplificazione con segnali forti.
 
@@ -54,7 +54,7 @@ Oscillatore → Separatore/Moltiplicatore → Modulatore → Pilota → Finale �
 - **Moltiplicatore**: moltiplica la frequenza (es. ×3).
 - **Modulatore**: inserisce l'informazione (voce, dati).
 - **Amplificatore finale**: porta la potenza al valore voluto.
-- **Filtro passa-basso**: elimina le **armoniche** (vedi [[03 Corrente alternata]]).
+- **Filtro passa-basso**: elimina le **armoniche** (vedi [03 Corrente alternata](03%20Corrente%20alternata.md)).
 
 Un ricetrasmettitore SSB moderno usa la stessa catena (mixer, FI, filtri) sia in trasmissione sia in ricezione.
 
@@ -93,7 +93,7 @@ Si inserisce tra trasmettitore e cavo: misura potenza **diretta** e **riflessa**
 2. Antenna da 150 Ω collegata a un cavo da 50 Ω: ROS?
 3. A cosa serve il filtro passa-basso all'uscita del trasmettitore?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. OL = 155,7 MHz; immagine = 145 + 2 × 10,7 = **166,4 MHz**.
 > 2. 150 ÷ 50 = **3:1**.
 > 3. A **ridurre le armoniche** (emissioni indesiderate).
@@ -106,8 +106,8 @@ Si inserisce tra trasmettitore e cavo: misura potenza **diretta** e **riflessa**
 
 ## Per saperne di più
 
-- [[CB 27 MHz]] (regolare il ROS in pratica)
-- [[08 Trasformatori e circuiti RLC]]
+- [CB 27 MHz](../Radio%20senza%20licenza/CB%2027%20MHz.md) (regolare il ROS in pratica)
+- [08 Trasformatori e circuiti RLC](08%20Trasformatori%20e%20circuiti%20RLC.md)
 
 ## Fonti
 

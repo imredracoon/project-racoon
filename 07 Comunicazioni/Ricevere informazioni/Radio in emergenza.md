@@ -8,8 +8,8 @@ ultima_revisione: 2026-11-16
 
 # Radio in emergenza
 
-> [!summary] In breve
-> Quando telefono e Internet non funzionano, la **radio FM** è il modo più affidabile per ricevere le istruzioni delle autorità. Tieni in casa una **radio a pile o a manovella** e scrivi **adesso** sulla [[Tabella canali e frequenze]] le frequenze di **RAI Radio 1** e delle radio locali della tua zona.
+> **In breve**
+> Quando telefono e Internet non funzionano, la **radio FM** è il modo più affidabile per ricevere le istruzioni delle autorità. Tieni in casa una **radio a pile o a manovella** e scrivi **adesso** sulla [Tabella canali e frequenze](../Frequenze%20e%20tabelle/Tabella%20canali%20e%20frequenze.md) le frequenze di **RAI Radio 1** e delle radio locali della tua zona.
 
 ## Perché è importante
 
@@ -23,11 +23,11 @@ Le trasmissioni radio partono da pochi grandi ripetitori, con generatori di emer
 | **Isoradio** (103.3 FM in gran parte della rete autostradale) | informazioni su strade e autostrade |
 | **Radio locali** della tua provincia | notizie molto vicine a te, spesso collegate al Comune |
 
-Le frequenze cambiano da zona a zona: cercale **ora**, mentre tutto funziona, e scrivile sulla [[Tabella canali e frequenze]].
+Le frequenze cambiano da zona a zona: cercale **ora**, mentre tutto funziona, e scrivile sulla [Tabella canali e frequenze](../Frequenze%20e%20tabelle/Tabella%20canali%20e%20frequenze.md).
 
 ## Cosa ti serve
 
-- Una **radio portatile FM** a pile, meglio se anche **a manovella o con pannellino solare**. Vedi [[Scegliere una radio d'emergenza]].
+- Una **radio portatile FM** a pile, meglio se anche **a manovella o con pannellino solare**. Vedi [Scegliere una radio d'emergenza](Scegliere%20una%20radio%20d%27emergenza.md).
 - **Pile di ricambio** della misura giusta.
 - Facoltativo: auricolari, per ascoltare senza disturbare e consumare meno.
 
@@ -38,7 +38,7 @@ Le frequenze cambiano da zona a zona: cercale **ora**, mentre tutto funziona, e 
 3. Cerca le stazioni scorrendo la banda **FM** (da 87.5 a 108 MHz) e annota le frequenze di RAI Radio 1 e delle radio locali.
 4. Se la radio ha le **memorie**, salvale.
 5. Prova anche in **cantina o al piano terra**: in alcuni punti della casa si sente peggio. Trova il posto migliore (di solito vicino a una finestra).
-6. Metti la radio nel [[Kit 72 ore UE|kit di emergenza]], con le pile **fuori** dalla radio (così non si scaricano e non perdono acido).
+6. Metti la radio nel [kit di emergenza](../../01%20Preparazione/Kit%2072%20ore%20UE.md), con le pile **fuori** dalla radio (così non si scaricano e non perdono acido).
 
 ## Durante l'emergenza
 

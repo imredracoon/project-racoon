@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Codice Morse e segnali
 
-> [!summary] In breve
+> **In breve**
 > **SOS** in Morse: **· · ·  – – –  · · ·** (tre corti, tre lunghi, tre corti). Si può fare con luce, fischietto, colpi su un tubo.
 > Regola generale: **tre segnali uguali** (tre fischi, tre colpi, tre lampi, tre fuochi in fila) = **chiedo aiuto**.
 > In montagna il segnale internazionale è **6 segnali al minuto**, poi un minuto di pausa; la risposta è **3 al minuto**.
@@ -65,9 +65,9 @@ Impara almeno **SOS** e il tuo nome in Morse. Prova con la torcia del telefono o
 
 ## Per saperne di più
 
-- [[Alfabeto fonetico]]
-- [[Terremoto]]
-- [[Messaggi via satellite]]
+- [Alfabeto fonetico](../Radio%20senza%20licenza/Alfabeto%20fonetico.md)
+- [Terremoto](../../02%20Scenari/Terremoto.md)
+- [Messaggi via satellite](../Reti%20mesh%20e%20digitali/Messaggi%20via%20satellite.md)
 
 ## Fonti
 

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Fonti ufficiali e disinformazione
 
-> [!summary] In breve
+> **In breve**
 > Durante un'emergenza girano molte **notizie false**, anche in buona fede. Fidati solo di **fonti ufficiali**: Protezione Civile nazionale e regionale, il tuo **Comune**, la **Prefettura**, i vigili del fuoco, la RAI. Prima di inoltrare un messaggio chiediti: **chi lo dice? quando? dove posso verificarlo?** Nel dubbio, **non inoltrare**.
 
 ## Perché è importante
@@ -24,10 +24,10 @@ Una notizia falsa può far scappare le persone nella direzione sbagliata, intasa
 | Il tuo **Comune** | sito, app o canale ufficiale, altoparlanti, polizia locale |
 | **Prefettura** | sito della Prefettura della tua provincia |
 | Vigili del Fuoco | profili ufficiali @vigilidelfuoco |
-| **IT-Alert** | messaggio sul cellulare: [[IT-Alert]] |
-| Radio e TV pubbliche | RAI: [[Radio in emergenza]] |
+| **IT-Alert** | messaggio sul cellulare: [IT-Alert](IT-Alert.md) |
+| Radio e TV pubbliche | RAI: [Radio in emergenza](Radio%20in%20emergenza.md) |
 
-**Scrivi adesso** sulla [[Tabella canali e frequenze]] i siti e i canali ufficiali del tuo Comune.
+**Scrivi adesso** sulla [Tabella canali e frequenze](../Frequenze%20e%20tabelle/Tabella%20canali%20e%20frequenze.md) i siti e i canali ufficiali del tuo Comune.
 
 ## Passo per passo: verificare un messaggio
 

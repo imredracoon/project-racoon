@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Come funziona la biblioteca offline
 
-> [!summary] In breve
+> **In breve**
 > Questa wiki contiene guide brevi. Per approfondire puoi avere sul computer anche **Wikipedia** e le **mappe**, consultabili senza Internet. Sono file grandi, quindi stanno in una cartella separata, accanto alla wiki. Si leggono con due programmi gratuiti: **Kiwix** per Wikipedia e **GPXSee** per le mappe (sul telefono Organic Maps o OsmAnd).
 
 ## Perché è importante
@@ -18,7 +18,7 @@ Durante un'emergenza Internet può non funzionare per giorni. Avere Wikipedia e 
 ## Come sono organizzati i file
 
 ```
-Documenti/obsidian/
+Documenti/
 ├── project-racoon/          ← questa wiki (meno di 150 MB), script in strumenti/
 └── project-racoon-dati/     ← la biblioteca (pesante, da 5 a 60 GB)
     ├── zim/                 ← Wikipedia e le altre raccolte
@@ -48,16 +48,16 @@ Tenerle separate ha due vantaggi: la wiki si copia e si aggiorna in pochi second
 
 ## Passo per passo
 
-1. [[Installare Kiwix]]
-2. [[Scaricare Wikipedia e le altre raccolte]]
-3. [[Aprire Wikipedia dentro Obsidian]]
-4. [[Installare le mappe offline sul PC]]
-5. [[Installare le mappe offline sul telefono]]
-6. Ogni 6–12 mesi: [[Aggiornare Wikipedia e le mappe]]
+1. [Installare Kiwix](Installare%20Kiwix.md)
+2. [Scaricare Wikipedia e le altre raccolte](Scaricare%20Wikipedia%20e%20le%20altre%20raccolte.md)
+3. [Aprire Wikipedia nel browser](Aprire%20Wikipedia%20nel%20browser.md)
+4. [Installare le mappe offline sul PC](Installare%20le%20mappe%20offline%20sul%20PC.md)
+5. [Installare le mappe offline sul telefono](Installare%20le%20mappe%20offline%20sul%20telefono.md)
+6. Ogni 6–12 mesi: [Aggiornare Wikipedia e le mappe](Aggiornare%20Wikipedia%20e%20le%20mappe.md)
 
 ## Parole nuove
 
 - **Offline**: che funziona senza Internet.
 - **File ZIM**: un unico file che contiene un intero sito (per esempio tutta Wikipedia) compresso. Si apre con Kiwix.
 
-← [[16 Biblioteca offline]]
+← [16 Biblioteca offline](16%20Biblioteca%20offline.md)

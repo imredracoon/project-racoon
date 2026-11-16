@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Parto d'emergenza
 
-> [!summary] In breve
+> **In breve**
 > Chiama il **112** e **resta in linea**: l'operatore ti guiderà passo per passo.
 > Il parto è un evento **naturale** e quasi sempre va bene da solo. Il tuo compito è **accogliere** il bambino, non tirarlo.
 > Appena nato: **asciugalo**, mettilo **pelle a pelle** sul petto della mamma, **coprite** entrambi. Non tagliare il cordone se arrivano i soccorsi.
@@ -55,8 +55,8 @@ In un'emergenza (strade bloccate, ambulanze lontane) un bambino può nascere pri
 
 ## Per saperne di più
 
-- [[Chiamare il 112]]
-- [[Bambini piccoli]]
+- [Chiamare il 112](Chiamare%20il%20112.md)
+- [Bambini piccoli](../13%20Persone%20e%20animali%20vulnerabili/Bambini%20piccoli.md)
 
 ## Fonti
 

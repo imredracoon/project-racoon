@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Disidratazione
 
-> [!summary] In breve
+> **In breve**
 > Con diarrea, vomito, febbre o caldo il corpo perde acqua e sali. Bevi a **piccoli sorsi frequenti** una **soluzione reidratante**: in farmacia (sali reidratanti) o fatta in casa con **1 litro d'acqua sicura + 6 cucchiaini rasi di zucchero + mezzo cucchiaino raso di sale**. Chiama il medico o il 112 per bambini piccoli, anziani, o se non riesce a bere, non urina o è confuso.
 
 ## Come riconoscerla
@@ -23,7 +23,7 @@ ultima_revisione: 2026-11-16
 
 1. **Bevi a piccoli sorsi**, spesso, anche se hai nausea (un cucchiaio ogni pochi minuti, poi di più).
 2. Usa una **soluzione reidratante orale**:
-   - **in farmacia**: bustine di sali reidratanti (tienine qualcuna nel [[Kit di primo soccorso]]);
+   - **in farmacia**: bustine di sali reidratanti (tienine qualcuna nel [Kit di primo soccorso](Kit%20di%20primo%20soccorso.md));
    - **fatta in casa** (ricetta dell'Organizzazione Mondiale della Sanità): **1 litro** di acqua potabile o bollita e raffreddata, **6 cucchiaini rasi di zucchero**, **mezzo cucchiaino raso di sale**. Mescola fino a sciogliere. Usala entro 24 ore.
 3. **Neonati allattati**: continua ad allattare più spesso.
 4. **Mangia** appena riesci: cibi semplici (riso, pane, banane, patate).

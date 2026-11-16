@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Contanti
 
-> [!summary] In breve
+> **In breve**
 > Durante un blackout o un attacco informatico **carte, bancomat e pagamenti con il telefono possono non funzionare**. Tieni in casa una piccola riserva di **contanti in banconote piccole e monete**: indicativamente quanto basta per **qualche giorno di spesa, benzina e farmaci** (per esempio 100-300 euro a famiglia), divisa tra casa e zaino.
 
 ## Perché è importante
@@ -20,7 +20,7 @@ Nelle prime ore di un'emergenza chi ha contanti può comprare acqua, cibo, benzi
 1. Decidi una cifra sostenibile per la tua famiglia.
 2. Chiedi in banca o al bancomat **banconote piccole**: da 5, 10 e 20 euro. In emergenza nessuno ha il resto per 50 o 100 euro.
 3. Aggiungi qualche **moneta**.
-4. Dividi i soldi: una parte nello [[Zaino di evacuazione|zaino]], una parte in casa in un posto nascosto, una parte nel portafoglio.
+4. Dividi i soldi: una parte nello [zaino](../01%20Preparazione/Zaino%20di%20evacuazione.md), una parte in casa in un posto nascosto, una parte nel portafoglio.
 5. **Non usarli** per le spese di tutti i giorni. Se li prendi, rimettili.
 
 ## Errori da evitare
@@ -31,7 +31,7 @@ Nelle prime ore di un'emergenza chi ha contanti può comprare acqua, cibo, benzi
 
 ## Per saperne di più
 
-- [[Pagare durante un blackout o un attacco informatico]]
+- [Pagare durante un blackout o un attacco informatico](Pagare%20durante%20un%20blackout%20o%20un%20attacco%20informatico.md)
 
 ## Fonti
 

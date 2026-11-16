@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Modelli di messaggio
 
-> [!summary] In breve
+> **In breve**
 > Un buon messaggio d'emergenza risponde a: **CHI** sei, **DOVE** sei, **COSA** succede, **QUANTE** persone, **COSA SERVE**.
 > Scrivilo **prima** di parlare o di mandarlo. Leggilo **piano** e fai **ripetere** a chi riceve.
 > Per i familiari basta un SMS di **stato**: "Sto bene / sono a ... / vado a ... / prossimo contatto alle ...".
@@ -62,7 +62,7 @@ Chi riceve **rilegge** tutto per conferma e annota l'ora di ricezione.
 
 1. **Scrivi** il messaggio su carta usando il modello.
 2. **Controlla** che ci siano luogo e numero di persone: sono i dati più importanti.
-3. **Leggi** piano. In radio, numeri cifra per cifra e nomi con l'[[Alfabeto fonetico]].
+3. **Leggi** piano. In radio, numeri cifra per cifra e nomi con l'[Alfabeto fonetico](../Radio%20senza%20licenza/Alfabeto%20fonetico.md).
 4. **Chiedi** di ripetere: "Ripeti il luogo".
 5. **Annota** ora e risposta ricevuta.
 
@@ -74,10 +74,10 @@ Chi riceve **rilegge** tutto per conferma e annota l'ora di ricezione.
 
 ## Per saperne di più
 
-- [[Chiamare il 112]]
-- [[Come si parla in radio]]
-- [[Coordinate e come comunicarle]]
-- [[Scheda comunicazioni]]
+- [Chiamare il 112](../../04%20Salute%20e%20primo%20soccorso/Chiamare%20il%20112.md)
+- [Come si parla in radio](../Radio%20senza%20licenza/Come%20si%20parla%20in%20radio.md)
+- [Coordinate e come comunicarle](../../09%20Orientamento%20e%20mappe/Coordinate%20e%20come%20comunicarle.md)
+- [Scheda comunicazioni](../../90%20Schede%20stampabili/Scheda%20comunicazioni.md)
 
 ## Fonti
 

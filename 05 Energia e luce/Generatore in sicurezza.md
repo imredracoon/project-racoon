@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Generatore in sicurezza
 
-> [!summary] In breve
+> **In breve**
 > Il generatore a benzina produce **monossido di carbonio**, un gas invisibile e senza odore che **uccide in pochi minuti**.
 > Usalo **solo all'aperto**, ad almeno **6 metri** da porte e finestre, mai in garage, cantina, balcone chiuso o tenda.
 > **Non collegarlo all'impianto di casa** attaccandolo a una presa: può fulminare chi lavora sulla linea.
@@ -24,7 +24,7 @@ Ogni inverno e dopo ogni grande blackout ci sono morti per monossido di carbonio
 - Carburante in **taniche omologate**, conservato fuori casa, lontano da fonti di calore.
 - **Rilevatore di monossido di carbonio** a batteria in casa (costa 20-30 euro).
 - Prolunghe da esterno, di sezione adeguata (almeno 2,5 mm²), senza danni.
-- Estintore a polvere o CO₂ (vedi [[Usare l'estintore]]).
+- Estintore a polvere o CO₂ (vedi [Usare l'estintore](../08%20Sicurezza%20ed%20evacuazione/Usare%20l%27estintore.md)).
 
 ## Passo per passo
 
@@ -58,8 +58,8 @@ Mal di testa, nausea, vertigini, sonnolenza, confusione, più persone o animali 
 
 ## Per saperne di più
 
-- [[Pannello solare e power station]] (alternativa senza fumi)
-- [[Blackout prolungato]]
+- [Pannello solare e power station](Pannello%20solare%20e%20power%20station.md) (alternativa senza fumi)
+- [Blackout prolungato](../02%20Scenari/Blackout%20prolungato.md)
 
 ## Fonti
 

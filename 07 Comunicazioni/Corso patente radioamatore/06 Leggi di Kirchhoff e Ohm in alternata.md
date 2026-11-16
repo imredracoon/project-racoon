@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 06 Leggi di Kirchhoff e Ohm in alternata
 
-> [!summary] In breve
+> **In breve**
 > **1ª legge di Kirchhoff (nodi)**: la somma delle correnti che **entrano** in un nodo è uguale alla somma di quelle che **escono**.
 > **2ª legge (maglie)**: in un percorso chiuso la somma delle tensioni dei generatori è uguale alla somma delle **cadute** di tensione.
 > In alternata l'opposizione totale si chiama **impedenza** Z (ohm). Con R e X in serie: **Z = √(R² + X²)**.
@@ -66,7 +66,7 @@ Esempio: Z = 50 Ω, 100 V, 2 A, cos φ = 30/50 = 0,6 → S = 200 VA, P = 200 × 
 2. R = 6 Ω e XL = 8 Ω in serie: quanto vale Z?
 3. Quale delle tre potenze si misura in watt?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. 5 + 2 − 4 = **3 A**.
 > 2. √(36 + 64) = **10 Ω**.
 > 3. La potenza **attiva**.
@@ -78,8 +78,8 @@ Esempio: Z = 50 Ω, 100 V, 2 A, cos φ = 30/50 = 0,6 → S = 200 VA, P = 200 × 
 
 ## Per saperne di più
 
-- [[05 Elettromagnetismo e induttori]]
-- [[07 Schemi a blocchi e ROS]]
+- [05 Elettromagnetismo e induttori](05%20Elettromagnetismo%20e%20induttori.md)
+- [07 Schemi a blocchi e ROS](07%20Schemi%20a%20blocchi%20e%20ROS.md)
 
 ## Fonti
 

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Rifiuti e WC senza scarico
 
-> [!summary] In breve
+> **In breve**
 > Se manca l'acqua o le fogne sono danneggiate, **non tirare lo sciacquone**: i liquami possono tornare indietro in casa.
 > Fai un **WC d'emergenza**: secchio con coperchio, **due sacchi** robusti, un po' di **materiale assorbente** (lettiera per gatti, segatura, terra) o candeggina diluita.
 > Chiudi bene i sacchi e tienili **fuori casa**, al riparo, lontano da acqua e cibo.
@@ -50,7 +50,7 @@ Le malattie che si diffondono con le feci (diarrea, epatite A, colera nei casi p
 
 ### Igiene
 - Lavati le mani **sempre** dopo il WC e prima di toccare cibo: acqua e sapone o gel con almeno il 60% di alcol.
-- Disinfetta la seduta e le maniglie ogni giorno: [[Disinfettare con la candeggina]].
+- Disinfetta la seduta e le maniglie ogni giorno: [Disinfettare con la candeggina](Disinfettare%20con%20la%20candeggina.md).
 
 ## Errori da evitare
 
@@ -60,8 +60,8 @@ Le malattie che si diffondono con le feci (diarrea, epatite A, colera nei casi p
 
 ## Per saperne di più
 
-- [[Igiene senza acqua corrente]]
-- [[Interruzione dell'acqua di rete]]
+- [Igiene senza acqua corrente](Igiene%20senza%20acqua%20corrente.md)
+- [Interruzione dell'acqua di rete](../02%20Scenari/Interruzione%20dell%27acqua%20di%20rete.md)
 
 ## Fonti
 

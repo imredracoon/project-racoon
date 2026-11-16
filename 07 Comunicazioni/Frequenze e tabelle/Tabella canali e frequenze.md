@@ -8,8 +8,8 @@ ultima_revisione: 2026-11-16
 
 # Tabella canali e frequenze
 
-> [!tip] Da stampare
-> Compila questa tabella **adesso**, stampala e mettine una copia nel [[Kit 72 ore UE|kit]] e una nello [[Zaino di evacuazione|zaino]]. I campi vuoti sono da riempire con i dati della tua zona.
+> **Consiglio: Da stampare**
+> Compila questa tabella **adesso**, stampala e mettine una copia nel [kit](../../01%20Preparazione/Kit%2072%20ore%20UE.md) e una nello [zaino](../../01%20Preparazione/Zaino%20di%20evacuazione.md). I campi vuoti sono da riempire con i dati della tua zona.
 
 ## Radio da ascoltare (FM)
 
@@ -20,7 +20,7 @@ ultima_revisione: 2026-11-16
 | Radio locale 1: ____________ | ______ MHz |
 | Radio locale 2: ____________ | ______ MHz |
 
-Come trovarle: [[Radio in emergenza]].
+Come trovarle: [Radio in emergenza](../Ricevere%20informazioni/Radio%20in%20emergenza.md).
 
 ## Canali della famiglia
 
@@ -31,7 +31,7 @@ Come trovarle: [[Radio in emergenza]].
 | CB 27 MHz (se l'avete) | ____ | — |
 | Orari di ascolto concordati | ______________ | |
 
-Come usarli: [[PMR446]].
+Come usarli: [PMR446](../Radio%20senza%20licenza/PMR446.md).
 
 ## Canali PMR446 (analogici)
 
@@ -55,10 +55,10 @@ Il **canale 8 senza sottotono** è usato per consuetudine da alcuni gruppi europ
 | Protezione Civile del mio Comune | ______________________ |
 | Prefettura | ______________________ |
 | Protezione Civile Regione Puglia | sito della Regione Puglia |
-| IT-Alert | arriva da solo sul cellulare: [[IT-Alert]] |
+| IT-Alert | arriva da solo sul cellulare: [IT-Alert](../Ricevere%20informazioni/IT-Alert.md) |
 
 ## Numeri
 
-Vedi [[Numeri di emergenza]] e la [[Scheda contatti e piano familiare]].
+Vedi [Numeri di emergenza](../Comunicare%20con%20la%20rete%20in%20crisi/Numeri%20di%20emergenza.md) e la [Scheda contatti e piano familiare](../../90%20Schede%20stampabili/Scheda%20contatti%20e%20piano%20familiare.md).
 
-← [[Frequenze e tabelle]]
+← [Frequenze e tabelle](Frequenze%20e%20tabelle.md)

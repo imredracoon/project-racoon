@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Dopo l'emergenza
 
-> [!summary] In breve
+> **In breve**
 > **Rientra** a casa solo quando le autorità lo permettono. Prima di entrare, guarda se ci sono **crepe, odore di gas, fili scoperti, acqua**.
 > **Fotografa** i danni prima di riparare o buttare: servono per assicurazione e rimborsi.
 > **Butta** cibo e medicine toccati dall'acqua o rimasti senza frigo a lungo.
@@ -25,13 +25,13 @@ Molti incidenti avvengono **dopo** l'evento: crolli di edifici danneggiati, into
 2. Guarda da fuori: **crepe** grandi, muri inclinati, tetto danneggiato? **Non entrare**, chiedi un sopralluogo.
 3. **Odore di gas**: non accendere luci né fiamme, non usare il telefono dentro, esci, chiama il **112** dall'esterno.
 4. Entra con **scarpe robuste**, guanti e una torcia (non candele).
-5. Lascia l'**interruttore generale** staccato finché non hai controllato che non ci sia acqua sull'impianto ([[Riparazioni elettriche di base]]).
+5. Lascia l'**interruttore generale** staccato finché non hai controllato che non ci sia acqua sull'impianto ([Riparazioni elettriche di base](../12%20Riparazioni%20e%20attrezzi/Riparazioni%20elettriche%20di%20base.md)).
 
 ### 2. Documentare
 1. **Foto e video** di tutti i danni, stanza per stanza, prima di pulire.
 2. Conserva **scontrini** di riparazioni e acquisti urgenti.
 3. Segnala i danni al **Comune** (che raccoglie le schede per i contributi) e all'**assicurazione**.
-4. Segui solo canali ufficiali per i **rimborsi**: attenzione alle truffe ([[Sicurezza personale nel caos]]).
+4. Segui solo canali ufficiali per i **rimborsi**: attenzione alle truffe ([Sicurezza personale nel caos](../08%20Sicurezza%20ed%20evacuazione/Sicurezza%20personale%20nel%20caos.md)).
 
 ### 3. Cibo, acqua, medicine
 1. Butta il cibo del **frigo** rimasto oltre 4 ore sopra i 5 °C, e quello del congelatore scongelato.
@@ -42,17 +42,17 @@ Molti incidenti avvengono **dopo** l'evento: crolli di edifici danneggiati, into
 ### 4. Pulire
 1. Arieggia bene.
 2. Usa guanti, stivali e mascherina per fango e muffa.
-3. Disinfetta ([[Disinfettare con la candeggina]]).
+3. Disinfetta ([Disinfettare con la candeggina](../10%20Igiene%20e%20sanificazione/Disinfettare%20con%20la%20candeggina.md)).
 
 ### 5. Prenderti cura di te
 1. Riposa, mangia, bevi. Non fare tutto in un giorno.
 2. **Parla** di quello che è successo con chi ti è vicino.
-3. Nota i segnali di stress che non passano: vedi [[Gestire stress e panico]].
+3. Nota i segnali di stress che non passano: vedi [Gestire stress e panico](Gestire%20stress%20e%20panico.md).
 4. Aiuta i vicini, ma senza trascurare te stesso.
 
 ### 6. Imparare
 1. Riunisci la famiglia: **cosa ha funzionato** e **cosa no**?
-2. Aggiorna il [[Piano familiare di emergenza]], rifai il [[Kit 72 ore UE|kit]] e le [[Scorte domestiche per due settimane|scorte]] consumate.
+2. Aggiorna il [Piano familiare di emergenza](../01%20Preparazione/Piano%20familiare%20di%20emergenza.md), rifai il [kit](../01%20Preparazione/Kit%2072%20ore%20UE.md) e le [scorte](../01%20Preparazione/Scorte%20domestiche%20per%20due%20settimane.md) consumate.
 
 ## Errori da evitare
 
@@ -62,8 +62,8 @@ Molti incidenti avvengono **dopo** l'evento: crolli di edifici danneggiati, into
 
 ## Per saperne di più
 
-- [[Terremoto]] · [[Alluvione]]
-- [[Documenti da avere in copia]]
+- [Terremoto](../02%20Scenari/Terremoto.md) · [Alluvione](../02%20Scenari/Alluvione.md)
+- [Documenti da avere in copia](../14%20Documenti%20e%20soldi/Documenti%20da%20avere%20in%20copia.md)
 
 ## Fonti
 

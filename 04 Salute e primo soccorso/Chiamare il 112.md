@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Chiamare il 112
 
-> [!summary] In breve
+> **In breve**
 > Chiama il **112** (oppure il **118** per un'emergenza sanitaria: funziona ancora). Resta calmo e rispondi alle domande: **dove sei, cosa è successo, quante persone, se respirano**. **Non riattaccare per primo**: lo fa l'operatore. Metti il vivavoce, così puoi aiutare la persona mentre ti guidano.
 
 ## Perché è importante
@@ -37,7 +37,7 @@ Una chiamata fatta bene fa arrivare l'aiuto giusto più in fretta. L'operatore p
 ## Errori da evitare
 
 - **Riattaccare troppo presto**: l'operatore potrebbe aver bisogno di altre informazioni.
-- **Chiamare per avere notizie** durante un'emergenza grande (terremoto, alluvione): blocchi le linee a chi ha bisogno. Per le notizie ascolta la radio, vedi [[Radio in emergenza]].
+- **Chiamare per avere notizie** durante un'emergenza grande (terremoto, alluvione): blocchi le linee a chi ha bisogno. Per le notizie ascolta la radio, vedi [Radio in emergenza](../07%20Comunicazioni/Ricevere%20informazioni/Radio%20in%20emergenza.md).
 - **Spostare il ferito** per portarlo in ospedale da solo, se non c'è un pericolo immediato.
 
 ## Parole nuove
@@ -47,8 +47,8 @@ Una chiamata fatta bene fa arrivare l'aiuto giusto più in fretta. L'operatore p
 
 ## Per saperne di più
 
-- [[Valutare una persona ferita]]
-- [[Numeri di emergenza]]
+- [Valutare una persona ferita](Valutare%20una%20persona%20ferita.md)
+- [Numeri di emergenza](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/Numeri%20di%20emergenza.md)
 
 ## Fonti
 

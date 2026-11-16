@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Scheda primo soccorso
 
-> [!danger] Pericolo di vita? Chiama il **112** e metti il vivavoce.
+> **Pericolo: Pericolo di vita? Chiama il **112** e metti il vivavoce.**
 
 ## 1. Sicurezza, coscienza, respiro
 1. **La zona è sicura?** Se no, non avvicinarti.
@@ -42,6 +42,6 @@ ultima_revisione: 2026-11-16
 - **Non muovere**. Tieni ferma la parte come la trovi. Freddo avvolto in un panno.
 - Possibile trauma a **testa, collo, schiena** → **non spostare**.
 
-Guide complete: [[Valutare una persona ferita]] · [[Rianimazione cardiopolmonare e DAE]] · [[Soffocamento]] · [[Emorragie e laccio emostatico]] · [[Ustioni]] · [[Fratture e immobilizzazione]]
+Guide complete: [Valutare una persona ferita](../04%20Salute%20e%20primo%20soccorso/Valutare%20una%20persona%20ferita.md) · [Rianimazione cardiopolmonare e DAE](../04%20Salute%20e%20primo%20soccorso/Rianimazione%20cardiopolmonare%20e%20DAE.md) · [Soffocamento](../04%20Salute%20e%20primo%20soccorso/Soffocamento.md) · [Emorragie e laccio emostatico](../04%20Salute%20e%20primo%20soccorso/Emorragie%20e%20laccio%20emostatico.md) · [Ustioni](../04%20Salute%20e%20primo%20soccorso/Ustioni.md) · [Fratture e immobilizzazione](../04%20Salute%20e%20primo%20soccorso/Fratture%20e%20immobilizzazione.md)
 
 *Fonti: European Resuscitation Council, Linee guida 2025. Questa scheda non sostituisce un corso.*

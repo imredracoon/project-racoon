@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 13 Antenne e propagazione
 
-> [!summary] In breve
+> **In breve**
 > **Dipolo a mezz'onda**: lungo **λ/2** (in pratica λ/2 × 0,95), impedenza circa **73 Ω** al centro, irradia di più **di lato** al filo.
 > **Verticale a quarto d'onda (ground plane)**: lunga **λ/4**, circa **36 Ω** (50 Ω con i radiali inclinati), irradia **in tutte le direzioni** orizzontali.
 > **Yagi**: elemento alimentato + **riflettore** dietro (più lungo) + **direttori** davanti (più corti) = **guadagno** in una direzione.
@@ -36,7 +36,7 @@ Se trasmettitore e ricevitore hanno polarizzazioni diverse in VHF si perdono anc
 
 Esempio: dipolo per 7,1 MHz → 142,5 ÷ 7,1 ≈ **20 m** totali.
 
-Vedi anche [[Antenne di fortuna]] per costruirne uno.
+Vedi anche [Antenne di fortuna](../Radioamatori/Antenne%20di%20fortuna.md) per costruirne uno.
 
 ## La verticale a quarto d'onda
 
@@ -115,7 +115,7 @@ La **ionosfera** (50-500 km di quota) è ionizzata dal Sole e **riflette** (rifr
 3. Quale strato ionosferico assorbe le frequenze basse durante il giorno?
 4. In una Yagi, il riflettore è più lungo o più corto dell'elemento alimentato?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. 142,5 ÷ 14,2 ≈ **10 m**.
 > 2. 6 + 2,15 = **8,15 dBi**.
 > 3. Lo strato **D**.
@@ -130,8 +130,8 @@ La **ionosfera** (50-500 km di quota) è ionizzata dal Sole e **riflette** (rifr
 
 ## Per saperne di più
 
-- [[Antenne di fortuna]]
-- [[14 Regolamenti e procedure operative]]
+- [Antenne di fortuna](../Radioamatori/Antenne%20di%20fortuna.md)
+- [14 Regolamenti e procedure operative](14%20Regolamenti%20e%20procedure%20operative.md)
 
 ## Fonti
 

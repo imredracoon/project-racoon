@@ -8,8 +8,8 @@ ultima_revisione: 2026-11-16
 
 # Manutenzione del kit
 
-> [!summary] In breve
-> Un kit dimenticato non serve. **Ogni 6 mesi** (per esempio al cambio dell'ora, a marzo e ottobre) controlla scadenze, pile, power bank, farmaci, vestiti e documenti. Usa la [[Scheda kit 72 ore]] per segnare la data.
+> **In breve**
+> Un kit dimenticato non serve. **Ogni 6 mesi** (per esempio al cambio dell'ora, a marzo e ottobre) controlla scadenze, pile, power bank, farmaci, vestiti e documenti. Usa la [Scheda kit 72 ore](../90%20Schede%20stampabili/Scheda%20kit%2072%20ore.md) per segnare la data.
 
 ## Calendario
 
@@ -28,7 +28,7 @@ ultima_revisione: 2026-11-16
 4. **Power bank**: ricarica fino all'80%.
 5. **Vestiti**: adatti alla stagione e alle taglie attuali.
 6. **Documenti e contanti**: ci sono? Sono aggiornati?
-7. Rimetti tutto a posto e scrivi la data sulla [[Scheda kit 72 ore]].
+7. Rimetti tutto a posto e scrivi la data sulla [Scheda kit 72 ore](../90%20Schede%20stampabili/Scheda%20kit%2072%20ore.md).
 8. Segna sul calendario il prossimo controllo.
 
 ## Fonti

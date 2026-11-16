@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Meshtastic
 
-> [!summary] In breve
+> **In breve**
 > **Meshtastic** permette di mandare **messaggi di testo** senza Internet e senza rete telefonica, con piccoli dispositivi radio **LoRa** collegati al telefono via Bluetooth.
 > Ogni dispositivo **ripete** i messaggi degli altri: più dispositivi ci sono, più lontano arrivano (rete "mesh").
 > In Europa si usa la banda **868 MHz**, di **libero uso**: non serve patente.
@@ -63,9 +63,9 @@ Con due o più dispositivi Meshtastic la famiglia o il quartiere può scambiarsi
 
 ## Per saperne di più
 
-- [[Piano di comunicazione familiare]]
-- [[App che funzionano senza Internet]]
-- [[Reti mesh e digitali]]
+- [Piano di comunicazione familiare](../Comunicare%20con%20la%20rete%20in%20crisi/Piano%20di%20comunicazione%20familiare.md)
+- [App che funzionano senza Internet](../Comunicare%20con%20la%20rete%20in%20crisi/App%20che%20funzionano%20senza%20Internet.md)
+- [Reti mesh e digitali](Reti%20mesh%20e%20digitali.md)
 
 ## Fonti
 

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Pandemia
 
-> [!summary] In breve
+> **In breve**
 > In un'epidemia o pandemia: **lavati spesso le mani**, **resta a casa se stai male**, **arieggia gli ambienti**, usa la **mascherina FFP2** nei luoghi chiusi e affollati quando lo consigliano le autorità, **vaccinati** secondo le indicazioni. Tieni **2 settimane di scorte** per un eventuale isolamento.
 
 ## Perché è importante
@@ -17,7 +17,7 @@ La pandemia di COVID-19 ha mostrato come una malattia infettiva possa cambiare l
 
 ## Prima
 
-- [ ] [[Scorte domestiche per due settimane]], compresi farmaci abituali.
+- [ ] [Scorte domestiche per due settimane](../01%20Preparazione/Scorte%20domestiche%20per%20due%20settimane.md), compresi farmaci abituali.
 - [ ] Mascherine FFP2, gel per le mani, termometro, saturimetro (facoltativo).
 - [ ] Paracetamolo e farmaci da banco consigliati dal medico.
 - [ ] Vaccinazioni in regola.
@@ -31,7 +31,7 @@ La pandemia di COVID-19 ha mostrato come una malattia infettiva possa cambiare l
 4. **Mascherina FFP2** ben aderente nei luoghi chiusi affollati, sui mezzi, vicino a persone fragili, quando lo raccomandano le autorità.
 5. **Se stai male**: resta a casa, separati dagli altri (stanza e, se possibile, bagno separati), chiama il **medico di famiglia** o la guardia medica. Chiama il **112** solo per sintomi gravi (fatica a respirare, dolore al petto, confusione).
 6. **Informazioni**: solo da Ministero della Salute, Istituto Superiore di Sanità, Regione.
-7. **Benessere**: mantieni orari regolari, muoviti in casa, sentiti con amici e parenti: [[Gestire stress e panico]].
+7. **Benessere**: mantieni orari regolari, muoviti in casa, sentiti con amici e parenti: [Gestire stress e panico](../15%20Supporto%20psicologico/Gestire%20stress%20e%20panico.md).
 
 ## Errori da evitare
 

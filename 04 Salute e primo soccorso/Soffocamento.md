@@ -6,15 +6,15 @@ tempo_lettura: 6 minuti
 ultima_revisione: 2026-11-16
 ---
 
-> [!warning] Questa guida non sostituisce un corso
+> **Attenzione: Questa guida non sostituisce un corso**
 > Leggerla aiuta, ma le manovre si imparano davvero solo provandole con un istruttore. Un corso **BLSD** (rianimazione e defibrillatore) dura poche ore: cercalo presso Croce Rossa, 118 o associazioni di volontariato della tua zona.
 
 # Soffocamento
 
-> [!summary] In breve
+> **In breve**
 > - **Se tossisce forte**: incoraggialo a **continuare a tossire**. Non fare altro.
 > - **Se non riesce a tossire, parlare o respirare**: **5 colpi tra le scapole**, poi **5 compressioni sulla pancia** (manovra di Heimlich). Alterna finché il pezzo esce.
-> - **Se perde i sensi**: chiama il 112 e inizia la [[Rianimazione cardiopolmonare e DAE|rianimazione]].
+> - **Se perde i sensi**: chiama il 112 e inizia la [rianimazione](Rianimazione%20cardiopolmonare%20e%20DAE.md).
 > - **Lattante** (sotto 1 anno): 5 colpi sulla schiena e **5 compressioni sul petto**, mai sulla pancia.
 
 ## Perché è importante
@@ -48,7 +48,7 @@ Chiedile: **"Stai soffocando?"**. Se annuisce e non riesce a parlare, agisci.
 ### Se perde i sensi
 1. Accompagnalo a terra con delicatezza.
 2. Chiama il **112**.
-3. Inizia subito la [[Rianimazione cardiopolmonare e DAE|rianimazione cardiopolmonare]]: le compressioni sul petto possono anche far uscire il pezzo.
+3. Inizia subito la [rianimazione cardiopolmonare](Rianimazione%20cardiopolmonare%20e%20DAE.md): le compressioni sul petto possono anche far uscire il pezzo.
 
 ## Lattante (sotto 1 anno)
 

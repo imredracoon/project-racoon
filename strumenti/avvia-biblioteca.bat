@@ -1,5 +1,5 @@
 @echo off
-rem Accende Wikipedia offline per Obsidian su http://localhost:8080 (Windows).
+rem Accende Wikipedia offline per i link della wiki su http://localhost:8080 (Windows).
 rem Richiede kiwix-serve.exe in project-racoon-dati\bin\ (vedi README).
 rem In alternativa usa Kiwix Desktop: menu -> Server locale -> porta 8080 -> Avvia.
 set DATI=%~dp0..\..\project-racoon-dati

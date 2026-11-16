@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Animali domestici
 
-> [!summary] In breve
+> **In breve**
 > Gli animali fanno parte del piano: prepara un **kit per ogni animale** (cibo e acqua per 7 giorni, guinzaglio, trasportino, medicine, libretto).
 > Il **microchip** deve essere registrato con il tuo numero di telefono aggiornato.
 > **Non lasciarli** in casa durante un'evacuazione se puoi portarli. Chiedi al Comune quali aree accolgono animali.
@@ -26,14 +26,14 @@ Molte persone non evacuano o rientrano in zone pericolose per prendere i propri 
 - [ ] **Guinzaglio**, pettorina, museruola (per i cani; può essere chiesta nei luoghi di accoglienza).
 - [ ] **Trasportino** con il nome e il tuo telefono scritti sopra.
 - [ ] Per i gatti: lettiera piccola e sabbia.
-- [ ] **Libretto sanitario** e vaccinazioni (in copia, vedi [[Documenti da avere in copia]]).
+- [ ] **Libretto sanitario** e vaccinazioni (in copia, vedi [Documenti da avere in copia](../14%20Documenti%20e%20soldi/Documenti%20da%20avere%20in%20copia.md)).
 - [ ] **Foto recente** con te e l'animale (prova che è tuo se si perde).
 - [ ] Un gioco o una coperta con il suo odore, sacchetti per le feci.
 
 ## Passo per passo
 
 1. Controlla che il **microchip** sia registrato all'**anagrafe degli animali d'affezione** della Regione con il tuo numero attuale (chiedi al veterinario).
-2. Prepara il **kit** e mettilo vicino allo [[Zaino di evacuazione|zaino]].
+2. Prepara il **kit** e mettilo vicino allo [zaino](../01%20Preparazione/Zaino%20di%20evacuazione.md).
 3. **Abitua** il gatto o il cane al trasportino: lascialo aperto in casa con una coperta dentro.
 4. Chiedi al **Comune** o alla Protezione Civile come sono gestiti gli animali nelle aree di accoglienza.
 5. Individua **amici o parenti fuori zona** che possano ospitarli.
@@ -58,8 +58,8 @@ Galline, capre, cavalli: se sei in una zona a rischio alluvione o incendio, orga
 
 ## Per saperne di più
 
-- [[Piano familiare di emergenza]]
-- [[Quando evacuare e quando restare]]
+- [Piano familiare di emergenza](../01%20Preparazione/Piano%20familiare%20di%20emergenza.md)
+- [Quando evacuare e quando restare](../08%20Sicurezza%20ed%20evacuazione/Quando%20evacuare%20e%20quando%20restare.md)
 
 ## Fonti
 

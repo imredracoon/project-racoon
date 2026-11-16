@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Riparare vestiti e attrezzatura
 
-> [!summary] In breve
+> **In breve**
 > Con **ago, filo robusto, toppe, spille da balia, nastro americano e colla** si riparano quasi tutti i danni a vestiti, zaini, scarpe e teli.
 > Tre punti bastano: **punto filza** (unire), **sopraggitto** (bordi e strappi), **punto indietro** (cuciture robuste).
 > Per teli e tende: **nastro americano** su entrambi i lati del buco.
@@ -61,8 +61,8 @@ In un'emergenza lunga non si compra facilmente nuovo vestiario. Uno zaino con lo
 
 ## Per saperne di più
 
-- [[Cassetta attrezzi minima]]
-- [[Nodi essenziali]]
+- [Cassetta attrezzi minima](Cassetta%20attrezzi%20minima.md)
+- [Nodi essenziali](Nodi%20essenziali.md)
 
 ## Fonti
 

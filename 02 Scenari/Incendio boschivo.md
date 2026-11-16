@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Incendio boschivo
 
-> [!summary] In breve
+> **In breve**
 > - Se vedi fumo o fiamme in un bosco o in un campo: chiama subito il **112** (o il **115**) e dai la posizione precisa.
 > - **Allontanati** in direzione **opposta al vento** e in **discesa** (il fuoco sale veloce in salita), verso strade, spiagge, zone senza vegetazione.
 > - **Non sostare** su strade strette in mezzo alla vegetazione.

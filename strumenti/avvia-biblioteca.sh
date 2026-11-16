@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Accende Wikipedia offline per Obsidian su http://localhost:8080 (Linux e macOS).
+# Accende Wikipedia offline per i link della wiki su http://localhost:8080 (Linux e macOS).
 # Cerca kiwix-serve nel PATH oppure in project-racoon-dati/bin/. Ctrl+C per spegnere.
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"

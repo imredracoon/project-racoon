@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Cucinare senza corrente
 
-> [!summary] In breve
+> **In breve**
 > Il modo più semplice e sicuro è un **fornellino da campeggio a cartuccia** usato **all'aperto** o vicino a una **finestra aperta**. Risparmia combustibile con la **cottura passiva** (pasta e riso lasciati in acqua calda con il coperchio). **Mai** barbecue, bracieri o fornelli a carbone in casa: **monossido di carbonio**.
 
 ## Opzioni

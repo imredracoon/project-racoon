@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Terremoto
 
-> [!summary] In breve
+> **In breve**
 > **Durante la scossa**: se sei in casa **resta dentro**, riparati **sotto un tavolo robusto** o vicino a un **muro portante**, lontano da finestre e mobili alti. Se sei fuori, allontanati da edifici, alberi e fili elettrici.
 > **Dopo**: esci con calma **senza ascensore**, con le scarpe, chiudi il gas, vai all'**area di attesa** del tuo Comune. Usa il telefono solo per emergenze.
 
@@ -19,10 +19,10 @@ Il terremoto non si può prevedere e dura pochi secondi: non c'è tempo per pens
 ## Prima (adesso, con calma)
 
 - [ ] Fissa al muro mobili alti e pesanti (librerie, armadi) e non mettere oggetti pesanti sopra i letti.
-- [ ] Sappi **dove sono e come si chiudono** gas, acqua e luce: [[Chiudere gas, acqua e luce]].
+- [ ] Sappi **dove sono e come si chiudono** gas, acqua e luce: [Chiudere gas, acqua e luce](../06%20Riparo%2C%20calore%20e%20casa/Chiudere%20gas%2C%20acqua%20e%20luce.md).
 - [ ] Individua in ogni stanza i **punti sicuri**: sotto un tavolo robusto, vicino a muri portanti, sotto le travi o vicino agli angoli.
-- [ ] Prepara il [[Kit 72 ore UE|kit di emergenza]] e lo [[Zaino di evacuazione|zaino]].
-- [ ] Scopri qual è l'**area di attesa** del tuo Comune (piano di protezione civile comunale) e decidi un [[Piano familiare di emergenza|punto di ritrovo]].
+- [ ] Prepara il [kit di emergenza](../01%20Preparazione/Kit%2072%20ore%20UE.md) e lo [zaino](../01%20Preparazione/Zaino%20di%20evacuazione.md).
+- [ ] Scopri qual è l'**area di attesa** del tuo Comune (piano di protezione civile comunale) e decidi un [punto di ritrovo](../01%20Preparazione/Piano%20familiare%20di%20emergenza.md).
 - [ ] Informati su com'è costruita la tua casa: un tecnico può valutarne la sicurezza sismica (esistono incentivi statali).
 
 ## Durante la scossa
@@ -42,16 +42,16 @@ Il terremoto non si può prevedere e dura pochi secondi: non c'è tempo per pens
 - Fermati in un posto lontano da edifici, ponti, cavalcavia e pendii. Resta in auto finché la scossa finisce.
 
 **Se sei sulla costa**
-- Dopo una scossa forte, allontanati dalla spiaggia e sali in alto: potrebbe arrivare un **maremoto**. Vedi [[Tsunami]].
+- Dopo una scossa forte, allontanati dalla spiaggia e sali in alto: potrebbe arrivare un **maremoto**. Vedi [Tsunami](Tsunami.md).
 
 ## Dopo la scossa
 
-1. **Controlla te stesso e chi ti sta vicino**. Se qualcuno è ferito: [[Valutare una persona ferita]].
-2. **Esci con calma**, indossando le **scarpe** (ci saranno vetri e calcinacci), prendendo lo [[Zaino di evacuazione|zaino]]. Niente ascensore.
+1. **Controlla te stesso e chi ti sta vicino**. Se qualcuno è ferito: [Valutare una persona ferita](../04%20Salute%20e%20primo%20soccorso/Valutare%20una%20persona%20ferita.md).
+2. **Esci con calma**, indossando le **scarpe** (ci saranno vetri e calcinacci), prendendo lo [zaino](../01%20Preparazione/Zaino%20di%20evacuazione.md). Niente ascensore.
 3. **Chiudi gas, acqua e luce** se sai come fare e se è sicuro. **Non accendere fiamme**, non usare interruttori se senti odore di gas.
 4. Raggiungi l'**area di attesa** del Comune o il punto di ritrovo della famiglia. Cammina lontano dai muri degli edifici.
-5. **Usa il telefono solo per emergenze**: manda un SMS per dire che stai bene. Vedi [[SMS invece delle chiamate]].
-6. **Ascolta la radio** per le istruzioni delle autorità: [[Radio in emergenza]].
+5. **Usa il telefono solo per emergenze**: manda un SMS per dire che stai bene. Vedi [SMS invece delle chiamate](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/SMS%20invece%20delle%20chiamate.md).
+6. **Ascolta la radio** per le istruzioni delle autorità: [Radio in emergenza](../07%20Comunicazioni/Ricevere%20informazioni/Radio%20in%20emergenza.md).
 7. **Non rientrare** in casa finché un tecnico non ha controllato l'edificio: possono esserci altre scosse (repliche).
 8. Non andare in giro con l'auto: le strade servono ai soccorsi.
 
@@ -72,7 +72,7 @@ Il terremoto non si può prevedere e dura pochi secondi: non c'è tempo per pens
 
 ## Per saperne di più
 
-- [[Rischi in Puglia]]
+- [Rischi in Puglia](Rischi%20in%20Puglia.md)
 - [Approfondisci su Wikipedia: Terremoto](http://localhost:8080/search?books.name=wikipedia_it&pattern=Terremoto)
 
 ## Fonti

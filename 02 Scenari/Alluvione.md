@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Alluvione
 
-> [!summary] In breve
+> **In breve**
 > Con un'**allerta meteo arancione o rossa** o con l'acqua che sale:
 > - **Non scendere** in cantine, garage, seminterrati. **Sali ai piani alti**.
 > - **Non usare l'auto** e **non attraversare** strade allagate, sottopassi, ponti sui torrenti.
@@ -26,7 +26,7 @@ In Italia le alluvioni sono tra le emergenze più frequenti e causano vittime so
   - **gialla**: fenomeni localmente pericolosi, fai attenzione;
   - **arancione**: fenomeni diffusi e pericolosi, limita gli spostamenti;
   - **rossa**: fenomeni molto pericolosi, resta in un luogo sicuro.
-- [ ] Non tenere oggetti di valore, documenti e il [[Kit 72 ore UE|kit di emergenza]] in cantina.
+- [ ] Non tenere oggetti di valore, documenti e il [kit di emergenza](../01%20Preparazione/Kit%2072%20ore%20UE.md) in cantina.
 - [ ] Prepara paratie o sacchetti di sabbia se abiti al piano terra in una zona allagabile.
 
 ## Durante
@@ -36,8 +36,8 @@ In Italia le alluvioni sono tra le emergenze più frequenti e causano vittime so
 2. Chiudi porte e finestre del piano terra.
 3. **Stacca la corrente** dall'interruttore generale **solo se** è asciutto e non devi camminare nell'acqua.
 4. Chiudi il gas.
-5. Tieni a portata di mano lo [[Zaino di evacuazione|zaino]], il telefono carico e una torcia.
-6. Ascolta la radio: [[Radio in emergenza]].
+5. Tieni a portata di mano lo [zaino](../01%20Preparazione/Zaino%20di%20evacuazione.md), il telefono carico e una torcia.
+6. Ascolta la radio: [Radio in emergenza](../07%20Comunicazioni/Ricevere%20informazioni/Radio%20in%20emergenza.md).
 7. Se l'acqua sale e sei in pericolo, chiama il **112** e fatti vedere da una finestra o dal tetto.
 
 **Se sei fuori**
@@ -54,7 +54,7 @@ In Italia le alluvioni sono tra le emergenze più frequenti e causano vittime so
 
 - Non tornare a casa finché le autorità non dicono che è sicuro.
 - **Non usare elettrodomestici** che sono stati bagnati: fai controllare l'impianto da un elettricista.
-- **Non bere acqua del rubinetto** finché le autorità non confermano che è potabile: [[Potabilizzare l'acqua]].
+- **Non bere acqua del rubinetto** finché le autorità non confermano che è potabile: [Potabilizzare l'acqua](../03%20Acqua%20e%20cibo/Potabilizzare%20l%27acqua.md).
 - Butta il cibo che è stato a contatto con l'acqua dell'alluvione.
 - Indossa stivali e guanti per pulire: il fango può contenere scarichi e sostanze pericolose.
 - Fotografa i danni per l'assicurazione e per le richieste di contributi.
@@ -74,7 +74,7 @@ In Italia le alluvioni sono tra le emergenze più frequenti e causano vittime so
 
 ## Per saperne di più
 
-- [[Rischi in Puglia]]
+- [Rischi in Puglia](Rischi%20in%20Puglia.md)
 - [Approfondisci su Wikipedia: Alluvione](http://localhost:8080/search?books.name=wikipedia_it&pattern=Alluvione)
 
 ## Fonti

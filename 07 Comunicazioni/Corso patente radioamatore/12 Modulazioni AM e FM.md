@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 12 Modulazioni AM e FM
 
-> [!summary] In breve
+> **In breve**
 > **Modulare** significa "caricare" un'informazione (voce, dati) su un'onda radio detta **portante**.
 > **AM**: varia l'**ampiezza**. Occupa una banda **B = 2 × fmax** (circa 6 kHz per la voce). Due bande laterali + portante.
 > **SSB**: si trasmette **una sola banda laterale** senza portante: banda ~**2,4-3 kHz**, più efficiente. Per convenzione **LSB** sotto i 10 MHz, **USB** sopra.
@@ -53,7 +53,7 @@ Esempio: portante a 7,100 MHz modulata con 2 kHz → righe a 7,098, 7,100, 7,102
 
 ## CW (telegrafia)
 
-- La portante viene **accesa e spenta** con un tasto secondo il codice Morse ([[Codice Morse e segnali]]).
+- La portante viene **accesa e spenta** con un tasto secondo il codice Morse ([Codice Morse e segnali](../Frequenze%20e%20tabelle/Codice%20Morse%20e%20segnali.md)).
 - Banda strettissima (~100-200 Hz): arriva lontano con poca potenza.
 - In ricezione serve il **BFO** per sentire la nota.
 - Fronti di salita e discesa troppo ripidi producono **click** che disturbano le frequenze vicine.
@@ -65,7 +65,7 @@ Esempio: portante a 7,100 MHz modulata con 2 kHz → righe a 7,098, 7,100, 7,102
 | **RTTY** (FSK) | Due frequenze per 0 e 1 | Telescrivente |
 | **PSK31** | Cambi di fase | Banda strettissima |
 | **FT8 / FT4** | Toni multipli, sequenze a tempo | Segnali molto sotto il rumore |
-| **Packet / APRS** | AFSK 1200 baud in VHF | Vedi [[Winlink e APRS]] |
+| **Packet / APRS** | AFSK 1200 baud in VHF | Vedi [Winlink e APRS](../Reti%20mesh%20e%20digitali/Winlink%20e%20APRS.md) |
 | **DMR, D-STAR, C4FM** | Voce digitale in VHF/UHF | Ripetitori digitali |
 | **SSTV** | Immagini lente | Anche dalla ISS |
 
@@ -86,7 +86,7 @@ Esempio: portante a 7,100 MHz modulata con 2 kHz → righe a 7,098, 7,100, 7,102
 3. Con deviazione 2,5 kHz e audio fino a 3 kHz, quanta banda occupa l'FM secondo Carson?
 4. Perché in SSB serve il BFO in ricezione?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. **6 kHz**.
 > 2. **LSB**.
 > 3. 2 × (2,5 + 3) = **11 kHz**.
@@ -101,8 +101,8 @@ Esempio: portante a 7,100 MHz modulata con 2 kHz → righe a 7,098, 7,100, 7,102
 
 ## Per saperne di più
 
-- [[07 Schemi a blocchi e ROS]]
-- [[13 Antenne]]
+- [07 Schemi a blocchi e ROS](07%20Schemi%20a%20blocchi%20e%20ROS.md)
+- [13 Antenne](13%20Antenne.md)
 
 ## Fonti
 

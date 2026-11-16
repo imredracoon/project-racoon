@@ -6,12 +6,12 @@ tempo_lettura: 5 minuti
 ultima_revisione: 2026-11-16
 ---
 
-> [!warning] Questa guida non sostituisce un corso
+> **Attenzione: Questa guida non sostituisce un corso**
 > Leggerla aiuta, ma le manovre si imparano davvero solo provandole con un istruttore. Cerca un corso di primo soccorso presso Croce Rossa, 118 o associazioni di volontariato della tua zona.
 
 # Ustioni
 
-> [!summary] In breve
+> **In breve**
 > 1. **Allontana** dalla fonte di calore (se brucia: fermati, buttati a terra, rotola).
 > 2. **Raffredda subito con acqua corrente fresca** (non gelata) per **20 minuti**.
 > 3. **Togli anelli, orologi, vestiti** non attaccati alla pelle.
@@ -52,7 +52,7 @@ Il calore continua a danneggiare la pelle anche dopo che la fiamma è spenta. Ra
 
 ## Parole nuove
 
-- **Ipotermia**: il corpo si raffredda troppo. Vedi [[Ipotermia e colpo di calore]].
+- **Ipotermia**: il corpo si raffredda troppo. Vedi [Ipotermia e colpo di calore](Ipotermia%20e%20colpo%20di%20calore.md).
 - **Ustione profonda**: quando è distrutto tutto lo spessore della pelle. Può non fare male perché sono bruciati anche i nervi.
 
 ## Fonti

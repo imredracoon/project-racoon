@@ -8,11 +8,11 @@ ultima_revisione: 2026-11-16
 
 # Scegliere una radio d'emergenza
 
-> [!summary] In breve
+> **In breve**
 > Una buona radio d'emergenza riceve **FM e AM (onde medie)**, meglio anche **onde corte**.
 > Deve funzionare **senza corrente di casa**: pile comuni (AA), dinamo a manovella o pannellino solare.
 > Ha un'**antenna estraibile**, un'uscita per le **cuffie**, e se possibile anche una **torcia**.
-> Prova a casa quali stazioni riceve e scrivile nella [[Tabella canali e frequenze]].
+> Prova a casa quali stazioni riceve e scrivile nella [Tabella canali e frequenze](../Frequenze%20e%20tabelle/Tabella%20canali%20e%20frequenze.md).
 
 ## Perché è importante
 
@@ -35,9 +35,9 @@ Quando Internet e la rete telefonica non funzionano, la radio è spesso l'unico 
 
 1. Metti le pile nuove e prova la radio **a casa**.
 2. Cerca le stazioni che ricevi in FM, AM e DAB+. Salva in memoria almeno: una stazione **Rai nazionale**, una **radio locale** pugliese che fa notiziari, una stazione che si sente **di notte** in AM.
-3. Scrivi le stazioni nella [[Tabella canali e frequenze]] e nella [[Scheda comunicazioni]].
+3. Scrivi le stazioni nella [Tabella canali e frequenze](../Frequenze%20e%20tabelle/Tabella%20canali%20e%20frequenze.md) e nella [Scheda comunicazioni](../../90%20Schede%20stampabili/Scheda%20comunicazioni.md).
 4. Togli le pile se la radio resta ferma a lungo (evita perdite di acido). Tienile nella stessa busta.
-5. Provala ogni 3 mesi con la [[Manutenzione del kit]].
+5. Provala ogni 3 mesi con la [Manutenzione del kit](../../01%20Preparazione/Manutenzione%20del%20kit.md).
 
 ## Come ascoltare meglio
 
@@ -60,8 +60,8 @@ Quando Internet e la rete telefonica non funzionano, la radio è spesso l'unico 
 
 ## Per saperne di più
 
-- [[Radio in emergenza]]
-- [[Kit 72 ore UE]]
+- [Radio in emergenza](Radio%20in%20emergenza.md)
+- [Kit 72 ore UE](../../01%20Preparazione/Kit%2072%20ore%20UE.md)
 
 ## Fonti
 

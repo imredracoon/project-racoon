@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Sicurezza personale nel caos
 
-> [!summary] In breve
+> **In breve**
 > Resta **calmo e discreto**: non mostrare scorte, contanti o oggetti di valore.
 > Muoviti **in gruppo**, di giorno, su percorsi conosciuti. Fai sapere sempre **dove vai e quando torni**.
 > **Evita** folle, cortei, posti di blocco non ufficiali e zone di scontri.
@@ -24,7 +24,7 @@ Dopo un disastro la gran parte delle persone si aiuta a vicenda. Ma lo stress, l
 1. Non dire a tutti quante **scorte** hai. Condividi, ma con discrezione.
 2. Tieni le **porte chiuse** a chiave anche di giorno.
 3. Di notte niente luci forti verso l'esterno se la zona è buia e insicura.
-4. Conosci i **vicini**: un gruppo di persone che si conoscono è la protezione migliore (vedi [[Rete di aiuto di quartiere]]).
+4. Conosci i **vicini**: un gruppo di persone che si conoscono è la protezione migliore (vedi [Rete di aiuto di quartiere](../13%20Persone%20e%20animali%20vulnerabili/Rete%20di%20aiuto%20di%20quartiere.md)).
 
 ### Fuori casa
 1. Esci solo se serve, meglio **in due o più**.
@@ -37,7 +37,7 @@ Dopo un disastro la gran parte delle persone si aiuta a vicenda. Ma lo stress, l
 ### Truffe tipiche dopo un disastro
 - Falsi **tecnici** (gas, luce, Comune, Protezione Civile) che vogliono entrare in casa: chiedi il tesserino e **chiama** l'ente per verificare con un numero che trovi tu, non quello che ti danno loro.
 - False **raccolte fondi**: dona solo a enti che conosci.
-- **SMS e messaggi** con link per "rimborsi" o "aiuti": non cliccare. Vedi [[Fonti ufficiali e disinformazione]].
+- **SMS e messaggi** con link per "rimborsi" o "aiuti": non cliccare. Vedi [Fonti ufficiali e disinformazione](../07%20Comunicazioni/Ricevere%20informazioni/Fonti%20ufficiali%20e%20disinformazione.md).
 
 ### Se ti trovi in pericolo
 1. **Allontanati** appena puoi, verso un luogo con altre persone o le forze dell'ordine.
@@ -52,8 +52,8 @@ Dopo un disastro la gran parte delle persone si aiuta a vicenda. Ma lo stress, l
 
 ## Per saperne di più
 
-- [[Disordini civili]]
-- [[Gestire stress e panico]]
+- [Disordini civili](../02%20Scenari/Disordini%20civili.md)
+- [Gestire stress e panico](../15%20Supporto%20psicologico/Gestire%20stress%20e%20panico.md)
 
 ## Fonti
 

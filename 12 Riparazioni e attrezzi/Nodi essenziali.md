@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Nodi essenziali
 
-> [!summary] In breve
+> **In breve**
 > Bastano **4 nodi**:
 > **Gassa d'amante** → un anello fisso che non si stringe (legare a un albero, a una persona in sicurezza).
 > **Nodo parlato** → legare una corda a un palo.
@@ -68,7 +68,7 @@ Per unire due cime **dello stesso spessore**, chiudere bende e sacchi.
 2. Incrocia ora la cima **sinistra sopra la destra** e fai un altro giro.
 3. Tira: le due cime escono **dallo stesso lato** dell'anello. Se escono da lati opposti è un nodo "da nonna" che si scioglie: rifallo.
 
-> [!warning] Il nodo piano non è sicuro con carichi pesanti o con corde diverse: può scivolare.
+> **Attenzione: Il nodo piano non è sicuro con carichi pesanti o con corde diverse: può scivolare.**
 
 ## Errori da evitare
 
@@ -78,9 +78,9 @@ Per unire due cime **dello stesso spessore**, chiudere bende e sacchi.
 
 ## Per saperne di più
 
-- [[Riparo improvvisato all'aperto]]
-- [[Cassetta attrezzi minima]]
-- Wikipedia offline: "Gassa d'amante", "Nodo parlato" (con disegni), vedi [[Aprire Wikipedia dentro Obsidian]].
+- [Riparo improvvisato all'aperto](../06%20Riparo%2C%20calore%20e%20casa/Riparo%20improvvisato%20all%27aperto.md)
+- [Cassetta attrezzi minima](Cassetta%20attrezzi%20minima.md)
+- Wikipedia offline: "Gassa d'amante", "Nodo parlato" (con disegni), vedi [Aprire Wikipedia nel browser](../16%20Biblioteca%20offline/Aprire%20Wikipedia%20nel%20browser.md).
 
 ## Fonti
 

@@ -8,11 +8,11 @@ ultima_revisione: 2026-11-16
 
 # Come si parla in radio
 
-> [!summary] In breve
+> **In breve**
 > **Ascolta** prima di parlare. **Pensa** a cosa dire. **Premi** il tasto, aspetta **mezzo secondo**, parla **piano e chiaro** a 5 cm dal microfono.
 > Messaggi **brevi**, finisci con "**passo**" e **rilascia** il tasto.
 > In radio parla **una persona alla volta**: finché tieni premuto, non senti nessuno.
-> Per lettere e nomi usa l'[[Alfabeto fonetico]].
+> Per lettere e nomi usa l'[Alfabeto fonetico](Alfabeto%20fonetico.md).
 
 ## Perché è importante
 
@@ -45,9 +45,9 @@ Le radio "a tasto" funzionano in modo diverso dal telefono: solo uno parla alla 
 ## Numeri e nomi
 
 - Dì i numeri **cifra per cifra**: 112 = "uno uno due".
-- Nomi difficili: **sillabali** con l'[[Alfabeto fonetico]].
+- Nomi difficili: **sillabali** con l'[Alfabeto fonetico](Alfabeto%20fonetico.md).
 - Ore nel formato 24 ore: "quattordici e trenta".
-- Luoghi: via e numero civico, oppure un punto noto a tutti; se puoi, [[Coordinate e come comunicarle|coordinate]].
+- Luoghi: via e numero civico, oppure un punto noto a tutti; se puoi, [coordinate](../../09%20Orientamento%20e%20mappe/Coordinate%20e%20come%20comunicarle.md).
 
 ## Esempio
 
@@ -69,8 +69,8 @@ Le radio "a tasto" funzionano in modo diverso dal telefono: solo uno parla alla 
 
 ## Per saperne di più
 
-- [[PMR446]] · [[CB 27 MHz]]
-- [[Modelli di messaggio]]
+- [PMR446](PMR446.md) · [CB 27 MHz](CB%2027%20MHz.md)
+- [Modelli di messaggio](../Frequenze%20e%20tabelle/Modelli%20di%20messaggio.md)
 
 ## Fonti
 

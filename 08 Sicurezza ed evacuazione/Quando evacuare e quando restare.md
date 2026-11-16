@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Quando evacuare e quando restare
 
-> [!summary] In breve
+> **In breve**
 > **Segui sempre le autorità**: se dicono di andare via, **vai**; se dicono di restare chiuso in casa, **resta**.
 > Senza indicazioni: **esci subito** se la casa è pericolosa (fuoco, fumo, odore di gas, crolli, acqua che sale e non puoi salire più in alto). **Resta** se fuori è più pericoloso (nube tossica, tempesta, strade allagate).
 
@@ -18,9 +18,9 @@ Andare via quando bisognava restare, o restare quando bisognava andare, sono due
 
 ## Quando restare
 
-- Le autorità dicono di **restare al chiuso**: vedi [[Rifugiarsi al chiuso]].
+- Le autorità dicono di **restare al chiuso**: vedi [Rifugiarsi al chiuso](../06%20Riparo%2C%20calore%20e%20casa/Rifugiarsi%20al%20chiuso.md).
 - **Incidente chimico, industriale o nucleare** senza ordine di evacuazione.
-- **Alluvione** in corso se puoi salire ai piani alti e le strade sono allagate: vedi [[Alluvione]].
+- **Alluvione** in corso se puoi salire ai piani alti e le strade sono allagate: vedi [Alluvione](../02%20Scenari/Alluvione.md).
 - **Tempesta, vento forte, grandine**.
 - **Ondata di calore o di freddo** se la casa è ancora vivibile.
 - **Blackout**, se hai le scorte.
@@ -32,14 +32,14 @@ Andare via quando bisognava restare, o restare quando bisognava andare, sono due
 - **Odore di gas**.
 - **Crepe gravi, crolli** o rumori strani dalla struttura dopo un terremoto.
 - **L'acqua sale** e non puoi salire più in alto.
-- **Allerta maremoto** sulla costa: allontanati dal mare e sali in alto, vedi [[Tsunami]].
+- **Allerta maremoto** sulla costa: allontanati dal mare e sali in alto, vedi [Tsunami](../02%20Scenari/Tsunami.md).
 
 ## Passo per passo, se devi andare via
 
-1. Prendi lo [[Zaino di evacuazione|zaino di evacuazione]], i farmaci, il telefono.
-2. Se c'è tempo e non è pericoloso: [[Chiudere gas, acqua e luce|chiudi gas, acqua e luce]].
+1. Prendi lo [zaino di evacuazione](../01%20Preparazione/Zaino%20di%20evacuazione.md), i farmaci, il telefono.
+2. Se c'è tempo e non è pericoloso: [chiudi gas, acqua e luce](../06%20Riparo%2C%20calore%20e%20casa/Chiudere%20gas%2C%20acqua%20e%20luce.md).
 3. Chiudi la porta di casa.
-4. Lascia un **biglietto** in un posto concordato con dove sei andato: [[Piano di comunicazione familiare]].
+4. Lascia un **biglietto** in un posto concordato con dove sei andato: [Piano di comunicazione familiare](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/Piano%20di%20comunicazione%20familiare.md).
 5. Segui i **percorsi indicati** dalle autorità, non le scorciatoie.
 6. Vai all'**area di attesa** del Comune, da parenti o amici in una zona sicura.
 7. Avvisa il **contatto fuori zona** con un SMS.
@@ -54,8 +54,8 @@ Andare via quando bisognava restare, o restare quando bisognava andare, sono due
 
 ## Per saperne di più
 
-- [[Piano di evacuazione del Comune]]
-- [[Evacuare in auto]]
+- [Piano di evacuazione del Comune](Piano%20di%20evacuazione%20del%20Comune.md)
+- [Evacuare in auto](Evacuare%20in%20auto.md)
 
 ## Fonti
 

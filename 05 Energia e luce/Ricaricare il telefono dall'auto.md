@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Ricaricare il telefono dall'auto
 
-> [!summary] In breve
+> **In breve**
 > La presa accendisigari dell'auto (12 V) ricarica telefoni, power bank e radio con un **adattatore USB**.
 > Ricarica **a motore acceso**, all'aperto, per non scaricare la batteria dell'auto.
 > **Mai** tenere il motore acceso in un garage chiuso.
@@ -34,11 +34,11 @@ In un blackout l'auto è spesso la fonte di energia più grande che hai a dispos
 
 ## Ricaricare il power bank invece del telefono
 
-È più conveniente ricaricare un [[Power bank, pile e batterie|power bank]] grosso mentre guidi o tieni il motore acceso, e poi usarlo in casa per telefoni e luci.
+È più conveniente ricaricare un [power bank](Power%20bank%2C%20pile%20e%20batterie.md) grosso mentre guidi o tieni il motore acceso, e poi usarlo in casa per telefoni e luci.
 
 ## Errori da evitare
 
-- **Motore acceso in garage**: monossido di carbonio, pericolo di morte (vedi [[Generatore in sicurezza]]).
+- **Motore acceso in garage**: monossido di carbonio, pericolo di morte (vedi [Generatore in sicurezza](Generatore%20in%20sicurezza.md)).
 - **Scaricare la batteria dell'auto**: potresti averne bisogno per evacuare.
 - **Inverter grosso collegato all'accendisigari**: la presa regge di solito 120-180 W; oltre, il fusibile salta.
 
@@ -49,9 +49,9 @@ In un blackout l'auto è spesso la fonte di energia più grande che hai a dispos
 
 ## Per saperne di più
 
-- [[Kit auto]]
-- [[Risparmiare la batteria del telefono]]
-- [[Evacuare in auto]]
+- [Kit auto](../01%20Preparazione/Kit%20auto.md)
+- [Risparmiare la batteria del telefono](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/Risparmiare%20la%20batteria%20del%20telefono.md)
+- [Evacuare in auto](../08%20Sicurezza%20ed%20evacuazione/Evacuare%20in%20auto.md)
 
 ## Fonti
 

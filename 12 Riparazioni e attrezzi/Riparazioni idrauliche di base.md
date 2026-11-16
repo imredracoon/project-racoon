@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Riparazioni idrauliche di base
 
-> [!summary] In breve
+> **In breve**
 > Perdita d'acqua? **Chiudi subito** il rubinetto più vicino o il **rubinetto generale**.
 > **Asciuga** e stacca la corrente nella zona se l'acqua arriva a prese o elettrodomestici.
 > Per tappare un tubo in attesa dell'idraulico: **nastro autoamalgamante** o una **fascetta stringitubo** con un pezzo di gomma.
@@ -30,7 +30,7 @@ Un tubo rotto allaga casa e vicini in poco tempo. Dopo un terremoto o una gelata
 ## Passo per passo
 
 ### Tubo che perde
-1. **Chiudi** il rubinetto sotto il lavandino o il WC, oppure il **rubinetto generale** ([[Chiudere gas, acqua e luce]]).
+1. **Chiudi** il rubinetto sotto il lavandino o il WC, oppure il **rubinetto generale** ([Chiudere gas, acqua e luce](../06%20Riparo%2C%20calore%20e%20casa/Chiudere%20gas%2C%20acqua%20e%20luce.md)).
 2. Se l'acqua è vicina a prese o elettrodomestici: **stacca la corrente** dal quadro **prima** di toccare.
 3. **Asciuga** il tubo.
 4. Avvolgi il **nastro autoamalgamante** tirandolo forte, sovrapponendo metà giro, per 5 cm oltre la crepa da ogni lato.
@@ -61,8 +61,8 @@ Un tubo rotto allaga casa e vicini in poco tempo. Dopo un terremoto o una gelata
 
 ## Per saperne di più
 
-- [[Cassetta attrezzi minima]]
-- [[Interruzione dell'acqua di rete]]
+- [Cassetta attrezzi minima](Cassetta%20attrezzi%20minima.md)
+- [Interruzione dell'acqua di rete](../02%20Scenari/Interruzione%20dell%27acqua%20di%20rete.md)
 
 ## Fonti
 

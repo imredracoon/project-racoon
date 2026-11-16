@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Scaldarsi senza riscaldamento
 
-> [!summary] In breve
+> **In breve**
 > Scegli **una sola stanza** piccola, ben esposta al sole, e vivi tutti lì.
 > Chiudi porte, metti coperte o asciugamani sotto le porte e tende pesanti alle finestre (aprile di giorno se c'è sole).
 > **Vestiti a strati**, cappello, calze di lana; dormite vicini con più coperte e un sacco a pelo.
@@ -34,7 +34,7 @@ Senza gas o corrente il riscaldamento si ferma. Anche in Puglia d'inverno le cas
 5. **Pavimento**: tappeti o cartone, perché il freddo arriva da sotto.
 6. **Vestiti a strati**, asciutti. Cambiati subito se sudi o ti bagni.
 7. **Muoviti** un po' ogni ora e mangia regolarmente: il cibo produce calore.
-8. **Bevi bevande calde** se puoi scaldarle in sicurezza (vedi [[Cucinare senza corrente]]).
+8. **Bevi bevande calde** se puoi scaldarle in sicurezza (vedi [Cucinare senza corrente](../03%20Acqua%20e%20cibo/Cucinare%20senza%20corrente.md)).
 9. **Di notte**: dormite insieme nella stessa stanza, isolati dal pavimento, con più coperte. Una tenda da campeggio montata dentro la stanza trattiene molto calore.
 
 ## Stufe e camini
@@ -52,13 +52,13 @@ Senza gas o corrente il riscaldamento si ferma. Anche in Puglia d'inverno le cas
 ## Parole nuove
 
 - **Coperta isotermica**: foglio sottile dorato/argentato che riflette il calore del corpo.
-- **Monossido di carbonio**: gas velenoso, vedi [[Generatore in sicurezza]].
+- **Monossido di carbonio**: gas velenoso, vedi [Generatore in sicurezza](../05%20Energia%20e%20luce/Generatore%20in%20sicurezza.md).
 
 ## Per saperne di più
 
-- [[Ondata di freddo]]
-- [[Ipotermia e colpo di calore]]
-- [[Anziani e persone con disabilità]]
+- [Ondata di freddo](../02%20Scenari/Ondata%20di%20freddo.md)
+- [Ipotermia e colpo di calore](../04%20Salute%20e%20primo%20soccorso/Ipotermia%20e%20colpo%20di%20calore.md)
+- [Anziani e persone con disabilità](../13%20Persone%20e%20animali%20vulnerabili/Anziani%20e%20persone%20con%20disabilit%C3%A0.md)
 
 ## Fonti
 

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Ondata di freddo
 
-> [!summary] In breve
+> **In breve**
 > - Vestiti **a strati**, copri testa, mani e piedi.
 > - Scalda **una sola stanza** e vivi lì.
 > - **Mai** bracieri, barbecue, fornelli o generatori in casa: **monossido di carbonio**.
@@ -17,7 +17,7 @@ ultima_revisione: 2026-11-16
 
 ## Perché è importante
 
-In Puglia il freddo intenso è raro, e proprio per questo si è poco preparati: case poco isolate, niente catene per l'auto, poca abitudine alla neve. Con un [[Blackout prolungato|blackout]] invernale la casa si raffredda in poche ore.
+In Puglia il freddo intenso è raro, e proprio per questo si è poco preparati: case poco isolate, niente catene per l'auto, poca abitudine alla neve. Con un [blackout](Blackout%20prolungato.md) invernale la casa si raffredda in poche ore.
 
 ## Prima
 
@@ -39,14 +39,14 @@ In Puglia il freddo intenso è raro, e proprio per questo si è poco preparati: 
 
 ## Errori da evitare
 
-- **Braciere, barbecue, fornello a gas acceso per scaldarsi, generatore** in casa o in garage: **monossido di carbonio**, uccide nel sonno. Vedi [[Blackout prolungato]].
+- **Braciere, barbecue, fornello a gas acceso per scaldarsi, generatore** in casa o in garage: **monossido di carbonio**, uccide nel sonno. Vedi [Blackout prolungato](Blackout%20prolungato.md).
 - **Stufe elettriche vicino a tende o letti**.
 - **Alcol** per scaldarsi.
 - **Lasciare l'auto accesa** in un garage chiuso per scaldarsi.
 
 ## Parole nuove
 
-- **Ipotermia**: la temperatura del corpo scende sotto i 35 °C. Vedi [[Ipotermia e colpo di calore]].
+- **Ipotermia**: la temperatura del corpo scende sotto i 35 °C. Vedi [Ipotermia e colpo di calore](../04%20Salute%20e%20primo%20soccorso/Ipotermia%20e%20colpo%20di%20calore.md).
 - **Rilevatore di monossido**: un piccolo apparecchio che suona se nell'aria c'è monossido di carbonio.
 
 ## Fonti

@@ -6,19 +6,19 @@ tempo_lettura: 7 minuti
 ultima_revisione: 2026-11-16
 ---
 
-> [!warning] Questa guida non sostituisce un corso
+> **Attenzione: Questa guida non sostituisce un corso**
 > Leggerla aiuta, ma le manovre si imparano davvero solo provandole con un istruttore. Un corso **BLSD** (rianimazione e defibrillatore) dura poche ore: cercalo presso Croce Rossa, 118 o associazioni di volontariato della tua zona.
 
 # Valutare una persona ferita
 
-> [!summary] In breve
+> **In breve**
 > Prima **controlla che la zona sia sicura** per te. Poi, in quest'ordine:
 > 1. **Risponde?** Chiamala a voce alta e scuotila piano per le spalle.
 > 2. **Chiama il 112** (o fallo chiamare a qualcuno).
 > 3. **Respira normalmente?** Guarda il torace per 10 secondi.
 > 4. **Perde molto sangue?** Premi forte sulla ferita.
 >
-> Se **non risponde e non respira normalmente**: inizia subito la [[Rianimazione cardiopolmonare e DAE|rianimazione]].
+> Se **non risponde e non respira normalmente**: inizia subito la [rianimazione](Rianimazione%20cardiopolmonare%20e%20DAE.md).
 
 ## Perché è importante
 
@@ -38,19 +38,19 @@ Se puoi, indossa dei guanti (anche quelli da cucina o un sacchetto di plastica s
 4. Se **non risponde**: chiama aiuto a voce alta e vai al punto successivo.
 
 ### 3. Chiama il 112
-Chiama subito, o fai chiamare a qualcuno, mettendo il **vivavoce**. Se c'è qualcuno, mandalo a cercare un **defibrillatore (DAE)**. Vedi [[Chiamare il 112]].
+Chiama subito, o fai chiamare a qualcuno, mettendo il **vivavoce**. Se c'è qualcuno, mandalo a cercare un **defibrillatore (DAE)**. Vedi [Chiamare il 112](Chiamare%20il%20112.md).
 
 ### 4. Respiro: respira normalmente?
 1. Metti una mano sulla fronte e due dita sotto il mento, e **inclina delicatamente la testa all'indietro**: così la lingua non chiude la gola.
 2. Per **non più di 10 secondi** guarda se il torace si alza e si abbassa normalmente.
-3. **Respira normalmente** → mettila in [[Shock e posizione laterale di sicurezza|posizione laterale di sicurezza]] e controlla il respiro ogni minuto.
-4. **Non respira, oppure fa respiri rari e rumorosi, come dei singhiozzi** → è un **arresto cardiaco**. Inizia subito la [[Rianimazione cardiopolmonare e DAE|rianimazione cardiopolmonare]].
+3. **Respira normalmente** → mettila in [posizione laterale di sicurezza](Shock%20e%20posizione%20laterale%20di%20sicurezza.md) e controlla il respiro ogni minuto.
+4. **Non respira, oppure fa respiri rari e rumorosi, come dei singhiozzi** → è un **arresto cardiaco**. Inizia subito la [rianimazione cardiopolmonare](Rianimazione%20cardiopolmonare%20e%20DAE.md).
 
-> [!important] I respiri "a singhiozzo" (gasping) NON sono respiri normali
+> **Importante: I respiri "a singhiozzo" (gasping) NON sono respiri normali**
 > Sono frequenti nei primi minuti dopo un arresto cardiaco. Se hai dubbi, comportati come se la persona non respirasse.
 
 ### 5. Emorragie: perde molto sangue?
-Se vedi sangue che esce a fiotti o che si allarga velocemente, premi subito forte sulla ferita con un panno. Vedi [[Emorragie e laccio emostatico]].
+Se vedi sangue che esce a fiotti o che si allarga velocemente, premi subito forte sulla ferita con un panno. Vedi [Emorragie e laccio emostatico](Emorragie%20e%20laccio%20emostatico.md).
 
 ### 6. Il resto
 Solo dopo, se la persona è stabile: cerca altre ferite, fratture, ustioni. Coprila per tenerla al caldo, anche d'estate. Non darle da bere né da mangiare.

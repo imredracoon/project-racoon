@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Messaggi via satellite
 
-> [!summary] In breve
+> **In breve**
 > Alcuni **smartphone recenti** possono mandare SOS e brevi messaggi via satellite quando non c'è rete (per esempio iPhone dal modello 14 in poi; alcuni Android recenti). Controlla se il tuo lo fa **e prova la demo**.
 > I **comunicatori satellitari** (tipo Garmin inReach, Zoleo) mandano messaggi e SOS ovunque, con un abbonamento.
 > Il **PLB** (radiofaro personale a 406 MHz) manda solo un SOS con la posizione ai soccorsi, **senza abbonamento**.
@@ -49,8 +49,8 @@ Se crollano sia la rete mobile sia Internet, il satellite è l'unico canale che 
 
 ## Per saperne di più
 
-- [[Chiamare il 112]]
-- [[Coordinate e come comunicarle]]
+- [Chiamare il 112](../../04%20Salute%20e%20primo%20soccorso/Chiamare%20il%20112.md)
+- [Coordinate e come comunicarle](../../09%20Orientamento%20e%20mappe/Coordinate%20e%20come%20comunicarle.md)
 
 ## Fonti
 

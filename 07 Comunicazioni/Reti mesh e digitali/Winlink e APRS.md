@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Winlink e APRS
 
-> [!summary] In breve
+> **In breve**
 > **Winlink** permette di mandare e ricevere **email via radio**, anche quando Internet non c'è nella tua zona. Funziona con onde corte o VHF, un computer e un'interfaccia.
 > **APRS** trasmette la **posizione GPS**, brevi messaggi e dati meteo su **144,800 MHz**: chiunque con una radio o Internet vede dove sei.
 > Entrambi richiedono la **patente di radioamatore** per trasmettere. Sono strumenti usati dalle reti di emergenza.
@@ -53,9 +53,9 @@ Nelle emergenze grandi servono messaggi **scritti** (elenchi di persone, richies
 
 ## Per saperne di più
 
-- [[Cos'è un radioamatore]]
-- [[Meshtastic]] (alternativa senza patente)
-- [[Le reti radio di emergenza in Italia]]
+- [Cos'è un radioamatore](../Radioamatori/Cos%27%C3%A8%20un%20radioamatore.md)
+- [Meshtastic](Meshtastic.md) (alternativa senza patente)
+- [Le reti radio di emergenza in Italia](../Radioamatori/Le%20reti%20radio%20di%20emergenza%20in%20Italia.md)
 
 ## Fonti
 

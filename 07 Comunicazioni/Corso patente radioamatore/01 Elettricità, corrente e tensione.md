@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 01 Elettricità, corrente e tensione
 
-> [!summary] In breve
+> **In breve**
 > La materia è fatta di **atomi**: nucleo con **protoni** (+) e **neutroni**, intorno **elettroni** (−).
 > **Corrente** (I, ampere A) = quante cariche passano in un secondo. **Tensione** (V, volt) = la "spinta" che le fa muovere. **Resistenza** (R, ohm Ω) = quanto il materiale si oppone.
 > **Legge di Ohm**: **V = R × I**. **Potenza**: **P = V × I** (watt).
@@ -47,7 +47,7 @@ Più pressione → più acqua. Tubo più stretto → meno acqua. È esattamente 
 ## Corrente continua e alternata
 
 - **Continua (DC/CC)**: va sempre nello stesso verso, valore costante (pile, batterie).
-- **Alternata (AC/CA)**: cambia verso molte volte al secondo (rete di casa: 230 V, 50 Hz). Vedi [[03 Corrente alternata]].
+- **Alternata (AC/CA)**: cambia verso molte volte al secondo (rete di casa: 230 V, 50 Hz). Vedi [03 Corrente alternata](03%20Corrente%20alternata.md).
 
 ## Resistenza di un filo
 
@@ -96,7 +96,7 @@ Oro = ±5%, argento = ±10%. Esempio: giallo-viola-rosso-oro = 4, 7, ×100 = **4
 2. Un apparato da 12 V assorbe 2 A. Che potenza consuma?
 3. Come si collega un voltmetro per misurare la tensione su un resistore?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. V = 220 × 0,05 = **11 V**.
 > 2. P = 12 × 2 = **24 W**.
 > 3. In **parallelo** al resistore.
@@ -108,7 +108,7 @@ Oro = ±5%, argento = ±10%. Esempio: giallo-viola-rosso-oro = 4, 7, ×100 = **4
 
 ## Per saperne di più
 
-- [[02 Generatori, serie e parallelo]]
+- [02 Generatori, serie e parallelo](02%20Generatori%2C%20serie%20e%20parallelo.md)
 - Wikipedia offline: "Legge di Ohm".
 
 ## Fonti

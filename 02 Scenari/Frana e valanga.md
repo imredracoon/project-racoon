@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Frana e valanga
 
-> [!summary] In breve
+> **In breve**
 > **Frana**: dopo piogge forti, se senti **scricchiolii**, vedi **crepe** nuove nei muri o nel terreno, alberi o pali che si inclinano: **allontanati subito** in direzione **laterale**, non a valle.
 > In Puglia le zone più a rischio sono il **Subappennino Dauno** e il **Gargano**, e alcune coste a falesia.
 > **Valanga**: in Puglia praticamente non c'è rischio; se vai in montagna d'inverno, consulta il **bollettino valanghe** e porta ARTVA, pala e sonda.
@@ -52,9 +52,9 @@ In Puglia non ci sono montagne da valanga. Se vai in montagna (Appennino, Alpi) 
 
 ## Per saperne di più
 
-- [[Rischi in Puglia]]
-- [[Alluvione]]
-- [[Quando evacuare e quando restare]]
+- [Rischi in Puglia](Rischi%20in%20Puglia.md)
+- [Alluvione](Alluvione.md)
+- [Quando evacuare e quando restare](../08%20Sicurezza%20ed%20evacuazione/Quando%20evacuare%20e%20quando%20restare.md)
 
 ## Fonti
 

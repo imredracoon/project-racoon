@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Restare al fresco senza corrente
 
-> [!summary] In breve
+> **In breve**
 > **Di giorno** chiudi finestre, persiane e tende sul lato al sole. **Di notte e all'alba** apri tutto per far entrare aria fresca.
 > Vivi nella stanza **più bassa e più fresca** della casa.
 > Bagna polsi, collo e piedi; docce tiepide; panni umidi davanti a una finestra con corrente d'aria.
@@ -47,13 +47,13 @@ In Puglia d'estate si superano facilmente i 38-40 °C. Senza condizionatori e ve
 
 ## Segnali di pericolo
 
-Confusione, pelle molto calda, svenimento: è un **colpo di calore**. Vedi [[Ipotermia e colpo di calore]] e chiama il **112**.
+Confusione, pelle molto calda, svenimento: è un **colpo di calore**. Vedi [Ipotermia e colpo di calore](../04%20Salute%20e%20primo%20soccorso/Ipotermia%20e%20colpo%20di%20calore.md) e chiama il **112**.
 
 ## Per saperne di più
 
-- [[Ondata di calore]]
-- [[Disidratazione]]
-- [[Anziani e persone con disabilità]]
+- [Ondata di calore](../02%20Scenari/Ondata%20di%20calore.md)
+- [Disidratazione](../04%20Salute%20e%20primo%20soccorso/Disidratazione.md)
+- [Anziani e persone con disabilità](../13%20Persone%20e%20animali%20vulnerabili/Anziani%20e%20persone%20con%20disabilit%C3%A0.md)
 
 ## Fonti
 

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Chiudere gas, acqua e luce
 
-> [!summary] In breve
+> **In breve**
 > Impara **adesso**, con calma, dove sono e come si chiudono:
 > - **Gas**: la valvola sul contatore o sul tubo prima della caldaia. **Leva di traverso rispetto al tubo = chiuso.**
 > - **Acqua**: il rubinetto generale vicino al contatore.
@@ -40,7 +40,7 @@ Dopo un terremoto, un'alluvione o un incendio, gas, acqua e corrente possono cau
 3. **Giù = spento**, su = acceso.
 
 ### Fai una scheda
-Fotografa ogni valvola e il quadro, e scrivi sulla [[Scheda contatti e piano familiare]] **dove sono**. Mostrali a tutti in famiglia, anche ai ragazzi.
+Fotografa ogni valvola e il quadro, e scrivi sulla [Scheda contatti e piano familiare](../90%20Schede%20stampabili/Scheda%20contatti%20e%20piano%20familiare.md) **dove sono**. Mostrali a tutti in famiglia, anche ai ragazzi.
 
 ## Quando chiuderli
 

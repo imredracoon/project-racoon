@@ -8,10 +8,10 @@ ultima_revisione: 2026-11-16
 
 # Interruzione dell'acqua di rete
 
-> [!summary] In breve
+> **In breve**
 > Quando l'acqua del rubinetto manca o non è potabile:
 > - Usa le **scorte**, e **riempi subito** pentole e vasca se ricevi un preavviso.
-> - **Bevi solo acqua sicura**: imbottigliata o [[Potabilizzare l'acqua|potabilizzata]].
+> - **Bevi solo acqua sicura**: imbottigliata o [potabilizzata](../03%20Acqua%20e%20cibo/Potabilizzare%20l%27acqua.md).
 > - Usa l'acqua non potabile per lo **sciacquone** e le pulizie.
 > - Segui gli avvisi del Comune e dell'**Acquedotto Pugliese**.
 
@@ -21,7 +21,7 @@ In Puglia l'acqua viene in gran parte da altre regioni attraverso grandi acquedo
 
 ## Prima
 
-- [ ] Scorta di acqua: [[Quanta acqua conservare e come]].
+- [ ] Scorta di acqua: [Quanta acqua conservare e come](../03%20Acqua%20e%20cibo/Quanta%20acqua%20conservare%20e%20come.md).
 - [ ] Se hai l'autoclave in condominio, chiedi all'amministratore se ha un generatore o una riserva.
 - [ ] Iscriviti agli avvisi dell'acquedotto (sito, app o SMS se disponibili).
 

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Ondata di calore
 
-> [!summary] In breve
+> **In breve**
 > - **Resta in casa nelle ore più calde** (11-18), in un ambiente fresco.
 > - **Bevi spesso** acqua, anche senza sete. Evita alcol e bevande molto zuccherate.
 > - **Controlla** anziani, bambini, malati e persone sole: sono i più a rischio.
@@ -17,7 +17,7 @@ ultima_revisione: 2026-11-16
 
 ## Perché è importante
 
-In Italia le ondate di calore causano ogni estate migliaia di morti in più, soprattutto tra gli anziani. In Puglia le temperature superano spesso i 40 °C e spesso si accompagnano a **siccità** e **incendi**. Il caldo può anche causare [[Blackout prolungato|blackout]] per il consumo dei condizionatori.
+In Italia le ondate di calore causano ogni estate migliaia di morti in più, soprattutto tra gli anziani. In Puglia le temperature superano spesso i 40 °C e spesso si accompagnano a **siccità** e **incendi**. Il caldo può anche causare [blackout](Blackout%20prolungato.md) per il consumo dei condizionatori.
 
 ## Prima
 
@@ -41,9 +41,9 @@ In Italia le ondate di calore causano ogni estate migliaia di morti in più, sop
 
 | Segni | Cosa fare |
 |---|---|
-| Crampi, molta sete, stanchezza, mal di testa, sudore abbondante | Riposa al fresco, bevi acqua o sali minerali. Vedi [[Disidratazione]] |
+| Crampi, molta sete, stanchezza, mal di testa, sudore abbondante | Riposa al fresco, bevi acqua o sali minerali. Vedi [Disidratazione](../04%20Salute%20e%20primo%20soccorso/Disidratazione.md) |
 | Nausea, vomito, capogiri, pelle fredda e sudata (**esaurimento da calore**) | Sdraiati al fresco con le gambe alzate, bevi a piccoli sorsi. Se non migliora in 30 minuti, chiama il medico o il 112 |
-| Confusione, pelle **calda, rossa e secca**, temperatura altissima, svenimento, convulsioni (**colpo di calore**) | **Chiama il 112.** Raffredda subito la persona: all'ombra, togli i vestiti, acqua fresca su tutto il corpo, ventila. Vedi [[Ipotermia e colpo di calore]] |
+| Confusione, pelle **calda, rossa e secca**, temperatura altissima, svenimento, convulsioni (**colpo di calore**) | **Chiama il 112.** Raffredda subito la persona: all'ombra, togli i vestiti, acqua fresca su tutto il corpo, ventila. Vedi [Ipotermia e colpo di calore](../04%20Salute%20e%20primo%20soccorso/Ipotermia%20e%20colpo%20di%20calore.md) |
 
 ## Errori da evitare
 

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 02 Generatori, serie e parallelo
 
-> [!summary] In breve
+> **In breve**
 > Un **generatore** reale ha una **f.e.m.** (E) e una **resistenza interna** (Ri): quando eroga corrente la tensione ai morsetti **cala**.
 > Resistenze in **serie**: si **sommano** (R = R1 + R2 + ...). Stessa corrente in tutte.
 > Resistenze in **parallelo**: 1/R = 1/R1 + 1/R2 + ... (con due: R = R1×R2 ÷ (R1+R2)). Stessa tensione su tutte.
@@ -73,7 +73,7 @@ Un generatore cede la **massima potenza** al carico quando **R carico = R intern
 2. Due resistenze da 1 kΩ e 3 kΩ in serie su 8 V: che tensione c'è sulla 3 kΩ?
 3. Quando un generatore trasferisce la massima potenza al carico?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. 300 ÷ 3 = **100 Ω**.
 > 2. 8 × 3 ÷ 4 = **6 V**.
 > 3. Quando la resistenza del carico è **uguale** alla resistenza interna.
@@ -86,8 +86,8 @@ Un generatore cede la **massima potenza** al carico quando **R carico = R intern
 
 ## Per saperne di più
 
-- [[01 Elettricità, corrente e tensione]]
-- [[03 Corrente alternata]]
+- [01 Elettricità, corrente e tensione](01%20Elettricit%C3%A0%2C%20corrente%20e%20tensione.md)
+- [03 Corrente alternata](03%20Corrente%20alternata.md)
 
 ## Fonti
 

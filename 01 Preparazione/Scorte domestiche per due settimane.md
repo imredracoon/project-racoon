@@ -8,8 +8,8 @@ ultima_revisione: 2026-11-16
 
 # Scorte domestiche per due settimane
 
-> [!summary] In breve
-> Dopo il [[Kit 72 ore UE|kit 72 ore]], il passo successivo è avere in casa **cibo e acqua per circa due settimane**. Il trucco è **comprare quello che mangi già**, un po' di più, e consumare sempre per primo quello che scade prima (metodo **FIFO**: il primo che entra è il primo che esce). Così le scorte non scadono mai e non sprechi niente.
+> **In breve**
+> Dopo il [kit 72 ore](Kit%2072%20ore%20UE.md), il passo successivo è avere in casa **cibo e acqua per circa due settimane**. Il trucco è **comprare quello che mangi già**, un po' di più, e consumare sempre per primo quello che scade prima (metodo **FIFO**: il primo che entra è il primo che esce). Così le scorte non scadono mai e non sprechi niente.
 
 ## Perché è importante
 
@@ -38,8 +38,8 @@ Una dispensa ordinata (anche solo uno scaffale) e un foglio dove segnare cosa ha
 
 Non dimenticare:
 - cibo per animali;
-- **un modo per cucinare senza corrente**, per esempio un fornellino a gas da campeggio con alcune cartucce (vedi [[Cucinare senza corrente]]);
-- detersivi, carta igienica, sapone, candeggina (vedi [[Disinfettare con la candeggina]]);
+- **un modo per cucinare senza corrente**, per esempio un fornellino a gas da campeggio con alcune cartucce (vedi [Cucinare senza corrente](../03%20Acqua%20e%20cibo/Cucinare%20senza%20corrente.md));
+- detersivi, carta igienica, sapone, candeggina (vedi [Disinfettare con la candeggina](../10%20Igiene%20e%20sanificazione/Disinfettare%20con%20la%20candeggina.md));
 - pile, sacchi della spazzatura.
 
 ## Passo per passo
@@ -65,9 +65,9 @@ Non dimenticare:
 
 ## Per saperne di più
 
-- [[Cibo a lunga conservazione]]
-- [[Quanta acqua conservare e come]]
-- [[Conservare il cibo senza frigorifero]]
+- [Cibo a lunga conservazione](../03%20Acqua%20e%20cibo/Cibo%20a%20lunga%20conservazione.md)
+- [Quanta acqua conservare e come](../03%20Acqua%20e%20cibo/Quanta%20acqua%20conservare%20e%20come.md)
+- [Conservare il cibo senza frigorifero](../03%20Acqua%20e%20cibo/Conservare%20il%20cibo%20senza%20frigorifero.md)
 
 ## Fonti
 

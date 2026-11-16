@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Incendio domestico
 
-> [!summary] In breve
+> **In breve**
 > - **Esci subito** e chiudi la porta dietro di te: il fumo uccide più delle fiamme.
 > - **Muoviti basso**, sotto il fumo, coprendo naso e bocca.
 > - **Tocca le porte** con il dorso della mano prima di aprirle: se sono calde, non aprire.
@@ -22,7 +22,7 @@ Un incendio in casa diventa ingestibile in **pochi minuti**. La maggior parte de
 ## Prima
 
 - [ ] **Rilevatore di fumo** in corridoio e vicino alle camere (costa poco, si attacca al soffitto). Prova la pila ogni mese.
-- [ ] **Estintore** a polvere da 6 kg in cucina o all'ingresso, e **coperta antifiamma** in cucina. Vedi [[Usare l'estintore]].
+- [ ] **Estintore** a polvere da 6 kg in cucina o all'ingresso, e **coperta antifiamma** in cucina. Vedi [Usare l'estintore](../08%20Sicurezza%20ed%20evacuazione/Usare%20l%27estintore.md).
 - [ ] Studia **due vie di uscita** da ogni stanza.
 - [ ] Chiavi di casa sempre nello stesso posto vicino alla porta (se la porta si apre solo con la chiave).
 - [ ] Non sovraccaricare le prese; non lasciare caricatori e power bank sotto i cuscini.
@@ -49,7 +49,7 @@ Un incendio in casa diventa ingestibile in **pochi minuti**. La maggior parte de
 4. Apri la finestra solo per farti vedere e chiedere aiuto (agita un panno chiaro, usa una torcia). Non buttarti.
 
 ### Se i tuoi vestiti prendono fuoco
-**Fermati, buttati a terra, copriti il viso e rotola.** Poi tratta le ustioni: [[Ustioni]].
+**Fermati, buttati a terra, copriti il viso e rotola.** Poi tratta le ustioni: [Ustioni](../04%20Salute%20e%20primo%20soccorso/Ustioni.md).
 
 ## Errori da evitare
 

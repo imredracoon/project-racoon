@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Potabilizzare l'acqua
 
-> [!summary] In breve
+> **In breve**
 > Se non sei sicuro che l'acqua sia potabile:
 > 1. **Lasciala depositare** e **filtrala** con un panno pulito se è torbida.
 > 2. **Falla bollire** a bollore pieno per **almeno 1 minuto**. È il metodo più sicuro.
@@ -57,7 +57,7 @@ L'acqua limpida si disinfetta molto meglio.
 5. Se la percentuale non è scritta, usa un altro metodo.
 
 ### C. Pastiglie per potabilizzare
-In farmacia o nei negozi di campeggio (a base di cloro o di biossido di cloro). Segui **esattamente** le istruzioni sulla confezione: tempi e dosi cambiano da prodotto a prodotto. Utili da tenere nel [[Zaino di evacuazione|zaino]].
+In farmacia o nei negozi di campeggio (a base di cloro o di biossido di cloro). Segui **esattamente** le istruzioni sulla confezione: tempi e dosi cambiano da prodotto a prodotto. Utili da tenere nel [zaino](../01%20Preparazione/Zaino%20di%20evacuazione.md).
 
 ### D. Filtri da campeggio
 Filtri portatili (a cannuccia, a pompa, a gravità). Quelli con fori da **0,1-0,2 micron** trattengono batteri e parassiti, ma **di solito non i virus**. In zone con scarichi fognari (per esempio dopo un'alluvione) dopo il filtro usa anche candeggina o pastiglie.
@@ -84,8 +84,8 @@ Solo se non hai altro:
 
 ## Per saperne di più
 
-- [[Quanta acqua conservare e come]]
-- [[Disinfettare con la candeggina]]
+- [Quanta acqua conservare e come](Quanta%20acqua%20conservare%20e%20come.md)
+- [Disinfettare con la candeggina](../10%20Igiene%20e%20sanificazione/Disinfettare%20con%20la%20candeggina.md)
 - [Approfondisci su Wikipedia: Potabilizzazione](http://localhost:8080/search?books.name=wikipedia_it&pattern=Potabilizzazione)
 
 ## Fonti

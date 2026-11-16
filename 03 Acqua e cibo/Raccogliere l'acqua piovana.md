@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Raccogliere l'acqua piovana
 
-> [!summary] In breve
+> **In breve**
 > L'acqua piovana raccolta da tetti o teli va bene per **WC, lavare, pulire, orto** subito.
 > Per **berla** va sempre **potabilizzata** (bollita o con candeggina) e filtrata con un panno: dai tetti porta polvere, foglie, escrementi di uccelli.
 > **Scarta i primi minuti** di pioggia: lavano via lo sporco del tetto.
@@ -37,7 +37,7 @@ Ogni **millimetro** di pioggia su **1 metro quadrato** dà **1 litro**. Un tetto
 4. Raccogli e **filtra** con un panno pulito.
 5. **Copri** subito i contenitori.
 6. **Etichetta**: "NON POTABILE" se non trattata.
-7. Per berla: [[Potabilizzare l'acqua]] (bollitura o candeggina).
+7. Per berla: [Potabilizzare l'acqua](Potabilizzare%20l%27acqua.md) (bollitura o candeggina).
 8. Usala entro pochi giorni se non trattata.
 
 ## Errori da evitare
@@ -48,9 +48,9 @@ Ogni **millimetro** di pioggia su **1 metro quadrato** dà **1 litro**. Un tetto
 
 ## Per saperne di più
 
-- [[Quanta acqua conservare e come]]
-- [[Interruzione dell'acqua di rete]]
-- [[Rifiuti e WC senza scarico]]
+- [Quanta acqua conservare e come](Quanta%20acqua%20conservare%20e%20come.md)
+- [Interruzione dell'acqua di rete](../02%20Scenari/Interruzione%20dell%27acqua%20di%20rete.md)
+- [Rifiuti e WC senza scarico](../10%20Igiene%20e%20sanificazione/Rifiuti%20e%20WC%20senza%20scarico.md)
 
 ## Fonti
 

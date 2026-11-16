@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Frequenze di emergenza e chiamata
 
-> [!summary] In breve
+> **In breve**
 > Per **ascoltare** non serve nessuna licenza. Per **trasmettere** sulle frequenze radioamatoriali serve la patente, salvo pericolo grave e immediato per la vita, quando chiunque può chiedere aiuto con qualsiasi mezzo.
 > Frequenze da tenere a mente: **CB canale 9** (emergenze, per consuetudine), **PMR446 canale 8** (chiamata informale), **145,500 MHz** (chiamata radioamatori in 2 m), **canale 16 marino** (156,800 MHz, soccorso in mare).
 > In onde corte la IARU indica frequenze **"centro di attività"** per le emergenze: **3,760 / 7,110 / 14,300 / 18,160 / 21,360 MHz**.
@@ -21,18 +21,18 @@ In un'emergenza chi ha una radio sa dove ascoltare e dove chiamare. Conoscere qu
 
 | Banda | Frequenza / canale | Uso | Licenza per trasmettere |
 |---|---|---|---|
-| CB 27 MHz | Canale **9** (27,065 MHz) | Emergenze (consuetudine) | No, [[CB 27 MHz|libero uso]] |
+| CB 27 MHz | Canale **9** (27,065 MHz) | Emergenze (consuetudine) | No, [libero uso](../Radio%20senza%20licenza/CB%2027%20MHz.md) |
 | CB 27 MHz | Canale **5** (27,015 MHz) e **19** (27,185 MHz) | Chiamata, strada | No |
-| PMR446 | Canale **8** senza sottotono | Chiamata informale | No, vedi [[PMR446]] |
+| PMR446 | Canale **8** senza sottotono | Chiamata informale | No, vedi [PMR446](../Radio%20senza%20licenza/PMR446.md) |
 | VHF 2 m | **145,500 MHz** FM | Chiamata in diretta tra radioamatori | Sì |
 | UHF 70 cm | **433,500 MHz** FM | Chiamata in diretta tra radioamatori | Sì |
-| VHF 2 m | **144,800 MHz** | APRS (posizione e messaggi), vedi [[Winlink e APRS]] | Sì |
+| VHF 2 m | **144,800 MHz** | APRS (posizione e messaggi), vedi [Winlink e APRS](../Reti%20mesh%20e%20digitali/Winlink%20e%20APRS.md) | Sì |
 | Onde corte | **3,760 – 7,110 – 14,300 – 18,160 – 21,360 MHz** (SSB) | Centri di attività per emergenze (IARU Regione 1) | Sì |
 | VHF marina | Canale **16** (156,800 MHz) | Soccorso e chiamata in mare | Licenza nautica; ascolto libero |
 | Aeronautica | 121,500 MHz | Emergenza aerea | Solo ascolto |
 
-> [!warning] Ripetitori
-> I **ripetitori radioamatoriali** della tua zona cambiano da provincia a provincia. Cercali sul sito della sezione ARI locale e scrivili nella [[Tabella canali e frequenze]].
+> **Attenzione: Ripetitori**
+> I **ripetitori radioamatoriali** della tua zona cambiano da provincia a provincia. Cercali sul sito della sezione ARI locale e scrivili nella [Tabella canali e frequenze](../Frequenze%20e%20tabelle/Tabella%20canali%20e%20frequenze.md).
 
 ## Passo per passo: ascoltare
 
@@ -43,7 +43,7 @@ In un'emergenza chi ha una radio sa dove ascoltare e dove chiamare. Conoscere qu
 ## Regole quando il canale è usato per un'emergenza
 
 - **Ascolta e taci**, a meno che tu non possa aiutare direttamente.
-- Se qualcuno chiede aiuto e nessuno risponde, **rispondi**, prendi i dati con il [[Modelli di messaggio|modello di messaggio]] e passali al **112**.
+- Se qualcuno chiede aiuto e nessuno risponde, **rispondi**, prendi i dati con il [modello di messaggio](../Frequenze%20e%20tabelle/Modelli%20di%20messaggio.md) e passali al **112**.
 
 ## Parole nuove
 
@@ -53,9 +53,9 @@ In un'emergenza chi ha una radio sa dove ascoltare e dove chiamare. Conoscere qu
 
 ## Per saperne di più
 
-- [[Cos'è un radioamatore]]
-- [[Le reti radio di emergenza in Italia]]
-- [[Tabella canali e frequenze]]
+- [Cos'è un radioamatore](Cos%27%C3%A8%20un%20radioamatore.md)
+- [Le reti radio di emergenza in Italia](Le%20reti%20radio%20di%20emergenza%20in%20Italia.md)
+- [Tabella canali e frequenze](../Frequenze%20e%20tabelle/Tabella%20canali%20e%20frequenze.md)
 
 ## Fonti
 

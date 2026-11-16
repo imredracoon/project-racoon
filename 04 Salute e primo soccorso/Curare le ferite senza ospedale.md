@@ -8,8 +8,8 @@ ultima_revisione: 2026-11-16
 
 # Curare le ferite senza ospedale
 
-> [!summary] In breve
-> 1. **Ferma il sangue** premendo forte con una garza ([[Emorragie e laccio emostatico]]).
+> **In breve**
+> 1. **Ferma il sangue** premendo forte con una garza ([Emorragie e laccio emostatico](Emorragie%20e%20laccio%20emostatico.md)).
 > 2. **Lava** la ferita con **molta acqua pulita** (potabile), anche 1 litro.
 > 3. **Copri** con una garza pulita o un cerotto e cambiala ogni giorno.
 > Controlla ogni giorno: **rossore che si allarga, gonfiore, pus, febbre** = infezione → cerca un medico.
@@ -60,9 +60,9 @@ Dopo un disastro è facile ferirsi (vetri, chiodi, detriti) e gli ospedali posso
 
 ## Per saperne di più
 
-- [[Kit di primo soccorso]]
-- [[Emorragie e laccio emostatico]]
-- [[Ustioni]]
+- [Kit di primo soccorso](Kit%20di%20primo%20soccorso.md)
+- [Emorragie e laccio emostatico](Emorragie%20e%20laccio%20emostatico.md)
+- [Ustioni](Ustioni.md)
 
 ## Fonti
 

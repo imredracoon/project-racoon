@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 09 Filtri e semiconduttori
 
-> [!summary] In breve
+> **In breve**
 > **Filtri**: **passa-basso** (lascia passare le frequenze basse), **passa-alto** (le alte), **passa-banda** (solo una banda), **elimina-banda** o **notch** (toglie una banda).
 > Frequenza di taglio di un filtro RC: **fc = 1 ÷ (2π R C)**; lì il segnale è sceso di **3 dB**.
 > Il **quarzo** è un cristallo piezoelettrico che risuona a una frequenza molto precisa: usato in oscillatori e filtri stretti.
@@ -62,7 +62,7 @@ Unendo un pezzo P e un pezzo N, al confine si forma una **zona di svuotamento** 
 - **Polarizzazione diretta** (+ sulla P, − sulla N): sopra la soglia (≈ 0,6-0,7 V Si) la giunzione **conduce**.
 - **Polarizzazione inversa** (+ sulla N): **non conduce** (solo una piccolissima corrente di perdita), finché non si arriva alla **tensione di rottura** (breakdown).
 
-È il principio del **diodo** ([[10 Diodi e transistor]]).
+È il principio del **diodo** ([10 Diodi e transistor](10%20Diodi%20e%20transistor.md)).
 
 ## Domande di prova
 
@@ -70,7 +70,7 @@ Unendo un pezzo P e un pezzo N, al confine si forma una **zona di svuotamento** 
 2. Un filtro RC ha R = 10 kΩ e C = 10 nF. Frequenza di taglio circa?
 3. Cosa si aggiunge al silicio per ottenere un semiconduttore di tipo P?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. Un **passa-basso**.
 > 2. 1 ÷ (6,28 × 10 000 × 0,000 000 01) ≈ **1,6 kHz**.
 > 3. Atomi con **3** elettroni esterni (es. **boro**), che creano **lacune**.
@@ -83,8 +83,8 @@ Unendo un pezzo P e un pezzo N, al confine si forma una **zona di svuotamento** 
 
 ## Per saperne di più
 
-- [[08 Trasformatori e circuiti RLC]]
-- [[10 Diodi e transistor]]
+- [08 Trasformatori e circuiti RLC](08%20Trasformatori%20e%20circuiti%20RLC.md)
+- [10 Diodi e transistor](10%20Diodi%20e%20transistor.md)
 
 ## Fonti
 

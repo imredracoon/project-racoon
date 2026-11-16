@@ -8,10 +8,10 @@ ultima_revisione: 2026-11-16
 
 # Eruzione vulcanica
 
-> [!summary] In breve
+> **In breve**
 > In Puglia non ci sono vulcani attivi, ma una grande eruzione di **Vesuvio, Campi Flegrei o Etna** può portare **cenere** anche qui e bloccare voli e strade.
 > Con la cenere: **resta in casa**, chiudi finestre, usa **mascherine FFP2**, proteggi gli occhi, non guidare se non serve.
-> Se sei in **visita** in una zona vulcanica, segui il piano di emergenza locale e i messaggi [[IT-Alert]].
+> Se sei in **visita** in una zona vulcanica, segui il piano di emergenza locale e i messaggi [IT-Alert](../07%20Comunicazioni/Ricevere%20informazioni/IT-Alert.md).
 > La Puglia è anche **regione gemellata** per accogliere sfollati del Vesuvio: potresti ospitare o aiutare.
 
 ## Perché è importante
@@ -48,8 +48,8 @@ La cenere vulcanica è fatta di minuscoli frammenti di roccia e vetro: irrita oc
 
 ## Per saperne di più
 
-- [[Rischi in Puglia]]
-- [[Rifugiarsi al chiuso]]
+- [Rischi in Puglia](Rischi%20in%20Puglia.md)
+- [Rifugiarsi al chiuso](../06%20Riparo%2C%20calore%20e%20casa/Rifugiarsi%20al%20chiuso.md)
 
 ## Fonti
 

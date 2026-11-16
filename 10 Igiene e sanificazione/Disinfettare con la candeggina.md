@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Disinfettare con la candeggina
 
-> [!summary] In breve
+> **In breve**
 > Usa candeggina **classica, senza profumo**, e guarda sull'etichetta la percentuale di **ipoclorito di sodio**.
 > **Superfici e oggetti**: con candeggina al 5% circa, **20 ml (un cucchiaio e mezzo) per litro d'acqua**.
 > **Sangue, vomito, feci**: **100 ml per litro** (una parte di candeggina e 9 d'acqua).
@@ -16,7 +16,7 @@ ultima_revisione: 2026-11-16
 
 ## Perché è importante
 
-Senza acqua corrente germi e muffe si diffondono in fretta. La candeggina costa poco e uccide la maggior parte dei germi, se usata nella dose giusta. Per l'acqua da bere vedi invece [[Potabilizzare l'acqua]].
+Senza acqua corrente germi e muffe si diffondono in fretta. La candeggina costa poco e uccide la maggior parte dei germi, se usata nella dose giusta. Per l'acqua da bere vedi invece [Potabilizzare l'acqua](../03%20Acqua%20e%20cibo/Potabilizzare%20l%27acqua.md).
 
 ## Cosa ti serve
 
@@ -61,9 +61,9 @@ Un cucchiaio da tavola è circa 15 ml. Un tappo di molte bottiglie contiene 10-2
 
 ## Per saperne di più
 
-- [[Igiene senza acqua corrente]]
-- [[Rifiuti e WC senza scarico]]
-- [[Alluvione]]
+- [Igiene senza acqua corrente](Igiene%20senza%20acqua%20corrente.md)
+- [Rifiuti e WC senza scarico](Rifiuti%20e%20WC%20senza%20scarico.md)
+- [Alluvione](../02%20Scenari/Alluvione.md)
 
 ## Fonti
 

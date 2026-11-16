@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 08 Trasformatori e circuiti RLC
 
-> [!summary] In breve
+> **In breve**
 > **Trasformatore**: due avvolgimenti sullo stesso nucleo. **V2 ÷ V1 = N2 ÷ N1** (rapporto spire). La corrente fa il contrario: I2 ÷ I1 = N1 ÷ N2.
 > Funziona solo in **alternata**. Trasforma anche le impedenze: **Z1 ÷ Z2 = (N1 ÷ N2)²**.
 > **Risonanza**: un circuito con L e C ha una frequenza in cui XL = XC: **f₀ = 1 ÷ (2π √(L C))**.
@@ -76,7 +76,7 @@ Regole pratiche: se **L o C aumentano**, f₀ **diminuisce**. Per **raddoppiare*
 2. In un LC serie alla risonanza, com'è l'impedenza?
 3. Se in un circuito LC si quadruplica C, cosa succede alla frequenza di risonanza?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. **23 V**.
 > 2. **Minima**, uguale alla sola resistenza.
 > 3. Si **dimezza**.
@@ -89,8 +89,8 @@ Regole pratiche: se **L o C aumentano**, f₀ **diminuisce**. Per **raddoppiare*
 
 ## Per saperne di più
 
-- [[05 Elettromagnetismo e induttori]]
-- [[09 Filtri e semiconduttori]]
+- [05 Elettromagnetismo e induttori](05%20Elettromagnetismo%20e%20induttori.md)
+- [09 Filtri e semiconduttori](09%20Filtri%20e%20semiconduttori.md)
 
 ## Fonti
 

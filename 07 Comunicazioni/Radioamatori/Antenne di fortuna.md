@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Antenne di fortuna
 
-> [!summary] In breve
+> **In breve**
 > L'antenna conta più della radio. Con **filo elettrico**, un **cavo coassiale** e un po' di nastro puoi costruire un'antenna migliore di quella in dotazione.
 > Il più semplice: il **dipolo**, due fili lunghi **ciascuno 1/4 della lunghezza d'onda**, collegati al centro del cavo.
 > Formula per ogni braccio, in metri: **71,3 ÷ frequenza in MHz** (per esempio 145 MHz → 49 cm; 27 MHz → circa 2,64 m).
@@ -25,7 +25,7 @@ In emergenza l'antenna originale può rompersi, oppure serve arrivare più lonta
 - **Cavo coassiale** (RG58 per brevi tratti) con il connettore adatto alla tua radio.
 - **Metro**, forbici, nastro isolante, fascette.
 - Un **isolatore** centrale (pezzo di plastica, tappo, tagliere) e corda non conduttiva per appenderla.
-- Un **rosmetro** per controllare (vedi [[CB 27 MHz]]).
+- Un **rosmetro** per controllare (vedi [CB 27 MHz](../Radio%20senza%20licenza/CB%2027%20MHz.md)).
 
 ## Antenna 1: dipolo
 
@@ -52,7 +52,7 @@ In emergenza l'antenna originale può rompersi, oppure serve arrivare più lonta
 
 Un filo lungo **10-20 m**, isolato, teso il più in alto possibile e collegato alla presa per antenna esterna della radio (o avvolto intorno all'antenna telescopica). Migliora moltissimo la ricezione.
 
-> [!warning] PMR446
+> **Attenzione: PMR446**
 > Sugli apparati **PMR446** l'antenna **non** si può cambiare per legge: devono restare come sono stati omologati.
 
 ## Errori da evitare
@@ -70,9 +70,9 @@ Un filo lungo **10-20 m**, isolato, teso il più in alto possibile e collegato a
 
 ## Per saperne di più
 
-- [[13 Antenne]] (lezione del corso)
-- [[CB 27 MHz]]
-- [[Frequenze di emergenza e chiamata]]
+- [13 Antenne](../Corso%20patente%20radioamatore/13%20Antenne.md) (lezione del corso)
+- [CB 27 MHz](../Radio%20senza%20licenza/CB%2027%20MHz.md)
+- [Frequenze di emergenza e chiamata](Frequenze%20di%20emergenza%20e%20chiamata.md)
 
 ## Fonti
 

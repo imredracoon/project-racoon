@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Pannello solare e power station
 
-> [!summary] In breve
+> **In breve**
 > Una **power station** è una grossa batteria con prese normali (230 V), USB e 12 V. Un **pannello solare portatile** la ricarica di giorno.
 > Per una famiglia basta di solito una power station da **300-1000 Wh** e un pannello da **100-200 W**.
 > Usala per telefono, luci, radio, router, piccoli apparecchi medici. **Non** per stufette, forni, phon o condizionatori.
@@ -57,7 +57,7 @@ Per telefono, luci e radio bastano **300-500 Wh**. Per il frigorifero o un appar
 
 ## Manutenzione
 
-- Ricarica al 100% e controlla ogni **3 mesi** (mettilo nel calendario insieme a [[Manutenzione del kit]]).
+- Ricarica al 100% e controlla ogni **3 mesi** (mettilo nel calendario insieme a [Manutenzione del kit](../01%20Preparazione/Manutenzione%20del%20kit.md)).
 - Conservala tra **10 e 25 °C**. Mai in auto d'estate.
 - Pulisci il pannello con un panno umido.
 
@@ -75,10 +75,10 @@ Per telefono, luci e radio bastano **300-500 Wh**. Per il frigorifero o un appar
 
 ## Per saperne di più
 
-- [[Power bank, pile e batterie]]
-- [[Generatore in sicurezza]]
-- [[Piccolo impianto a 12 volt]]
-- [[Blackout prolungato]]
+- [Power bank, pile e batterie](Power%20bank%2C%20pile%20e%20batterie.md)
+- [Generatore in sicurezza](Generatore%20in%20sicurezza.md)
+- [Piccolo impianto a 12 volt](Piccolo%20impianto%20a%2012%20volt.md)
+- [Blackout prolungato](../02%20Scenari/Blackout%20prolungato.md)
 
 ## Fonti
 

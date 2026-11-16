@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Installare le mappe offline sul telefono
 
-> [!summary] In breve
+> **In breve**
 > Installa **Organic Maps** (o la sua variante CoMaps) oppure **OsmAnd**. Scarica la regione **Puglia** (e, se hai spazio, le regioni vicine). Prova la mappa in modalità aereo.
 
 ## Perché è importante
@@ -32,7 +32,7 @@ Il telefono è quello che avrai in tasca se devi lasciare casa. Con le mappe off
 
 - Scaricare le mappe con i dati mobili: sono pesanti, usa il Wi-Fi.
 - Dimenticare di aggiornarle: fallo una volta l'anno.
-- Tenere il GPS sempre acceso in emergenza: consuma batteria. Accendilo solo quando ti serve (vedi [[Risparmiare la batteria del telefono]]).
+- Tenere il GPS sempre acceso in emergenza: consuma batteria. Accendilo solo quando ti serve (vedi [Risparmiare la batteria del telefono](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/Risparmiare%20la%20batteria%20del%20telefono.md)).
 
 ## Parole nuove
 
@@ -43,4 +43,4 @@ Il telefono è quello che avrai in tasca se devi lasciare casa. Con le mappe off
 
 - Organic Maps, organicmaps.app; OsmAnd, osmand.net (2026). Dati © contributori OpenStreetMap.
 
-← [[16 Biblioteca offline]]
+← [16 Biblioteca offline](16%20Biblioteca%20offline.md)

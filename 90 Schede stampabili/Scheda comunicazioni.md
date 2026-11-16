@@ -29,4 +29,4 @@ ultima_revisione: 2026-11-16
 ## Alfabeto fonetico
 A Alfa · B Bravo · C Charlie · D Delta · E Echo · F Foxtrot · G Golf · H Hotel · I India · J Juliett · K Kilo · L Lima · M Mike · N November · O Oscar · P Papa · Q Quebec · R Romeo · S Sierra · T Tango · U Uniform · V Victor · W Whiskey · X X-ray · Y Yankee · Z Zulu
 
-Guide: [[IT-Alert]] · [[Radio in emergenza]] · [[SMS invece delle chiamate]] · [[PMR446]] · [[Tabella canali e frequenze]]
+Guide: [IT-Alert](../07%20Comunicazioni/Ricevere%20informazioni/IT-Alert.md) · [Radio in emergenza](../07%20Comunicazioni/Ricevere%20informazioni/Radio%20in%20emergenza.md) · [SMS invece delle chiamate](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/SMS%20invece%20delle%20chiamate.md) · [PMR446](../07%20Comunicazioni/Radio%20senza%20licenza/PMR446.md) · [Tabella canali e frequenze](../07%20Comunicazioni/Frequenze%20e%20tabelle/Tabella%20canali%20e%20frequenze.md)

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Cibo a lunga conservazione
 
-> [!summary] In breve
+> **In breve**
 > Scegli cibi che **durano mesi o anni fuori dal frigo**, che **si mangiano senza cucinare** (o scaldandoli appena) e che **la tua famiglia mangia già**. Scatolette, legumi pronti, crackers, frutta secca, burro di arachidi, latte UHT. Ruota le scorte: usa prima quello che scade prima.
 
 ## Perché è importante
@@ -17,7 +17,7 @@ In un'emergenza i negozi possono restare chiusi o vuoti, e senza corrente frigo 
 
 ## Cosa comprare
 
-### Pronti da mangiare (la base del [[Kit 72 ore UE|kit 72 ore]])
+### Pronti da mangiare (la base del [kit 72 ore](../01%20Preparazione/Kit%2072%20ore%20UE.md))
 - Tonno, sgombro, sardine, carne in scatola.
 - **Legumi già cotti** in scatola o in vetro (ceci, fagioli, lenticchie).
 - Verdure e frutta sciroppata in scatola.
@@ -29,7 +29,7 @@ In un'emergenza i negozi possono restare chiusi o vuoti, e senza corrente frigo 
 - Cioccolato, miele, marmellata.
 - Omogeneizzati per i bambini piccoli.
 
-### Da cucinare (per le [[Scorte domestiche per due settimane|scorte di 2 settimane]])
+### Da cucinare (per le [scorte di 2 settimane](../01%20Preparazione/Scorte%20domestiche%20per%20due%20settimane.md))
 - Pasta, riso, cous cous (cuoce in pochi minuti, basta acqua bollente), farina, polenta istantanea.
 - Legumi secchi (richiedono molta acqua e gas: non contarci troppo).
 - Pelati, passata, olio, sale, zucchero, spezie.

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Coordinate e come comunicarle
 
-> [!summary] In breve
+> **In breve**
 > Le coordinate GPS sono **due numeri**: **latitudine** (nord-sud) e **longitudine** (est-ovest). In Puglia la latitudine è circa **40-42** e la longitudine circa **15-18,5**.
 > Leggile dal telefono: nell'app Mappe tieni premuto sul punto, oppure apri Organic Maps/OsmAnd o la bussola.
 > Dettale **lentamente, cifra per cifra**, dicendo prima "latitudine" e poi "longitudine". Fai ripetere.
@@ -21,7 +21,7 @@ In campagna, in un bosco, sulla costa o tra le macerie non ci sono numeri civici
 ## Cosa ti serve
 
 - Telefono con GPS (funziona anche **senza Internet** e in modalità aereo, ma serve cielo libero).
-- Un'app di mappe offline ([[App che funzionano senza Internet]]).
+- Un'app di mappe offline ([App che funzionano senza Internet](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/App%20che%20funzionano%20senza%20Internet.md)).
 - Carta e matita.
 
 ## Passo per passo: trovare le tue coordinate
@@ -62,9 +62,9 @@ Se chi riceve usa un altro formato, le app convertono in automatico. L'important
 
 ## Per saperne di più
 
-- [[Usare bussola e carta]]
-- [[Modelli di messaggio]]
-- [[Chiamare il 112]]
+- [Usare bussola e carta](Usare%20bussola%20e%20carta.md)
+- [Modelli di messaggio](../07%20Comunicazioni/Frequenze%20e%20tabelle/Modelli%20di%20messaggio.md)
+- [Chiamare il 112](../04%20Salute%20e%20primo%20soccorso/Chiamare%20il%20112.md)
 
 ## Fonti
 

@@ -8,8 +8,8 @@ ultima_revisione: 2026-11-16
 
 # Incidente chimico o industriale
 
-> [!summary] In breve
-> Se un'autorità, una sirena o un messaggio [[IT-Alert]] avvisa di un incidente in uno stabilimento industriale:
+> **In breve**
+> Se un'autorità, una sirena o un messaggio [IT-Alert](../07%20Comunicazioni/Ricevere%20informazioni/IT-Alert.md) avvisa di un incidente in uno stabilimento industriale:
 > 1. **Entra subito** nell'edificio più vicino (rifugio al chiuso).
 > 2. **Chiudi porte e finestre**, spegni condizionatori, ventilatori e caldaie.
 > 3. Resta in una **stanza interna**, con meno finestre possibile.
@@ -30,9 +30,9 @@ In Puglia ci sono grandi aree industriali, soprattutto a **Taranto** (acciaieria
 
 1. **Entra** nell'edificio più vicino, anche se non è casa tua. Se sei in auto, chiudi i finestrini e spegni la ventilazione. Raggiungi un edificio se è vicino.
 2. **Chiudi** porte e finestre. Spegni condizionatori, ventilatori, caldaie e cappe.
-3. **Sigilla** le fessure di porte e finestre con nastro adesivo e asciugamani bagnati. Vedi [[Rifugiarsi al chiuso]].
+3. **Sigilla** le fessure di porte e finestre con nastro adesivo e asciugamani bagnati. Vedi [Rifugiarsi al chiuso](../06%20Riparo%2C%20calore%20e%20casa/Rifugiarsi%20al%20chiuso.md).
 4. **Vai nella stanza rifugio**. In genere i gas pesanti si accumulano in basso: se possibile **evita cantine e piani interrati**.
-5. **Ascolta la radio** o la TV locale per le istruzioni: [[Radio in emergenza]].
+5. **Ascolta la radio** o la TV locale per le istruzioni: [Radio in emergenza](../07%20Comunicazioni/Ricevere%20informazioni/Radio%20in%20emergenza.md).
 6. **Non usare fiamme** e non fumare.
 7. **Non telefonare** se non per emergenze: le linee servono ai soccorsi.
 8. Se senti bruciore agli occhi o alla gola, respira attraverso un panno umido.
@@ -40,7 +40,7 @@ In Puglia ci sono grandi aree industriali, soprattutto a **Taranto** (acciaieria
 
 ## Se ti dicono di evacuare
 
-Segui i percorsi indicati dalle autorità, **perpendicolari al vento** (cioè di lato rispetto alla direzione in cui va il fumo, non nella stessa direzione). Porta lo [[Zaino di evacuazione|zaino]].
+Segui i percorsi indicati dalle autorità, **perpendicolari al vento** (cioè di lato rispetto alla direzione in cui va il fumo, non nella stessa direzione). Porta lo [zaino](../01%20Preparazione/Zaino%20di%20evacuazione.md).
 
 ## Errori da evitare
 
@@ -57,8 +57,8 @@ Segui i percorsi indicati dalle autorità, **perpendicolari al vento** (cioè di
 
 ## Per saperne di più
 
-- [[Rischi in Puglia]]
-- [[Emergenza nucleare o radiologica]]
+- [Rischi in Puglia](Rischi%20in%20Puglia.md)
+- [Emergenza nucleare o radiologica](Emergenza%20nucleare%20o%20radiologica.md)
 
 ## Fonti
 

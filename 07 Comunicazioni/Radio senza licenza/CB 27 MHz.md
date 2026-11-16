@@ -8,10 +8,10 @@ ultima_revisione: 2026-11-16
 
 # CB 27 MHz
 
-> [!summary] In breve
+> **In breve**
 > La **CB** (Citizen Band, "banda cittadina") usa **40 canali** intorno ai **27 MHz**.
 > In Italia dal 2020 è di **libero uso**: non servono patente né autorizzazione, basta un apparato **omologato CE**.
-> Arriva più lontano dei [[PMR446]]: da qualche km fino a 10-30 km con una buona antenna, e a volte molto oltre.
+> Arriva più lontano dei [PMR446](PMR446.md): da qualche km fino a 10-30 km con una buona antenna, e a volte molto oltre.
 > Per consuetudine il **canale 9** è riservato alle **emergenze**.
 
 ## Perché è importante
@@ -22,7 +22,7 @@ La CB è una radio semplice, economica e molto diffusa tra camionisti, appassion
 
 - **Apparato CB omologato** (portatile, veicolare o da base). Meglio veicolare o da base: i portatili hanno antenne corte e arrivano poco.
 - **Antenna**: sull'auto (magnetica) o sul tetto. In CB **l'antenna conta più della radio**.
-- **Alimentazione a 12 V**: batteria dell'auto o alimentatore; in casa una batteria con [[Pannello solare e power station|power station]].
+- **Alimentazione a 12 V**: batteria dell'auto o alimentatore; in casa una batteria con [power station](../../05%20Energia%20e%20luce/Pannello%20solare%20e%20power%20station.md).
 - Un **misuratore di ROS** (rosmetro) per regolare l'antenna (vedi più sotto).
 
 ## Le regole in breve
@@ -50,12 +50,12 @@ Le abitudini cambiano da zona a zona: chiedi a un gruppo CB locale o a un'associ
 3. Accendi, scegli il modo **FM o AM** (chi ascolta deve usare lo stesso).
 4. Regola lo **squelch** (soppressore di rumore) finché il fruscio sparisce appena.
 5. Metti il **canale 5** o quello usato nella tua zona, **ascolta** per un minuto.
-6. Se è libero, premi il tasto, aspetta mezzo secondo e parla: "Qui [tuo nome o sigla], qualcuno in ascolto?" Rilascia il tasto e ascolta. Vedi [[Come si parla in radio]].
+6. Se è libero, premi il tasto, aspetta mezzo secondo e parla: "Qui [tuo nome o sigla], qualcuno in ascolto?" Rilascia il tasto e ascolta. Vedi [Come si parla in radio](Come%20si%20parla%20in%20radio.md).
 
 ## In emergenza
 
 1. Ascolta il **canale 9**.
-2. Se devi chiedere aiuto: "**Emergenza, emergenza, emergenza**, qui [nome], mi trovo a [luogo], [cosa succede], [di cosa ho bisogno]". Usa il [[Modelli di messaggio|modello di messaggio]].
+2. Se devi chiedere aiuto: "**Emergenza, emergenza, emergenza**, qui [nome], mi trovo a [luogo], [cosa succede], [di cosa ho bisogno]". Usa il [modello di messaggio](../Frequenze%20e%20tabelle/Modelli%20di%20messaggio.md).
 3. Se nessuno risponde, ripeti ogni pochi minuti e prova anche sui canali 5 e 19.
 4. Ricorda: per i soccorsi il canale principale resta il **112**. La CB serve quando il telefono non va.
 
@@ -73,9 +73,9 @@ Le abitudini cambiano da zona a zona: chiedi a un gruppo CB locale o a un'associ
 
 ## Per saperne di più
 
-- [[PMR446]]
-- [[Tabella canali e frequenze]]
-- [[Cos'è un radioamatore]]
+- [PMR446](PMR446.md)
+- [Tabella canali e frequenze](../Frequenze%20e%20tabelle/Tabella%20canali%20e%20frequenze.md)
+- [Cos'è un radioamatore](../Radioamatori/Cos%27%C3%A8%20un%20radioamatore.md)
 
 ## Fonti
 

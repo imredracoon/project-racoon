@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Conservare il cibo senza frigorifero
 
-> [!summary] In breve
+> **In breve**
 > Senza corrente: tieni **chiusi** frigo e congelatore (il frigo resta freddo circa **4 ore**, il congelatore pieno circa **48 ore**). Mangia **prima** il cibo del frigo, poi quello del congelatore, infine le scorte. **Nel dubbio, butta**: carne, pesce, latticini e cibi cotti stati sopra i 4 °C per più di 2 ore (o 4 ore in totale) sono a rischio.
 
 ## Passo per passo

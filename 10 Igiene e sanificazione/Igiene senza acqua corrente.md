@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Igiene senza acqua corrente
 
-> [!summary] In breve
+> **In breve**
 > Quando l'acqua manca, l'igiene diventa ancora più importante: le malattie si diffondono in fretta. Le regole principali:
 > - **Lava le mani** (o usa il gel) **prima di mangiare o toccare cibo** e **dopo il bagno**.
 > - Usa l'acqua potabile **solo per bere e cucinare**: per lavarti usa poca acqua e salviette.
@@ -26,7 +26,7 @@ Diarrea, vomito e infezioni sono tra i problemi più comuni dopo le emergenze. B
 - [ ] **Shampoo secco** (facoltativo).
 - [ ] Sacchi della spazzatura resistenti, guanti monouso.
 - [ ] Carta igienica, assorbenti, pannolini.
-- [ ] Candeggina senza profumo: [[Disinfettare con la candeggina]].
+- [ ] Candeggina senza profumo: [Disinfettare con la candeggina](Disinfettare%20con%20la%20candeggina.md).
 
 ## Passo per passo
 
@@ -48,7 +48,7 @@ Lavali con acqua **potabile** (o bollita) e poco dentifricio: ne basta un bicchi
 - Pulisci le superfici dove prepari il cibo.
 
 ### WC
-Se lo scarico non funziona: vedi [[Rifiuti e WC senza scarico]].
+Se lo scarico non funziona: vedi [Rifiuti e WC senza scarico](Rifiuti%20e%20WC%20senza%20scarico.md).
 
 ## Errori da evitare
 

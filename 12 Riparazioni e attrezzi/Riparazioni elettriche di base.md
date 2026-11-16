@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Riparazioni elettriche di base
 
-> [!summary] In breve
+> **In breve**
 > **Prima** di toccare qualunque cosa: **stacca l'interruttore generale** al quadro e verifica con un **cercafase** che non ci sia corrente.
 > Puoi fare da solo: **riarmare il salvavita**, cambiare una **lampadina**, cambiare la **spina** di un apparecchio, isolare un cavo **rovinato**.
 > **Non** fare: lavori dentro l'impianto, prese e quadro dopo un'**alluvione** o un incendio. Lì serve un **elettricista abilitato**.
@@ -54,7 +54,7 @@ La corrente uccide. Ma molti "guasti" in emergenza sono semplici: il salvavita s
 - Lavorare "con attenzione" senza staccare la corrente.
 - Sostituire un fusibile con uno più grande o con un filo.
 - Usare apparecchi bagnati.
-- Collegare un generatore alle prese di casa ([[Generatore in sicurezza]]).
+- Collegare un generatore alle prese di casa ([Generatore in sicurezza](../05%20Energia%20e%20luce/Generatore%20in%20sicurezza.md)).
 
 ## Parole nuove
 
@@ -64,9 +64,9 @@ La corrente uccide. Ma molti "guasti" in emergenza sono semplici: il salvavita s
 
 ## Per saperne di più
 
-- [[Chiudere gas, acqua e luce]]
-- [[Piccolo impianto a 12 volt]]
-- [[Cassetta attrezzi minima]]
+- [Chiudere gas, acqua e luce](../06%20Riparo%2C%20calore%20e%20casa/Chiudere%20gas%2C%20acqua%20e%20luce.md)
+- [Piccolo impianto a 12 volt](../05%20Energia%20e%20luce/Piccolo%20impianto%20a%2012%20volt.md)
+- [Cassetta attrezzi minima](Cassetta%20attrezzi%20minima.md)
 
 ## Fonti
 

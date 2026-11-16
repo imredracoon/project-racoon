@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Proteggere l'elettronica
 
-> [!summary] In breve
+> **In breve**
 > **Acqua**: tieni telefono, radio, power bank e chiavette in **buste stagne** o sacchetti zip doppi.
 > **Fulmini e sbalzi**: durante i temporali e quando torna la corrente dopo un blackout, **stacca le spine** degli apparecchi importanti.
 > **Caldo e freddo**: batterie lontane dal sole e dal gelo.
@@ -40,11 +40,11 @@ Nell'emergenza l'elettronica è preziosa e difficile da sostituire. Si rompe sop
 2. Al freddo tieni il telefono in una tasca interna.
 
 ### Scorte in una scatola di metallo
-1. Metti nella scatola: un **vecchio telefono** carico, una **radiolina**, una **chiavetta** con i [[Backup dei documenti importanti|documenti]] e questa wiki, cavi di ricambio.
+1. Metti nella scatola: un **vecchio telefono** carico, una **radiolina**, una **chiavetta** con i [documenti](Backup%20dei%20documenti%20importanti.md) e questa wiki, cavi di ricambio.
 2. Chiudi e conserva in un luogo asciutto.
 3. Ogni 6 mesi ricarica e prova.
 
-> [!note] Impulsi elettromagnetici
+> **Nota: Impulsi elettromagnetici**
 > La scatola di metallo protegge anche, in parte, da forti disturbi elettromagnetici (tempeste solari estreme). Sono eventi molto rari: il motivo principale per usarla è che è robusta e chiusa.
 
 ## Errori da evitare
@@ -55,8 +55,8 @@ Nell'emergenza l'elettronica è preziosa e difficile da sostituire. Si rompe sop
 
 ## Per saperne di più
 
-- [[Power bank, pile e batterie]]
-- [[Aggiornare e copiare questo vault]]
+- [Power bank, pile e batterie](../05%20Energia%20e%20luce/Power%20bank%2C%20pile%20e%20batterie.md)
+- [Aggiornare e copiare questa wiki](Aggiornare%20e%20copiare%20questa%20wiki.md)
 
 ## Fonti
 

@@ -35,4 +35,4 @@ ultima_revisione: 2026-11-16
 | ☐ | Cose per bambini / anziani / disabili | | |
 | ☐ | Fornellino da campeggio e cartucce (all'aperto!) | | |
 
-Spiegazioni: [[Kit 72 ore UE]] · Manutenzione: [[Manutenzione del kit]]
+Spiegazioni: [Kit 72 ore UE](../01%20Preparazione/Kit%2072%20ore%20UE.md) · Manutenzione: [Manutenzione del kit](../01%20Preparazione/Manutenzione%20del%20kit.md)

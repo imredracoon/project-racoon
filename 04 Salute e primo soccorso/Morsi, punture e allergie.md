@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Morsi, punture e allergie
 
-> [!summary] In breve
+> **In breve**
 > - **Reazione allergica grave** (anafilassi: gonfiore di labbra o lingua, fatica a respirare, svenimento): **112** e **adrenalina** con l'autoiniettore, se la persona ce l'ha.
 > - **Vipera**: **calma, immobilità**, togli anelli, **112**. Niente laccio, niente tagli, niente succhiare.
 > - **Zecca**: toglila con una **pinzetta**, tirando piano e dritto.
@@ -30,9 +30,9 @@ Pochi minuti dopo una puntura d'insetto, un cibo o un farmaco:
 3. **Posizione**:
    - se fa fatica a respirare: **seduta**;
    - se è pallida e debole: **sdraiata** con le gambe sollevate;
-   - se perde i sensi e respira: [[Shock e posizione laterale di sicurezza|posizione laterale di sicurezza]].
+   - se perde i sensi e respira: [posizione laterale di sicurezza](Shock%20e%20posizione%20laterale%20di%20sicurezza.md).
 4. Se dopo 5 minuti non migliora e c'è una seconda penna, si può fare una seconda dose.
-5. Se smette di respirare: [[Rianimazione cardiopolmonare e DAE|rianimazione]].
+5. Se smette di respirare: [rianimazione](Rianimazione%20cardiopolmonare%20e%20DAE.md).
 
 ## Vipera
 

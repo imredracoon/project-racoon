@@ -4,7 +4,7 @@ tipo: licenze
 
 # Attribuzioni e licenze di terzi
 
-Il progetto è sotto licenza MIT, ma solo per i contenuti originali. Qui sono elencati i file di terzi inclusi nel vault, con autore e licenza.
+Il progetto è sotto licenza MIT, ma solo per i contenuti originali. Qui sono elencati i file di terzi inclusi nella wiki, con autore e licenza.
 
 **Regole**
 - Ammessi senza problemi: contenuti di pubblico dominio o CC0.
@@ -16,4 +16,4 @@ Il progetto è sotto licenza MIT, ma solo per i contenuti originali. Qui sono el
 |---|---|---|---|
 | *(nessun file di terzi per ora)* | | | |
 
-← [[00 - START]]
+← [00 - START](../00%20-%20START.md)

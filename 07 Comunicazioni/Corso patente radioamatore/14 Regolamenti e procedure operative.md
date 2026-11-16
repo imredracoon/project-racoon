@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 14 Regolamenti e procedure operative
 
-> [!summary] In breve
+> **In breve**
 > Per trasmettere servono **patente** e **autorizzazione generale** con **nominativo**. Si comunica solo con altri radioamatori, in **linguaggio chiaro** (niente cifratura), senza scopi commerciali.
 > Il **nominativo** si dice **all'inizio, alla fine e almeno ogni 10 minuti**.
 > Si usano solo le **bande** assegnate ai radioamatori nel **Piano nazionale di ripartizione delle frequenze** (PNRF), con le potenze massime previste.
@@ -93,19 +93,19 @@ In fonia si danno due cifre: "**59**". In CW tre: "**599**".
 ## Come si fa un collegamento
 
 1. **Ascolta** sulla frequenza. Chiedi "**è libera la frequenza?**" (in CW: QRL?).
-2. **Chiamata**: "**CQ CQ CQ** da IZ7XYZ, IZ7XYZ, IZ7XYZ, passo" (con l'[[Alfabeto fonetico]] per il nominativo).
+2. **Chiamata**: "**CQ CQ CQ** da IZ7XYZ, IZ7XYZ, IZ7XYZ, passo" (con l'[Alfabeto fonetico](../Radio%20senza%20licenza/Alfabeto%20fonetico.md) per il nominativo).
 3. Chi risponde: "IZ7XYZ da IK7ABC, passo".
 4. Scambio di: **rapporto** (59), **nome**, **QTH**, condizioni.
 5. **Saluti**: "73, IK7ABC da IZ7XYZ, chiudo".
 6. Annota nel **log** (data, ora UTC, frequenza, modo, nominativo, rapporto) se vuoi scambiare le QSL.
 
-Vedi anche [[Come si parla in radio]].
+Vedi anche [Come si parla in radio](../Radio%20senza%20licenza/Come%20si%20parla%20in%20radio.md).
 
 ## Il traffico di emergenza
 
 - Il segnale di soccorso (**MAYDAY** in fonia, **SOS** in CW) è riservato a pericolo **grave e imminente**. Il radioamatore non deve usarlo **impropriamente**.
 - Se senti una richiesta di soccorso: **ascolta, annota, rispondi** se nessuno lo fa, avvisa le autorità (112), **lascia libera** la frequenza.
-- Vedi [[Le reti radio di emergenza in Italia]] e [[Frequenze di emergenza e chiamata]].
+- Vedi [Le reti radio di emergenza in Italia](../Radioamatori/Le%20reti%20radio%20di%20emergenza%20in%20Italia.md) e [Frequenze di emergenza e chiamata](../Radioamatori/Frequenze%20di%20emergenza%20e%20chiamata.md).
 
 ## Compatibilità elettromagnetica (EMC)
 
@@ -120,7 +120,7 @@ Vedi anche [[Come si parla in radio]].
 3. Cosa indica un rapporto "57" in fonia?
 4. È consentito trasmettere messaggi cifrati?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. All'inizio, alla fine e almeno **ogni 10 minuti**.
 > 2. La **località** della stazione.
 > 3. Leggibilità **5** (perfetta), forza **7** (buona).
@@ -135,8 +135,8 @@ Vedi anche [[Come si parla in radio]].
 
 ## Per saperne di più
 
-- [[Cos'è un radioamatore]]
-- [[15 Ripasso pre-esame]]
+- [Cos'è un radioamatore](../Radioamatori/Cos%27%C3%A8%20un%20radioamatore.md)
+- [15 Ripasso pre-esame](15%20Ripasso%20pre-esame.md)
 
 ## Fonti
 

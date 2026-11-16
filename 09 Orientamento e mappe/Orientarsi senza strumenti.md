@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Orientarsi senza strumenti
 
-> [!summary] In breve
+> **In breve**
 > **Sole**: sorge a **est**, tramonta a **ovest**; a mezzogiorno (13 con l'ora legale) è a **sud**.
 > **Di notte**: la **Stella Polare** indica il **nord**. La trovi prolungando di 5 volte il lato posteriore del "Grande Carro".
 > In Puglia il **mare Adriatico** è a est/nord-est, lo **Ionio** a sud/ovest nel Salento e nel Tarantino.
@@ -47,8 +47,8 @@ Se perdi telefono e bussola, il cielo e il paesaggio ti danno comunque la direzi
 
 ## Per saperne di più
 
-- [[Usare bussola e carta]]
-- [[Mappe della mia zona]]
+- [Usare bussola e carta](Usare%20bussola%20e%20carta.md)
+- [Mappe della mia zona](Mappe%20della%20mia%20zona.md)
 
 ## Fonti
 

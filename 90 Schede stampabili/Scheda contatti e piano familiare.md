@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Scheda contatti e piano familiare
 
-> [!warning] Dati personali
+> **Attenzione: Dati personali**
 > Compila **la copia stampata**, non questa pagina, oppure fai una copia di questa nota nella cartella `_personale/`, che non viene pubblicata su GitHub.
 
 ## Famiglia
@@ -69,4 +69,4 @@ Emergenze: **112**
 - Interruttore generale della luce: ______________________
 - Kit di emergenza: ______________________
 
-Spiegazioni: [[Piano familiare di emergenza]] · [[Piano di comunicazione familiare]] · [[Chiudere gas, acqua e luce]]
+Spiegazioni: [Piano familiare di emergenza](../01%20Preparazione/Piano%20familiare%20di%20emergenza.md) · [Piano di comunicazione familiare](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/Piano%20di%20comunicazione%20familiare.md) · [Chiudere gas, acqua e luce](../06%20Riparo%2C%20calore%20e%20casa/Chiudere%20gas%2C%20acqua%20e%20luce.md)

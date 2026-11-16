@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Parlare di emergenze con i bambini
 
-> [!summary] In breve
+> **In breve**
 > I bambini capiscono molto più di quanto pensiamo: **parlane** con parole semplici e **vere**, adatte all'età.
 > Prima: trasformate la preparazione in un **gioco** (lo zaino, il punto di ritrovo, il numero 112).
 > Durante: **resta vicino**, mantieni piccole abitudini, rispondi alle domande senza dettagli spaventosi.
@@ -60,9 +60,9 @@ I bambini prendono la calma o la paura dagli adulti. Se sanno cosa fare, si sent
 
 ## Per saperne di più
 
-- [[Bambini piccoli]]
-- [[Gestire stress e panico]]
-- [[Piano familiare di emergenza]]
+- [Bambini piccoli](../13%20Persone%20e%20animali%20vulnerabili/Bambini%20piccoli.md)
+- [Gestire stress e panico](Gestire%20stress%20e%20panico.md)
+- [Piano familiare di emergenza](../01%20Preparazione/Piano%20familiare%20di%20emergenza.md)
 
 ## Fonti
 

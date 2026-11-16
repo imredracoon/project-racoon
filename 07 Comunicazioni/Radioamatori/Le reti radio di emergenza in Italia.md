@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Le reti radio di emergenza in Italia
 
-> [!summary] In breve
+> **In breve**
 > In Italia esistono gruppi di **volontari radio** che, in caso di disastro, collegano i centri di soccorso quando telefoni e Internet non vanno.
 > I principali: **ARI-RE** (radioamatori), **RNRE** e associazioni **CB** come la **FIR-CB SER**, inquadrati nel volontariato di **Protezione Civile**.
 > Se vuoi aiutare: iscriviti a una di queste associazioni nella tua provincia. Se hai bisogno di aiuto: chiama il **112**; se non funziona, cerca la radio sul canale 9 CB o rivolgiti al più vicino punto di raccolta del Comune.
@@ -23,7 +23,7 @@ Dopo i terremoti dell'Irpinia (1980), dell'Aquila (2009) e del Centro Italia (20
 |---|---|---|
 | **ARI-RE** (Radiocomunicazioni di Emergenza dell'ARI) | Radioamatori con nominativo | Bande radioamatoriali VHF/UHF e onde corte, digitale |
 | **RNRE** (Raggruppamento Nazionale Radiocomunicazioni Emergenza) | Radioamatori e volontari | Bande radioamatoriali e frequenze assegnate |
-| **FIR-CB SER** (Servizio Emergenza Radio) | Appassionati CB | [[CB 27 MHz]] |
+| **FIR-CB SER** (Servizio Emergenza Radio) | Appassionati CB | [CB 27 MHz](../Radio%20senza%20licenza/CB%2027%20MHz.md) |
 | Altre associazioni locali di protezione civile | Volontari | Frequenze assegnate dal Comune o dalla Regione |
 
 Le associazioni sono iscritte negli **elenchi del volontariato di protezione civile** (nazionale e regionali) e agiscono quando le attiva la Protezione Civile.
@@ -39,7 +39,7 @@ Le associazioni sono iscritte negli **elenchi del volontariato di protezione civ
 
 - **Prima**: se ti interessa, contatta la sezione locale di una di queste associazioni. Spesso cercano anche volontari **senza patente** (logistica, segreteria, ascolto).
 - **Durante**: non occupare le frequenze di emergenza per curiosità. Ascoltare è libero e può darti notizie utili.
-- **Se hai bisogno**: segui [[Modelli di messaggio]] per dare informazioni chiare.
+- **Se hai bisogno**: segui [Modelli di messaggio](../Frequenze%20e%20tabelle/Modelli%20di%20messaggio.md) per dare informazioni chiare.
 
 ## Parole nuove
 
@@ -48,9 +48,9 @@ Le associazioni sono iscritte negli **elenchi del volontariato di protezione civ
 
 ## Per saperne di più
 
-- [[Cos'è un radioamatore]]
-- [[Frequenze di emergenza e chiamata]]
-- [[Piano di evacuazione del Comune]]
+- [Cos'è un radioamatore](Cos%27%C3%A8%20un%20radioamatore.md)
+- [Frequenze di emergenza e chiamata](Frequenze%20di%20emergenza%20e%20chiamata.md)
+- [Piano di evacuazione del Comune](../../08%20Sicurezza%20ed%20evacuazione/Piano%20di%20evacuazione%20del%20Comune.md)
 
 ## Fonti
 

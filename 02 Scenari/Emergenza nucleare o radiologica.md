@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Emergenza nucleare o radiologica
 
-> [!summary] In breve
+> **In breve**
 > In caso di incidente nucleare o radiologico (centrale, nave a propulsione nucleare in porto, trasporto di materiali, ordigno):
 > 1. **Entra subito** in un edificio solido e **resta dentro** (ideale: al centro dell'edificio o in cantina, lontano da finestre).
 > 2. **Chiudi** porte e finestre, **spegni** la ventilazione.
@@ -29,14 +29,14 @@ In Italia non ci sono centrali nucleari attive, ma ce ne sono in Paesi vicini, e
 ## Durante
 
 1. **Entra**: casa, ufficio, negozio, quello che è più vicino. Un'auto protegge poco.
-2. **Chiudi e spegni**: vedi [[Rifugiarsi al chiuso]]. In questo caso, a differenza delle nubi chimiche, la **cantina** o il **centro dell'edificio** sono la scelta migliore.
+2. **Chiudi e spegni**: vedi [Rifugiarsi al chiuso](../06%20Riparo%2C%20calore%20e%20casa/Rifugiarsi%20al%20chiuso.md). In questo caso, a differenza delle nubi chimiche, la **cantina** o il **centro dell'edificio** sono la scelta migliore.
 3. **Decontaminati** se eri all'aperto:
    1. togli con attenzione i vestiti esterni e le scarpe (toglie gran parte della contaminazione) e mettili in un sacchetto chiuso, lontano dalle persone;
    2. fai una **doccia** con acqua tiepida e sapone, lava i capelli con shampoo **senza balsamo**;
    3. se non hai acqua, pulisci viso e mani con salviette umide.
 4. **Animali**: portali dentro e lavali se erano fuori.
 5. **Cibo e acqua**: usa quelli conservati in casa in contenitori chiusi. Non mangiare verdure dell'orto né bere acqua piovana finché le autorità non dicono che è sicuro.
-6. **Ascolta la radio** e aspetta istruzioni: [[Radio in emergenza]], [[IT-Alert]].
+6. **Ascolta la radio** e aspetta istruzioni: [Radio in emergenza](../07%20Comunicazioni/Ricevere%20informazioni/Radio%20in%20emergenza.md), [IT-Alert](../07%20Comunicazioni/Ricevere%20informazioni/IT-Alert.md).
 
 ## Lo iodio (ioduro di potassio)
 
@@ -51,7 +51,7 @@ In Italia non ci sono centrali nucleari attive, ma ce ne sono in Paesi vicini, e
 - **Scappare in auto** senza indicazioni: si rischia di restare all'aperto proprio quando la ricaduta è più forte.
 - **Andare a prendere i bambini a scuola**: anche loro sono al riparo.
 - **Prendere iodio da soli**.
-- **Diffondere notizie non verificate**: [[Fonti ufficiali e disinformazione]].
+- **Diffondere notizie non verificate**: [Fonti ufficiali e disinformazione](../07%20Comunicazioni/Ricevere%20informazioni/Fonti%20ufficiali%20e%20disinformazione.md).
 
 ## Parole nuove
 

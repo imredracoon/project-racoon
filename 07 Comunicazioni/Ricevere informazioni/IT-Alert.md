@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # IT-Alert
 
-> [!summary] In breve
+> **In breve**
 > IT-Alert è il **sistema di allarme pubblico italiano**: in caso di grave pericolo manda un messaggio a **tutti i cellulari accesi in una zona**, anche in modalità silenziosa, con un **suono forte e diverso dal solito**. Non serve registrarsi né installare app. Quando arriva: **leggilo con calma e fai subito quello che dice**.
 
 ## Perché è importante
@@ -35,9 +35,9 @@ Per la Puglia sono rilevanti soprattutto gli **incidenti industriali** (Taranto,
 ## Quando arriva un messaggio
 
 1. **Fermati e leggilo tutto**. Contiene cosa sta succedendo, dove e cosa fare.
-2. **Segui le indicazioni**: per esempio [[Rifugiarsi al chiuso]], allontanarsi dalla costa, evacuare.
+2. **Segui le indicazioni**: per esempio [Rifugiarsi al chiuso](../../06%20Riparo%2C%20calore%20e%20casa/Rifugiarsi%20al%20chiuso.md), allontanarsi dalla costa, evacuare.
 3. **Informa chi è con te** e chi potrebbe non averlo ricevuto (bambini senza telefono, anziani, persone sorde o cieche).
-4. Cerca conferme e aggiornamenti su radio, TV e canali ufficiali: [[Radio in emergenza]], [[Fonti ufficiali e disinformazione]].
+4. Cerca conferme e aggiornamenti su radio, TV e canali ufficiali: [Radio in emergenza](Radio%20in%20emergenza.md), [Fonti ufficiali e disinformazione](Fonti%20ufficiali%20e%20disinformazione.md).
 5. **Non chiamare il 112 per chiedere informazioni**: tieni libera la linea per le emergenze.
 
 ## I messaggi di test

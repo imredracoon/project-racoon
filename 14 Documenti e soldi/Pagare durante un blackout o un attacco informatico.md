@@ -8,9 +8,9 @@ ultima_revisione: 2026-11-16
 
 # Pagare durante un blackout o un attacco informatico
 
-> [!summary] In breve
+> **In breve**
 > Senza corrente o con i sistemi bancari bloccati **carte, bancomat e app non funzionano**.
-> Tieni a casa **contanti in banconote di piccolo taglio** per almeno una o due settimane di spese essenziali (vedi [[Contanti]]).
+> Tieni a casa **contanti in banconote di piccolo taglio** per almeno una o due settimane di spese essenziali (vedi [Contanti](Contanti.md)).
 > Fai benzina e prendi contanti **appena** arriva un'allerta.
 > Diffida di SMS, chiamate ed email che parlano di "blocco del conto": è il momento preferito dai truffatori.
 
@@ -22,12 +22,12 @@ I pagamenti elettronici dipendono da corrente, linee telefoniche e computer dell
 
 - **Contanti** in banconote da 5, 10, 20 euro e monete, in posti diversi.
 - **Due carte** di circuiti o banche diversi, se possibile.
-- I **numeri** per bloccare le carte, scritti su carta ([[Documenti da avere in copia]]).
+- I **numeri** per bloccare le carte, scritti su carta ([Documenti da avere in copia](Documenti%20da%20avere%20in%20copia.md)).
 
 ## Passo per passo
 
 ### Prima
-1. Tieni in casa una **riserva di contanti** (vedi [[Contanti]] per quanto).
+1. Tieni in casa una **riserva di contanti** (vedi [Contanti](Contanti.md) per quanto).
 2. Tieni il **serbatoio dell'auto** sopra la metà.
 3. Scrivi su carta: IBAN, numeri verdi delle banche, numero per bloccare le carte.
 
@@ -50,9 +50,9 @@ I pagamenti elettronici dipendono da corrente, linee telefoniche e computer dell
 
 ## Per saperne di più
 
-- [[Contanti]]
-- [[Attacco informatico su larga scala]]
-- [[Blackout prolungato]]
+- [Contanti](Contanti.md)
+- [Attacco informatico su larga scala](../02%20Scenari/Attacco%20informatico%20su%20larga%20scala.md)
+- [Blackout prolungato](../02%20Scenari/Blackout%20prolungato.md)
 
 ## Fonti
 

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Backup dei documenti importanti
 
-> [!summary] In breve
+> **In breve**
 > Fai una **copia digitale cifrata** dei documenti importanti (identità, salute, casa, banca, assicurazioni) su una **chiavetta USB** da tenere nello zaino, e una **seconda copia** in un posto diverso (da un parente o in cloud). Usa un programma gratuito come **VeraCrypt** o un archivio **7-Zip con password**. Aggiorna una volta l'anno.
 
 ## Perché è importante
@@ -25,7 +25,7 @@ Un incendio, un'alluvione o un furto possono distruggere tutti i documenti in un
 - [ ] Coordinate bancarie (**senza** PIN o password!).
 - [ ] Libretto dell'auto, assicurazione auto.
 - [ ] Foto recenti dei familiari (utili se qualcuno si perde) e degli animali.
-- [ ] Il [[Piano familiare di emergenza]] e i contatti.
+- [ ] Il [Piano familiare di emergenza](../01%20Preparazione/Piano%20familiare%20di%20emergenza.md) e i contatti.
 - [ ] Una copia di **questa wiki**.
 
 ## Passo per passo
@@ -35,7 +35,7 @@ Un incendio, un'alluvione o un furto possono distruggere tutti i documenti in un
 3. **Cifra** la cartella, perché contiene dati molto personali:
    - **7-Zip** (Windows, Linux con `p7zip`): tasto destro → *Aggiungi all'archivio* → formato `7z`, inserisci una password lunga e spunta *Cifra anche i nomi dei file*.
    - **VeraCrypt** (Windows, macOS, Linux): crea un "volume" cifrato, cioè un file che si apre come una chiavetta protetta da password.
-4. **Copia** il file cifrato su **due chiavette USB**: una nello [[Zaino di evacuazione|zaino]], una da un parente fidato o in ufficio.
+4. **Copia** il file cifrato su **due chiavette USB**: una nello [zaino](../01%20Preparazione/Zaino%20di%20evacuazione.md), una da un parente fidato o in ufficio.
 5. Facoltativo: una terza copia su un servizio cloud (Google Drive, iCloud, ecc.), sempre **cifrata**.
 6. **La password**: scegli una frase lunga facile da ricordare. Scrivila su un foglio da tenere **separato** dalla chiavetta (per esempio nel portafoglio o comunicata al contatto fuori zona).
 7. Una volta l'anno **aggiorna** e **prova** ad aprire il file.
@@ -55,5 +55,5 @@ Un incendio, un'alluvione o un furto possono distruggere tutti i documenti in un
 
 ## Per saperne di più
 
-- [[Documenti da avere in copia]]
-- [[Aggiornare e copiare questo vault]]
+- [Documenti da avere in copia](../14%20Documenti%20e%20soldi/Documenti%20da%20avere%20in%20copia.md)
+- [Aggiornare e copiare questa wiki](Aggiornare%20e%20copiare%20questa%20wiki.md)

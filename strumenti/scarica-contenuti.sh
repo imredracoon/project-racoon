@@ -59,4 +59,4 @@ else
 fi
 
 echo
-echo "Fatto. Per accendere Wikipedia per Obsidian: ./strumenti/avvia-biblioteca.sh"
+echo "Fatto. Per accendere Wikipedia per i link della wiki: ./strumenti/avvia-biblioteca.sh"

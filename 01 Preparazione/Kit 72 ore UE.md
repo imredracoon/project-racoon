@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Kit 72 ore UE
 
-> [!summary] In breve
+> **In breve**
 > L'Unione Europea consiglia a ogni famiglia di avere in casa il necessario per **cavarsela da sola per almeno 72 ore** (3 giorni): acqua, cibo che non va cucinato, farmaci, luce, una radio a pile, contanti, documenti. Non serve comprare tutto subito: si costruisce un po' alla volta, partendo da quello che hai già.
 
 ## Perché è importante
@@ -18,30 +18,30 @@ Nelle prime ore di un'emergenza grande (terremoto, alluvione, blackout esteso) i
 ## Cosa ti serve (per ogni persona)
 
 ### Acqua e cibo
-- [ ] **Acqua**: almeno **3 litri al giorno a persona**, quindi 9 litri per 3 giorni (2 litri per bere, 1 per cucinare e lavarsi il minimo). Vedi [[Quanta acqua conservare e come]].
+- [ ] **Acqua**: almeno **3 litri al giorno a persona**, quindi 9 litri per 3 giorni (2 litri per bere, 1 per cucinare e lavarsi il minimo). Vedi [Quanta acqua conservare e come](../03%20Acqua%20e%20cibo/Quanta%20acqua%20conservare%20e%20come.md).
 - [ ] **Cibo che non va cucinato** o va solo scaldato: tonno e carne in scatola, legumi in scatola, crackers, gallette, frutta secca, barrette, latte a lunga conservazione, cioccolato.
 - [ ] **Apriscatole manuale** (se le scatolette non hanno l'apertura a strappo).
 
 ### Salute
-- [ ] **Farmaci che prendi ogni giorno**, per almeno una settimana. Vedi [[Farmaci cronici in emergenza]].
-- [ ] **Kit di primo soccorso**. Vedi [[Kit di primo soccorso]].
+- [ ] **Farmaci che prendi ogni giorno**, per almeno una settimana. Vedi [Farmaci cronici in emergenza](../04%20Salute%20e%20primo%20soccorso/Farmaci%20cronici%20in%20emergenza.md).
+- [ ] **Kit di primo soccorso**. Vedi [Kit di primo soccorso](../04%20Salute%20e%20primo%20soccorso/Kit%20di%20primo%20soccorso.md).
 - [ ] Copia delle ricette e un foglio con allergie e malattie.
 - [ ] Occhiali di ricambio, se li porti.
 
 ### Luce, energia, informazioni
 - [ ] **Torcia** (meglio una frontale, che lascia le mani libere) e **pile di ricambio**.
-- [ ] **Radio a pile o a manovella**, per ascoltare le autorità se telefono e Internet non funzionano. Vedi [[Radio in emergenza]].
-- [ ] **Power bank carico** per il telefono. Vedi [[Power bank, pile e batterie]].
+- [ ] **Radio a pile o a manovella**, per ascoltare le autorità se telefono e Internet non funzionano. Vedi [Radio in emergenza](../07%20Comunicazioni/Ricevere%20informazioni/Radio%20in%20emergenza.md).
+- [ ] **Power bank carico** per il telefono. Vedi [Power bank, pile e batterie](../05%20Energia%20e%20luce/Power%20bank%2C%20pile%20e%20batterie.md).
 - [ ] Accendino o fiammiferi in un sacchetto impermeabile.
 
 ### Igiene
 - [ ] Sapone, gel igienizzante, salviette umidificate, carta igienica.
 - [ ] Assorbenti, pannolini se servono.
-- [ ] Sacchi della spazzatura resistenti (servono anche come WC d'emergenza, vedi [[Rifiuti e WC senza scarico]]).
+- [ ] Sacchi della spazzatura resistenti (servono anche come WC d'emergenza, vedi [Rifiuti e WC senza scarico](../10%20Igiene%20e%20sanificazione/Rifiuti%20e%20WC%20senza%20scarico.md)).
 
 ### Documenti e soldi
-- [ ] **Contanti** in banconote piccole e monete (bancomat e carte possono non funzionare). Vedi [[Contanti]].
-- [ ] **Copie dei documenti** in una busta impermeabile. Vedi [[Documenti da avere in copia]].
+- [ ] **Contanti** in banconote piccole e monete (bancomat e carte possono non funzionare). Vedi [Contanti](../14%20Documenti%20e%20soldi/Contanti.md).
+- [ ] **Copie dei documenti** in una busta impermeabile. Vedi [Documenti da avere in copia](../14%20Documenti%20e%20soldi/Documenti%20da%20avere%20in%20copia.md).
 - [ ] Un foglio con i **numeri di telefono importanti scritti a mano**: se il telefono si scarica, non li ricorderai.
 
 ### Caldo e freddo
@@ -49,9 +49,9 @@ Nelle prime ore di un'emergenza grande (terremoto, alluvione, blackout esteso) i
 - [ ] Vestiti di ricambio e scarpe robuste.
 
 ### Esigenze particolari
-- [ ] Bambini piccoli: latte in polvere, pappe, pannolini. Vedi [[Bambini piccoli]].
-- [ ] Anziani o persone con disabilità: ausili, batterie di ricambio per apparecchi. Vedi [[Anziani e persone con disabilità]].
-- [ ] Animali: cibo, acqua, guinzaglio, trasportino. Vedi [[Animali domestici]].
+- [ ] Bambini piccoli: latte in polvere, pappe, pannolini. Vedi [Bambini piccoli](../13%20Persone%20e%20animali%20vulnerabili/Bambini%20piccoli.md).
+- [ ] Anziani o persone con disabilità: ausili, batterie di ricambio per apparecchi. Vedi [Anziani e persone con disabilità](../13%20Persone%20e%20animali%20vulnerabili/Anziani%20e%20persone%20con%20disabilit%C3%A0.md).
+- [ ] Animali: cibo, acqua, guinzaglio, trasportino. Vedi [Animali domestici](../13%20Persone%20e%20animali%20vulnerabili/Animali%20domestici.md).
 
 ## Passo per passo: costruirlo senza spendere troppo
 
@@ -60,7 +60,7 @@ Nelle prime ore di un'emergenza grande (terremoto, alluvione, blackout esteso) i
 3. **Settimana 3**: ogni volta che fai la spesa, aggiungi 2-3 cibi a lunga conservazione.
 4. **Settimana 4**: radio a pile, power bank, fotocopie dei documenti, contanti.
 5. Metti tutto in **un posto solo**, facile da raggiungere, e dillo a tutta la famiglia.
-6. Scrivi sul calendario quando controllare le scadenze: vedi [[Manutenzione del kit]].
+6. Scrivi sul calendario quando controllare le scadenze: vedi [Manutenzione del kit](Manutenzione%20del%20kit.md).
 
 ## Errori da evitare
 
@@ -78,8 +78,8 @@ Nelle prime ore di un'emergenza grande (terremoto, alluvione, blackout esteso) i
 
 ## Per saperne di più
 
-- [[Zaino di evacuazione]]: la versione da portare via se devi lasciare casa.
-- [[Scorte domestiche per due settimane]]: il passo successivo.
+- [Zaino di evacuazione](Zaino%20di%20evacuazione.md): la versione da portare via se devi lasciare casa.
+- [Scorte domestiche per due settimane](Scorte%20domestiche%20per%20due%20settimane.md): il passo successivo.
 - [Approfondisci su Wikipedia](http://localhost:8080/search?books.name=wikipedia_it&pattern=Protezione%20civile)
 
 ## Fonti

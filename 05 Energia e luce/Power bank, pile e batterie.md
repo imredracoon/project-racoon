@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Power bank, pile e batterie
 
-> [!summary] In breve
+> **In breve**
 > - Tieni almeno **un power bank da 10.000-20.000 mAh** per persona, **carico tra il 50 e l'80%**, e ricaricalo ogni **3 mesi**.
 > - Scegli torce e radio che usano **pile AA o AAA**: sono le più facili da trovare.
 > - Per le scorte: **pile ricaricabili a bassa autoscarica** (tipo "pronte all'uso") oppure **pile al litio**, che durano anni.
@@ -37,14 +37,14 @@ In un blackout il telefono è la tua linea con il mondo, e torcia e radio ti ser
 1. **Uniforma**: scegli torce, radio e lampade che usano lo stesso formato (meglio **AA**).
 2. **Scorta**: almeno 2 ricambi completi per ogni apparecchio.
 3. **Conserva le pile fuori dagli apparecchi**, nella confezione originale o in una scatolina di plastica, così non si toccano tra loro.
-4. **Power bank**: caricalo, poi **una volta ogni 3 mesi** controllalo e ricaricalo. Scrivilo sul calendario della [[Manutenzione del kit]].
+4. **Power bank**: caricalo, poi **una volta ogni 3 mesi** controllalo e ricaricalo. Scrivilo sul calendario della [Manutenzione del kit](../01%20Preparazione/Manutenzione%20del%20kit.md).
 5. **Cavi**: tieni con il power bank i cavi giusti per tutti i telefoni di casa.
-6. **Durante il blackout**: carica il telefono **quando è al 20-30%**, non aspettare che si spenga. Vedi [[Risparmiare la batteria del telefono]].
+6. **Durante il blackout**: carica il telefono **quando è al 20-30%**, non aspettare che si spenga. Vedi [Risparmiare la batteria del telefono](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/Risparmiare%20la%20batteria%20del%20telefono.md).
 
 ## Altri modi di ricaricare
 
-- **Auto**: con un caricatore USB da accendisigari, a motore acceso e **all'aperto**. Vedi [[Ricaricare il telefono dall'auto]].
-- **Pannellino solare** o power station: vedi [[Pannello solare e power station]].
+- **Auto**: con un caricatore USB da accendisigari, a motore acceso e **all'aperto**. Vedi [Ricaricare il telefono dall'auto](Ricaricare%20il%20telefono%20dall%27auto.md).
+- **Pannellino solare** o power station: vedi [Pannello solare e power station](Pannello%20solare%20e%20power%20station.md).
 - **Radio a manovella** con presa USB: utile, ma dà poca energia.
 
 ## Errori da evitare

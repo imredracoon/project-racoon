@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Usare l'estintore
 
-> [!summary] In breve
+> **In breve**
 > Usa l'estintore solo su un **fuoco piccolo** (più piccolo di un cestino), con una **via di fuga alle spalle**, dopo aver fatto chiamare il **115/112**.
 > Ricorda **T.I.P.S.**: **T**ogli la sicura, **I**mpugna e punta alla **base** delle fiamme, **P**remi la leva, **S**pazza da un lato all'altro.
 > Distanza: **2-3 metri**. Se il fuoco non si spegne in **10-15 secondi**, **esci** e chiudi la porta.
@@ -57,8 +57,8 @@ Un fuoco raddoppia in meno di un minuto. Un estintore usato subito spegne un pri
 
 ## Per saperne di più
 
-- [[Incendio domestico]]
-- [[Mettere in sicurezza la casa]]
+- [Incendio domestico](../02%20Scenari/Incendio%20domestico.md)
+- [Mettere in sicurezza la casa](../06%20Riparo%2C%20calore%20e%20casa/Mettere%20in%20sicurezza%20la%20casa.md)
 
 ## Fonti
 

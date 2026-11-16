@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 05 Elettromagnetismo e induttori
 
-> [!summary] In breve
+> **In breve**
 > Una corrente crea intorno a sé un **campo magnetico**. Un filo avvolto a spirale (**bobina**) concentra il campo.
 > Un campo magnetico che **varia** produce una tensione in un conduttore vicino (**induzione**, legge di Faraday).
 > L'**induttore** ha un'**induttanza** L in **henry** (in pratica mH, µH). Si oppone alle **variazioni** di corrente.
@@ -60,7 +60,7 @@ Valgono se le bobine sono lontane e non si influenzano.
 
 ## Mutua induzione
 
-Due bobine vicine: il campo dell'una induce tensione nell'altra. È il principio del **trasformatore** ([[08 Trasformatori e circuiti RLC]]). Più sono vicine, più l'**accoppiamento** è "stretto".
+Due bobine vicine: il campo dell'una induce tensione nell'altra. È il principio del **trasformatore** ([08 Trasformatori e circuiti RLC](08%20Trasformatori%20e%20circuiti%20RLC.md)). Più sono vicine, più l'**accoppiamento** è "stretto".
 
 ## Fattore di merito Q
 
@@ -77,7 +77,7 @@ Un induttore reale ha anche una piccola resistenza. **Q = XL ÷ R**. Q alto = me
 2. Due induttori da 4 µH e 6 µH in serie (non accoppiati): totale?
 3. Come si trasforma uno strumento a bobina mobile in voltmetro?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. **Raddoppia**.
 > 2. **10 µH**.
 > 3. Con una **resistenza in serie**.
@@ -90,8 +90,8 @@ Un induttore reale ha anche una piccola resistenza. **Q = XL ÷ R**. Q alto = me
 
 ## Per saperne di più
 
-- [[04 Onde, condensatori e potenza]]
-- [[06 Leggi di Kirchhoff e Ohm in alternata]]
+- [04 Onde, condensatori e potenza](04%20Onde%2C%20condensatori%20e%20potenza.md)
+- [06 Leggi di Kirchhoff e Ohm in alternata](06%20Leggi%20di%20Kirchhoff%20e%20Ohm%20in%20alternata.md)
 
 ## Fonti
 

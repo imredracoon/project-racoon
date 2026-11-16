@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 03 Corrente alternata
 
-> [!summary] In breve
+> **In breve**
 > La corrente alternata **sinusoidale** cambia verso con regolarità. **Frequenza** f (hertz, Hz) = cicli al secondo; **periodo** T = 1 ÷ f.
 > **Picco** (Vp), **picco-picco** (Vpp = 2 × Vp), **efficace** (Veff ≈ 0,707 × Vp), **medio** su mezza onda (≈ 0,637 × Vp).
 > La rete di casa: 230 V **efficaci**, 50 Hz → picco circa 325 V.
@@ -50,7 +50,7 @@ Ogni segnale periodico (quadra, triangolare, a dente di sega) si può scomporre 
 
 Un'onda **quadra** contiene solo armoniche **dispari** (3f, 5f, 7f...).
 
-In radio le **armoniche** di un trasmettitore sono emissioni **indesiderate**: un trasmettitore a 7 MHz produce un po' di segnale anche a 14, 21, 28 MHz. Si eliminano con **filtri** (vedi [[09 Filtri e semiconduttori]]).
+In radio le **armoniche** di un trasmettitore sono emissioni **indesiderate**: un trasmettitore a 7 MHz produce un po' di segnale anche a 14, 21, 28 MHz. Si eliminano con **filtri** (vedi [09 Filtri e semiconduttori](09%20Filtri%20e%20semiconduttori.md)).
 
 ## L'oscilloscopio
 
@@ -64,7 +64,7 @@ Esempio: un ciclo occupa 4 divisioni con 5 µs/div → T = 20 µs → f = **50 k
 2. Un segnale ha 10 V di picco. Quanto vale il valore efficace?
 3. Qual è la terza armonica di 3,6 MHz?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. T = 1 ÷ 10 000 = **100 µs**.
 > 2. 10 × 0,707 ≈ **7,07 V**.
 > 3. 3 × 3,6 = **10,8 MHz**.
@@ -77,7 +77,7 @@ Esempio: un ciclo occupa 4 divisioni con 5 µs/div → T = 20 µs → f = **50 k
 
 ## Per saperne di più
 
-- [[04 Onde, condensatori e potenza]]
+- [04 Onde, condensatori e potenza](04%20Onde%2C%20condensatori%20e%20potenza.md)
 
 ## Fonti
 

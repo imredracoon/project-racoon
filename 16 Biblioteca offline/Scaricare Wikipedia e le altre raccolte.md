@@ -8,21 +8,21 @@ ultima_revisione: 2026-11-16
 
 # Scaricare Wikipedia e le altre raccolte
 
-> [!summary] In breve
+> **In breve**
 > Dal sito **library.kiwix.org** scarica i file ZIM che ti servono e mettili nella cartella `project-racoon-dati/zim`. Poi **rinominali** con un nome semplice e fisso (per esempio `wikipedia_it.zim`): così i collegamenti dalla wiki funzionano anche dopo gli aggiornamenti.
 
 ## Cosa ti serve
 
-- [[Installare Kiwix|Kiwix installato]].
+- [Kiwix installato](Installare%20Kiwix.md).
 - Una buona connessione: Wikipedia senza immagini richiede da 1 a qualche ora di download.
-- Lo spazio indicato in [[Come funziona la biblioteca offline]].
+- Lo spazio indicato in [Come funziona la biblioteca offline](Come%20funziona%20la%20biblioteca%20offline.md).
 
 ## Quali file scaricare
 
 | Raccolta | Cosa cercare nel nome del file | Rinominalo in |
 |---|---|---|
 | Wikipedia in italiano | `wikipedia_it_all_nopic` (senza immagini), `_maxi` (con immagini) oppure `_mini` | `wikipedia_it.zim` |
-| WikiMed (medicina, inglese) | `mdwiki_en_all` oppure `wikipedia_en_medicine` | `wikimed.zim` |
+| MDWiki, ex WikiMed (medicina, inglese) | `mdwiki_en_all` oppure `wikipedia_en_medicine` | `wikimed.zim` |
 | Wikivoyage in italiano | `wikivoyage_it_all` | `wikivoyage_it.zim` |
 | iFixit, riparazioni (facoltativo) | `ifixit_en_all` | `ifixit.zim` |
 
@@ -58,10 +58,10 @@ Se preferisci fare a mano, segui i passi qui sotto.
 
 ## Prossimo passo
 
-[[Aprire Wikipedia dentro Obsidian]]
+[Aprire Wikipedia nel browser](Aprire%20Wikipedia%20nel%20browser.md)
 
 ## Fonti
 
 - Kiwix Library, library.kiwix.org (2026).
 
-← [[16 Biblioteca offline]]
+← [16 Biblioteca offline](16%20Biblioteca%20offline.md)

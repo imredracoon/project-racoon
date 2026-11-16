@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Quanta acqua conservare e come
 
-> [!summary] In breve
+> **In breve**
 > Conserva almeno **3 litri a persona al giorno**: 9 litri a testa per 3 giorni, circa 42 litri per 2 settimane. Le **bottiglie sigillate del supermercato** sono la soluzione più semplice: tienile al **buio e al fresco** e consumale prima della scadenza. Se usi l'acqua del rubinetto, mettila in **contenitori per alimenti puliti** e cambiala ogni **6 mesi**.
 
 ## Perché è importante
@@ -34,7 +34,7 @@ Aggiungi l'acqua per gli **animali** (un cane medio beve circa 1 litro al giorno
 ## Passo per passo
 
 1. Calcola quanta acqua ti serve: persone × 3 litri × giorni.
-2. **Bottiglie del supermercato**: comprane qualche cassa e **usale normalmente**, sostituendo quelle bevute (metodo FIFO, vedi [[Scorte domestiche per due settimane]]).
+2. **Bottiglie del supermercato**: comprane qualche cassa e **usale normalmente**, sostituendo quelle bevute (metodo FIFO, vedi [Scorte domestiche per due settimane](../01%20Preparazione/Scorte%20domestiche%20per%20due%20settimane.md)).
 3. **Acqua del rubinetto** in taniche:
    1. Lava la tanica con acqua e sapone, sciacqua bene.
    2. Disinfettala: un cucchiaino di candeggina senza profumo in un litro d'acqua, agita, lascia agire 30 secondi, svuota e sciacqua.
@@ -65,8 +65,8 @@ Aggiungi l'acqua per gli **animali** (un cane medio beve circa 1 litro al giorno
 
 ## Per saperne di più
 
-- [[Potabilizzare l'acqua]]
-- [[Interruzione dell'acqua di rete]]
+- [Potabilizzare l'acqua](Potabilizzare%20l%27acqua.md)
+- [Interruzione dell'acqua di rete](../02%20Scenari/Interruzione%20dell%27acqua%20di%20rete.md)
 
 ## Fonti
 

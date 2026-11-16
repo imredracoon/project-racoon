@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Piccolo impianto a 12 volt
 
-> [!summary] In breve
+> **In breve**
 > Un impianto a 12 V è fatto di 4 pezzi: **pannello solare → regolatore di carica → batteria → apparecchi** (luci LED, USB, radio).
 > Usa una batteria **LiFePO4** o AGM, un **regolatore** adatto al tipo di batteria, e un **fusibile** vicino al polo positivo.
 > Collega **sempre prima la batteria al regolatore**, poi il pannello, poi i carichi. Scollega in ordine inverso.
@@ -16,7 +16,7 @@ ultima_revisione: 2026-11-16
 
 ## Perché è importante
 
-Un impianto a 12 V fisso (in garage, cantina, camper, casetta di campagna) dà luce, ricarica e radio per mesi senza rete elettrica. È la stessa tensione dell'auto, quindi ci sono moltissimi accessori pronti. Se ti basta qualcosa di portatile, una [[Pannello solare e power station|power station]] è più semplice.
+Un impianto a 12 V fisso (in garage, cantina, camper, casetta di campagna) dà luce, ricarica e radio per mesi senza rete elettrica. È la stessa tensione dell'auto, quindi ci sono moltissimi accessori pronti. Se ti basta qualcosa di portatile, una [power station](Pannello%20solare%20e%20power%20station.md) è più semplice.
 
 ## Cosa ti serve (esempio di base)
 
@@ -61,8 +61,8 @@ Una batteria LiFePO4 da 100 Ah utilizzabile circa all'80-90% dà circa **1000 Wh
 
 ## Per saperne di più
 
-- [[Pannello solare e power station]]
-- [[Riparazioni elettriche di base]]
+- [Pannello solare e power station](Pannello%20solare%20e%20power%20station.md)
+- [Riparazioni elettriche di base](../12%20Riparazioni%20e%20attrezzi/Riparazioni%20elettriche%20di%20base.md)
 
 ## Fonti
 

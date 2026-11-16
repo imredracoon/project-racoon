@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Alfabeto fonetico
 
-> [!summary] In breve
+> **In breve**
 > Per non confondere le lettere in radio o al telefono si usa una **parola per ogni lettera**.
 > Quello internazionale (detto **ICAO** o **NATO**) è usato da radioamatori, aerei, navi, soccorsi: Alfa, Bravo, Charlie...
 > In Italia al telefono si usa spesso quello delle **città** (Ancona, Bologna, Como...). Va bene anche quello, l'importante è farsi capire.
@@ -63,8 +63,8 @@ Prova a sillabare il tuo nome, la tua via e la targa dell'auto. Ripetilo finché
 
 ## Per saperne di più
 
-- [[Come si parla in radio]]
-- [[Codice Morse e segnali]]
+- [Come si parla in radio](Come%20si%20parla%20in%20radio.md)
+- [Codice Morse e segnali](../Frequenze%20e%20tabelle/Codice%20Morse%20e%20segnali.md)
 
 ## Fonti
 

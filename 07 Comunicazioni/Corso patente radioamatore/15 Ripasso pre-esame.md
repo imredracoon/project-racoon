@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 15 Ripasso pre-esame
 
-> [!summary] In breve
+> **In breve**
 > Ripassa le **formule** della tabella qui sotto finché le sai scrivere a memoria.
 > Fai la **simulazione** di 30 domande in fondo, senza guardare le soluzioni, in **30 minuti**.
 > Punti deboli? Torna alla lezione indicata accanto alla domanda.
@@ -18,32 +18,32 @@ ultima_revisione: 2026-11-16
 
 | Argomento | Formula | Lezione |
 |---|---|---|
-| Legge di Ohm | V = R × I | [[01 Elettricità, corrente e tensione\|01]] |
+| Legge di Ohm | V = R × I | [01](01%20Elettricit%C3%A0%2C%20corrente%20e%20tensione.md) |
 | Potenza | P = V × I = R × I² = V² ÷ R | 01 |
 | Resistenza di un filo | R = ρ × l ÷ S | 01 |
-| Serie (R) | R = R1 + R2 + ... | [[02 Generatori, serie e parallelo\|02]] |
+| Serie (R) | R = R1 + R2 + ... | [02](02%20Generatori%2C%20serie%20e%20parallelo.md) |
 | Parallelo (R) | 1/R = 1/R1 + 1/R2; due: R1×R2 ÷ (R1+R2) | 02 |
 | Partitore | V2 = V × R2 ÷ (R1+R2) | 02 |
-| Periodo | T = 1 ÷ f | [[03 Corrente alternata\|03]] |
+| Periodo | T = 1 ÷ f | [03](03%20Corrente%20alternata.md) |
 | Valore efficace | Veff = 0,707 × Vp | 03 |
-| Lunghezza d'onda | λ (m) = 300 ÷ f (MHz) | [[04 Onde, condensatori e potenza\|04]] |
+| Lunghezza d'onda | λ (m) = 300 ÷ f (MHz) | [04](04%20Onde%2C%20condensatori%20e%20potenza.md) |
 | Condensatori | parallelo: somma; serie: come R in parallelo | 04 |
 | Reattanza capacitiva | Xc = 1 ÷ (2π f C) | 04 |
 | Decibel | dB = 10 log (P2/P1) = 20 log (V2/V1) | 04 |
-| Reattanza induttiva | XL = 2π f L | [[05 Elettromagnetismo e induttori\|05]] |
-| Impedenza serie | Z = √(R² + (XL − XC)²) | [[06 Leggi di Kirchhoff e Ohm in alternata\|06]] |
+| Reattanza induttiva | XL = 2π f L | [05](05%20Elettromagnetismo%20e%20induttori.md) |
+| Impedenza serie | Z = √(R² + (XL − XC)²) | [06](06%20Leggi%20di%20Kirchhoff%20e%20Ohm%20in%20alternata.md) |
 | Potenza attiva | P = V × I × cos φ | 06 |
-| ROS (carico resistivo) | Z maggiore ÷ Z minore | [[07 Schemi a blocchi e ROS\|07]] |
+| ROS (carico resistivo) | Z maggiore ÷ Z minore | [07](07%20Schemi%20a%20blocchi%20e%20ROS.md) |
 | Frequenza immagine | f ± 2 × FI | 07 |
-| Trasformatore | V2/V1 = N2/N1; Z1/Z2 = (N1/N2)² | [[08 Trasformatori e circuiti RLC\|08]] |
+| Trasformatore | V2/V1 = N2/N1; Z1/Z2 = (N1/N2)² | [08](08%20Trasformatori%20e%20circuiti%20RLC.md) |
 | Risonanza | f₀ = 1 ÷ (2π √(LC)) | 08 |
 | Banda passante | B = f₀ ÷ Q | 08 |
-| Filtro RC | fc = 1 ÷ (2π R C) | [[09 Filtri e semiconduttori\|09]] |
-| Transistor | Ic = β × Ib; Ie = Ib + Ic | [[10 Diodi e transistor\|10]] |
-| Rendimento | η = Pout ÷ Pin | [[11 Amplificatori e digitale\|11]] |
-| Banda AM | B = 2 × fm | [[12 Modulazioni AM e FM\|12]] |
+| Filtro RC | fc = 1 ÷ (2π R C) | [09](09%20Filtri%20e%20semiconduttori.md) |
+| Transistor | Ic = β × Ib; Ie = Ib + Ic | [10](10%20Diodi%20e%20transistor.md) |
+| Rendimento | η = Pout ÷ Pin | [11](11%20Amplificatori%20e%20digitale.md) |
+| Banda AM | B = 2 × fm | [12](12%20Modulazioni%20AM%20e%20FM.md) |
 | Banda FM (Carson) | B = 2 × (Δf + fm) | 12 |
-| Dipolo | L (m) ≈ 142,5 ÷ f (MHz) | [[13 Antenne\|13]] |
+| Dipolo | L (m) ≈ 142,5 ÷ f (MHz) | [13](13%20Antenne.md) |
 | dBi e dBd | dBi = dBd + 2,15 | 13 |
 
 ## Valori da ricordare
@@ -88,7 +88,7 @@ ultima_revisione: 2026-11-16
 29. Antenna da 10 dBi: quanti dBd? (a) 12,15 (b) 7,85 (c) 10
 30. Cosa significa QRZ? (a) Chi mi chiama? (b) Cambia frequenza (c) La mia posizione è
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1 b · 2 c · 3 a · 4 b · 5 b · 6 c · 7 c · 8 b · 9 b · 10 c
 > 11 b · 12 a · 13 b · 14 b · 15 b · 16 a · 17 b · 18 b · 19 b · 20 c
 > 21 c · 22 a · 23 b · 24 b · 25 a · 26 b · 27 a · 28 b · 29 b · 30 a
@@ -100,12 +100,12 @@ ultima_revisione: 2026-11-16
 - Ripassa solo la tabella delle formule e le domande sbagliate.
 - Prepara documento, convocazione, penne, calcolatrice (se ammessa).
 - All'esame: leggi tutte le risposte, scarta quelle assurde, controlla le unità di misura.
-- Dopo: chiedi l'**autorizzazione generale** e prova il tuo primo collegamento ([[14 Regolamenti e procedure operative]]).
+- Dopo: chiedi l'**autorizzazione generale** e prova il tuo primo collegamento ([14 Regolamenti e procedure operative](14%20Regolamenti%20e%20procedure%20operative.md)).
 
 ## Per saperne di più
 
-- [[Come funziona l'esame]]
-- [[Corso patente radioamatore]]
+- [Come funziona l'esame](Come%20funziona%20l%27esame.md)
+- [Corso patente radioamatore](Corso%20patente%20radioamatore.md)
 
 ## Fonti
 

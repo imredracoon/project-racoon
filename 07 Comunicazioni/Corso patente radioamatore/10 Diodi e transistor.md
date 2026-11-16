@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 10 Diodi e transistor
 
-> [!summary] In breve
+> **In breve**
 > Il **diodo** fa passare la corrente in un solo verso (da **anodo** a **catodo**). Serve a **raddrizzare** l'alternata e a **rivelare** i segnali AM.
 > **Raddrizzatore**: a semionda (un diodo), a doppia semionda / **ponte di Graetz** (quattro diodi). Poi un **condensatore** livella la tensione.
 > **Zener**: in inversa mantiene una tensione fissa (stabilizzatore). **LED**: emette luce. **Varicap**: capacità che cambia con la tensione.
@@ -94,7 +94,7 @@ Condizione di Barkhausen: guadagno dell'anello ≥ 1 e sfasamento totale 0° (o 
 2. Un transistor con β = 150 ha Ib = 20 µA. Quanto vale Ic?
 3. Quale oscillatore usa un partitore capacitivo per la reazione?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. **Quattro** diodi, ripple a **100 Hz**.
 > 2. 150 × 20 µA = **3 mA**.
 > 3. Il **Colpitts**.
@@ -107,8 +107,8 @@ Condizione di Barkhausen: guadagno dell'anello ≥ 1 e sfasamento totale 0° (o 
 
 ## Per saperne di più
 
-- [[09 Filtri e semiconduttori]]
-- [[11 Amplificatori e digitale]]
+- [09 Filtri e semiconduttori](09%20Filtri%20e%20semiconduttori.md)
+- [11 Amplificatori e digitale](11%20Amplificatori%20e%20digitale.md)
 
 ## Fonti
 

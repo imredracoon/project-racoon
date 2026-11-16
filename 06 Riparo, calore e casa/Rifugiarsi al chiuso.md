@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Rifugiarsi al chiuso
 
-> [!summary] In breve
+> **In breve**
 > Quando le autorità dicono di **restare al chiuso** (fuga di sostanze tossiche, nube di fumo, emergenza radiologica):
 > 1. **Entra** subito nell'edificio più vicino.
 > 2. **Chiudi** porte e finestre, **spegni** condizionatori, ventilatori, caldaie, cappe.
@@ -35,7 +35,7 @@ Un edificio chiuso bene riduce di molto l'aria esterna che respiri. Per la maggi
 3. **Spegni** condizionatori, ventilatori, caldaia, cappa della cucina, stufe.
 4. **Scegli la stanza**: interna, con meno finestre possibile, con un rubinetto se possibile (un bagno va bene). Per i gas tossici, che spesso sono più pesanti dell'aria, **evita cantine e seminterrati**.
 5. **Sigilla**: metti nastro adesivo sui bordi delle finestre, asciugamani bagnati sotto la porta, plastica e nastro su prese d'aria e bocchette.
-6. **Ascolta** la radio o la TV per gli aggiornamenti: [[Radio in emergenza]]. Non telefonare se non per emergenze.
+6. **Ascolta** la radio o la TV per gli aggiornamenti: [Radio in emergenza](../07%20Comunicazioni/Ricevere%20informazioni/Radio%20in%20emergenza.md). Non telefonare se non per emergenze.
 7. **Resta dentro** finché le autorità non comunicano il **cessato allarme**.
 8. **Dopo**: apri tutte le finestre e fai cambiare l'aria. Esci con calma.
 
@@ -53,8 +53,8 @@ Un edificio chiuso bene riduce di molto l'aria esterna che respiri. Per la maggi
 
 ## Per saperne di più
 
-- [[Incidente chimico o industriale]]
-- [[Emergenza nucleare o radiologica]]
+- [Incidente chimico o industriale](../02%20Scenari/Incidente%20chimico%20o%20industriale.md)
+- [Emergenza nucleare o radiologica](../02%20Scenari/Emergenza%20nucleare%20o%20radiologica.md)
 
 ## Fonti
 

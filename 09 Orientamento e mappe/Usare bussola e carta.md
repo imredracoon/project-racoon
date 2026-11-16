@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Usare bussola e carta
 
-> [!summary] In breve
+> **In breve**
 > 1. **Orienta la carta**: metti la bussola sulla carta e gira la carta finché il **nord della carta** coincide con l'**ago rosso**.
 > 2. **Trova dove sei** guardando strade, incroci, colline, campanili intorno a te.
 > 3. **Scegli la direzione**: allinea la bussola tra dove sei e dove vuoi andare, ruota la ghiera, segui la freccia.
@@ -21,7 +21,7 @@ Il GPS del telefono si spegne quando la batteria finisce, e senza rete le mappe 
 ## Cosa ti serve
 
 - **Bussola da orientamento** (a piastra trasparente, con ghiera girevole e freccia di direzione).
-- **Carta** della tua zona: una carta stradale della provincia e, per le campagne, una carta topografica (scala 1:25.000 o 1:50.000). Puoi stamparla dalla mappa OpenStreetMap (vedi [[Mappe della mia zona]]).
+- **Carta** della tua zona: una carta stradale della provincia e, per le campagne, una carta topografica (scala 1:25.000 o 1:50.000). Puoi stamparla dalla mappa OpenStreetMap (vedi [Mappe della mia zona](Mappe%20della%20mia%20zona.md)).
 - Matita.
 
 ## Come è fatta la bussola
@@ -65,8 +65,8 @@ Il GPS del telefono si spegne quando la batteria finisce, e senza rete le mappe 
 
 ## Per saperne di più
 
-- [[Orientarsi senza strumenti]]
-- [[Coordinate e come comunicarle]]
+- [Orientarsi senza strumenti](Orientarsi%20senza%20strumenti.md)
+- [Coordinate e come comunicarle](Coordinate%20e%20come%20comunicarle.md)
 
 ## Fonti
 

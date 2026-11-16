@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 04 Onde, condensatori e potenza
 
-> [!summary] In breve
+> **In breve**
 > **Lunghezza d'onda**: **λ (m) = 300 ÷ f (MHz)**. 7 MHz → circa 43 m ("banda dei 40 metri"); 145 MHz → circa 2 m.
 > Il **condensatore** accumula cariche: capacità C in **farad** (in pratica µF, nF, pF). **Q = C × V**.
 > Condensatori in **parallelo** si sommano; in **serie** si calcolano come le resistenze in parallelo.
@@ -91,7 +91,7 @@ Esempio: da 10 W a 100 W il rapporto è 10 → **+10 dB**.
 2. Due condensatori da 10 nF in serie: capacità totale?
 3. Un amplificatore porta 5 W a 20 W. Quanti dB di guadagno?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. 300 ÷ 50 = **6 m**.
 > 2. **5 nF**.
 > 3. Rapporto 4 → **6 dB**.
@@ -104,8 +104,8 @@ Esempio: da 10 W a 100 W il rapporto è 10 → **+10 dB**.
 
 ## Per saperne di più
 
-- [[05 Elettromagnetismo e induttori]]
-- [[Antenne di fortuna]]
+- [05 Elettromagnetismo e induttori](05%20Elettromagnetismo%20e%20induttori.md)
+- [Antenne di fortuna](../Radioamatori/Antenne%20di%20fortuna.md)
 
 ## Fonti
 

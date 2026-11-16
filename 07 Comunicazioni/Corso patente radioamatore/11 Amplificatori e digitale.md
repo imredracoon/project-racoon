@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # 11 Amplificatori e digitale
 
-> [!summary] In breve
+> **In breve**
 > Un **amplificatore** rende un segnale più grande. Guadagno: **G = Vout ÷ Vin** (o in dB).
 > Classi: **A** (fedele, rendimento basso ~25-50%), **B** (due transistor a turno, ~70%), **AB** (compromesso, usato in SSB), **C** (rendimento alto ~80%, solo per **FM e CW**, distorce).
 > La **controreazione** (reazione negativa) riduce il guadagno ma migliora fedeltà e stabilità.
@@ -91,7 +91,7 @@ Con **n** bit si rappresentano **2ⁿ** valori (8 bit = 256 valori, da 0 a 255).
 2. Una porta AND con ingressi 1 e 0: uscita?
 3. Per digitalizzare un segnale fino a 5 kHz, quale frequenza di campionamento minima serve?
 
-> [!note]- Soluzioni
+> **Soluzioni** (prima prova a rispondere da solo)
 > 1. La **classe C**, perché **non è lineare** e distorce l'ampiezza.
 > 2. **0**.
 > 3. **10 kHz**.
@@ -104,8 +104,8 @@ Con **n** bit si rappresentano **2ⁿ** valori (8 bit = 256 valori, da 0 a 255).
 
 ## Per saperne di più
 
-- [[10 Diodi e transistor]]
-- [[12 Modulazioni AM e FM]]
+- [10 Diodi e transistor](10%20Diodi%20e%20transistor.md)
+- [12 Modulazioni AM e FM](12%20Modulazioni%20AM%20e%20FM.md)
 
 ## Fonti
 

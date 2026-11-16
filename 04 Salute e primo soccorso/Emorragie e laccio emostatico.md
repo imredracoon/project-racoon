@@ -6,12 +6,12 @@ tempo_lettura: 7 minuti
 ultima_revisione: 2026-11-16
 ---
 
-> [!warning] Questa guida non sostituisce un corso
+> **Attenzione: Questa guida non sostituisce un corso**
 > Leggerla aiuta, ma le manovre si imparano davvero solo provandole con un istruttore. Cerca un corso di primo soccorso presso Croce Rossa, 118 o associazioni di volontariato della tua zona.
 
 # Emorragie e laccio emostatico
 
-> [!summary] In breve
+> **In breve**
 > 1. Chiama il **112**.
 > 2. **Premi forte e senza mollare** direttamente sulla ferita con un panno pulito, per almeno **10 minuti**.
 > 3. Se il sangue esce a fiotti da un **braccio o una gamba** e la pressione non basta (o non puoi farla): **laccio emostatico** 5-7 cm sopra la ferita, stretto finché il sangue si ferma. **Annota l'ora**.
@@ -27,7 +27,7 @@ Una grave perdita di sangue può uccidere in **pochi minuti**, prima che arrivi 
 - esce **a fiotti** o zampilla;
 - si allarga velocemente sul pavimento o sui vestiti;
 - non si ferma nonostante la pressione;
-- e la persona è pallida, sudata, confusa, con il respiro veloce (segni di **shock**, vedi [[Shock e posizione laterale di sicurezza]]).
+- e la persona è pallida, sudata, confusa, con il respiro veloce (segni di **shock**, vedi [Shock e posizione laterale di sicurezza](Shock%20e%20posizione%20laterale%20di%20sicurezza.md)).
 
 ## Cosa ti serve
 
@@ -82,7 +82,7 @@ Usalo se l'emorragia di un arto è **pericolosa per la vita** e la pressione non
 
 ## Per saperne di più
 
-- [[Kit di primo soccorso]]: dove comprare un laccio emostatico vero.
+- [Kit di primo soccorso](Kit%20di%20primo%20soccorso.md): dove comprare un laccio emostatico vero.
 - Campagna internazionale **Stop the Bleed**.
 
 ## Fonti

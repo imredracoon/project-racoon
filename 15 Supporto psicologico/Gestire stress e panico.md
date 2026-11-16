@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Gestire stress e panico
 
-> [!summary] In breve
+> **In breve**
 > Paura, tremori, cuore veloce, difficoltà a pensare sono **reazioni normali** a un evento anormale.
 > Per calmare il panico: **respira lento** (4 secondi dentro, 6 fuori), **appoggia i piedi** a terra, nomina **5 cose che vedi**.
 > Fai **una cosa alla volta**, mangia, bevi, dormi quando puoi, **parla** con qualcuno.
@@ -62,8 +62,8 @@ Se dopo **4 settimane** o più hai ancora incubi, ricordi improvvisi, non dormi,
 
 ## Per saperne di più
 
-- [[Parlare di emergenze con i bambini]]
-- [[Dopo l'emergenza]]
+- [Parlare di emergenze con i bambini](Parlare%20di%20emergenze%20con%20i%20bambini.md)
+- [Dopo l'emergenza](Dopo%20l%27emergenza.md)
 
 ## Fonti
 

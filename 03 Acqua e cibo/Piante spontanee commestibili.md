@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Piante spontanee commestibili
 
-> [!summary] In breve
+> **In breve**
 > **Regola d'oro**: mangia una pianta solo se sei **sicuro al 100%** di cosa sia. Se hai anche un piccolo dubbio, **non mangiarla**.
 > In Puglia alcune piante facili e note sono: **cicoria selvatica, rucola selvatica, portulaca, asparago selvatico, malva, ortica** (cotta).
 > Le piante della famiglia delle **ombrellifere** (finocchietto, carota selvatica) si confondono con piante **mortali** come la cicuta: lasciale agli esperti.
@@ -53,8 +53,8 @@ Chiama il **112** o un **Centro Antiveleni** (CAV); conserva la pianta o un camp
 
 ## Per saperne di più
 
-- [[Cibo a lunga conservazione]]
-- Wikipedia offline: nome della pianta, per vedere le foto (vedi [[Aprire Wikipedia dentro Obsidian]]).
+- [Cibo a lunga conservazione](Cibo%20a%20lunga%20conservazione.md)
+- Wikipedia offline: nome della pianta, per vedere le foto (vedi [Aprire Wikipedia nel browser](../16%20Biblioteca%20offline/Aprire%20Wikipedia%20nel%20browser.md)).
 
 ## Fonti
 

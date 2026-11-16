@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # SMS invece delle chiamate
 
-> [!summary] In breve
+> **In breve**
 > Durante un'emergenza grande la rete telefonica si blocca perché **tutti chiamano insieme**. Gli **SMS** usano pochissima rete e **riprovano da soli** finché non passano. Scrivi **messaggi brevi**: chi sei, dove sei, come stai, cosa farai. **Chiama solo per le emergenze vere (112).**
 
 ## Perché è importante
@@ -19,7 +19,7 @@ Una telefonata occupa una "linea" per tutto il tempo. Un SMS occupa la rete per 
 
 1. **Scrivi un messaggio breve e completo**, per esempio:
    > Sono Marco. Sto bene. Sono al parco di via Roma con Anna. Restiamo qui fino alle 18, poi andiamo da zia Lucia.
-2. **Mandalo** alle persone del tuo [[Piano di comunicazione familiare|piano di comunicazione]] e al **contatto fuori zona**.
+2. **Mandalo** alle persone del tuo [piano di comunicazione](Piano%20di%20comunicazione%20familiare.md) e al **contatto fuori zona**.
 3. Se non parte subito, **non riprovare di continuo**: il telefono lo rimanda da solo. Controlla dopo qualche minuto.
 4. **Messaggi via Internet** (WhatsApp, Telegram, Signal): se la rete dati funziona vanno bene e usano poca rete. Ma se Internet è giù non partono: l'SMS resta più affidabile.
 5. **Rispondi** ai messaggi degli altri con un SMS, non con una chiamata.
@@ -39,8 +39,8 @@ Una telefonata occupa una "linea" per tutto il tempo. Un SMS occupa la rete per 
 
 ## Per saperne di più
 
-- [[Risparmiare la batteria del telefono]]
-- [[Modelli di messaggio]]
+- [Risparmiare la batteria del telefono](Risparmiare%20la%20batteria%20del%20telefono.md)
+- [Modelli di messaggio](../Frequenze%20e%20tabelle/Modelli%20di%20messaggio.md)
 
 ## Fonti
 

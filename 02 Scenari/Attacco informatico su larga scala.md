@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Attacco informatico su larga scala
 
-> [!summary] In breve
+> **In breve**
 > Un grande attacco informatico può bloccare **pagamenti, bancomat, telefoni, Internet, ospedali, distributori, trasporti**, a volte anche la **corrente**. Preparati come per un blackout: **contanti**, **scorte**, **radio**, **documenti su carta**. Durante l'attacco: fidati solo di **fonti ufficiali**, **non cliccare** link nei messaggi, non dare dati personali a nessuno.
 
 ## Perché è importante
@@ -17,10 +17,10 @@ Molti servizi essenziali dipendono da computer collegati tra loro. La Commission
 
 ## Prima
 
-- [ ] [[Contanti]] in casa.
-- [ ] [[Kit 72 ore UE|Kit 72 ore]] e [[Scorte domestiche per due settimane|scorte]].
-- [ ] [[Radio in emergenza|Radio a pile]].
-- [ ] Copie su carta e su chiavetta dei documenti: [[Backup dei documenti importanti]].
+- [ ] [Contanti](../14%20Documenti%20e%20soldi/Contanti.md) in casa.
+- [ ] [Kit 72 ore](../01%20Preparazione/Kit%2072%20ore%20UE.md) e [scorte](../01%20Preparazione/Scorte%20domestiche%20per%20due%20settimane.md).
+- [ ] [Radio a pile](../07%20Comunicazioni/Ricevere%20informazioni/Radio%20in%20emergenza.md).
+- [ ] Copie su carta e su chiavetta dei documenti: [Backup dei documenti importanti](../11%20Tecnologia%20offline/Backup%20dei%20documenti%20importanti.md).
 - [ ] Numeri importanti scritti a mano.
 - [ ] Ricette mediche su carta e scorta di farmaci.
 - [ ] I tuoi dispositivi: aggiornamenti automatici attivi, password diverse per ogni servizio, autenticazione a due fattori.
@@ -28,12 +28,12 @@ Molti servizi essenziali dipendono da computer collegati tra loro. La Commission
 
 ## Durante
 
-1. **Informati solo da fonti ufficiali**: radio RAI, Protezione Civile, Agenzia per la Cybersicurezza Nazionale (ACN), Comune. Vedi [[Fonti ufficiali e disinformazione]].
-2. **Pagamenti**: usa i contanti, conserva gli scontrini. Vedi [[Pagare durante un blackout o un attacco informatico]].
+1. **Informati solo da fonti ufficiali**: radio RAI, Protezione Civile, Agenzia per la Cybersicurezza Nazionale (ACN), Comune. Vedi [Fonti ufficiali e disinformazione](../07%20Comunicazioni/Ricevere%20informazioni/Fonti%20ufficiali%20e%20disinformazione.md).
+2. **Pagamenti**: usa i contanti, conserva gli scontrini. Vedi [Pagare durante un blackout o un attacco informatico](../14%20Documenti%20e%20soldi/Pagare%20durante%20un%20blackout%20o%20un%20attacco%20informatico.md).
 3. **Truffe**: non aprire link e allegati in SMS, email o chat che parlano dell'attacco, anche se sembrano della banca o dello Stato. **Nessun ente ti chiede password o codici** per messaggio.
 4. **Dispositivi**: se il tuo computer o telefono si comporta in modo strano (finestre che chiedono riscatto, file che non si aprono), **scollegalo da Internet** e spegnilo.
 5. **Sanità**: in caso di problemi negli ospedali, il **112** resta il riferimento per le emergenze.
-6. Se manca la corrente: [[Blackout prolungato]].
+6. Se manca la corrente: [Blackout prolungato](Blackout%20prolungato.md).
 
 ## Errori da evitare
 

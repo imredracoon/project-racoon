@@ -8,8 +8,8 @@ ultima_revisione: 2026-11-16
 
 # Evacuare in auto
 
-> [!summary] In breve
-> Tieni il serbatoio **almeno a metà**, sempre. Carica **solo** lo [[Zaino di evacuazione|zaino]], acqua, medicine, documenti, animali.
+> **In breve**
+> Tieni il serbatoio **almeno a metà**, sempre. Carica **solo** lo [zaino](../01%20Preparazione/Zaino%20di%20evacuazione.md), acqua, medicine, documenti, animali.
 > Segui **i percorsi indicati dalle autorità**, anche se sono più lunghi. Ascolta la radio in auto.
 > **Mai** attraversare strade **allagate** o sottopassi: bastano **30 cm** d'acqua per trascinare un'auto.
 > In caso di incendio boschivo: finestrini chiusi, ventilazione in **ricircolo**, fari accesi.
@@ -21,16 +21,16 @@ L'auto ti porta lontano in fretta con tutta la famiglia, ma in un'evacuazione di
 ## Cosa ti serve
 
 - Serbatoio pieno o almeno a metà; nei periodi a rischio (allerta meteo, incendi d'estate) tienilo pieno.
-- [[Kit auto]] già in macchina.
-- Mappa **di carta** della provincia e mappe offline sul telefono ([[Mappe della mia zona]]).
-- Il [[Piano di evacuazione del Comune|piano di evacuazione]] con i percorsi e le aree di attesa.
+- [Kit auto](../01%20Preparazione/Kit%20auto.md) già in macchina.
+- Mappa **di carta** della provincia e mappe offline sul telefono ([Mappe della mia zona](../09%20Orientamento%20e%20mappe/Mappe%20della%20mia%20zona.md)).
+- Il [piano di evacuazione](Piano%20di%20evacuazione%20del%20Comune.md) con i percorsi e le aree di attesa.
 
 ## Passo per passo
 
-1. **Ascolta** la radio o [[IT-Alert]]: dove bisogna andare? Quali strade sono chiuse?
-2. Se hai tempo: [[Chiudere gas, acqua e luce|chiudi gas, acqua e luce]], chiudi porte e finestre.
+1. **Ascolta** la radio o [IT-Alert](../07%20Comunicazioni/Ricevere%20informazioni/IT-Alert.md): dove bisogna andare? Quali strade sono chiuse?
+2. Se hai tempo: [chiudi gas, acqua e luce](../06%20Riparo%2C%20calore%20e%20casa/Chiudere%20gas%2C%20acqua%20e%20luce.md), chiudi porte e finestre.
 3. **Carica**: persone, animali, zaini, acqua, medicine, documenti. Niente altro.
-4. **Avvisa** i familiari con un SMS: dove vai e per quale strada ([[Modelli di messaggio]]).
+4. **Avvisa** i familiari con un SMS: dove vai e per quale strada ([Modelli di messaggio](../07%20Comunicazioni/Frequenze%20e%20tabelle/Modelli%20di%20messaggio.md)).
 5. **Parti presto**: chi parte per primo trova meno traffico.
 6. Segui i **percorsi ufficiali** e le indicazioni di polizia, vigili del fuoco e volontari.
 7. Tieni la **radio accesa** su una stazione di notizie.
@@ -61,8 +61,8 @@ L'auto ti porta lontano in fretta con tutta la famiglia, ma in un'evacuazione di
 
 ## Per saperne di più
 
-- [[Quando evacuare e quando restare]]
-- [[Alluvione]] · [[Incendio boschivo]] · [[Terremoto]]
+- [Quando evacuare e quando restare](Quando%20evacuare%20e%20quando%20restare.md)
+- [Alluvione](../02%20Scenari/Alluvione.md) · [Incendio boschivo](../02%20Scenari/Incendio%20boschivo.md) · [Terremoto](../02%20Scenari/Terremoto.md)
 
 ## Fonti
 

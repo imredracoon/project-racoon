@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Disordini civili
 
-> [!summary] In breve
+> **In breve**
 > **Stai lontano** da manifestazioni che degenerano, scontri, saccheggi.
 > Se ti trovi dentro: **allontanati** verso i lati e le vie secondarie, **non correre** contro la folla, tieni le mani libere e il telefono in tasca.
 > Se senti **gas lacrimogeno**: allontanati controvento, non strofinare gli occhi, sciacqua con acqua.
@@ -41,19 +41,19 @@ Dopo crisi lunghe (blackout, carenze, crisi economiche) possono nascere tensioni
 ### In casa
 1. Chiudi porte, finestre, serrande.
 2. Stai lontano dalle finestre.
-3. Tieni pronto lo [[Zaino di evacuazione|zaino]] e le scorte.
+3. Tieni pronto lo [zaino](../01%20Preparazione/Zaino%20di%20evacuazione.md) e le scorte.
 4. Segui gli **ordini** delle autorità (coprifuoco, divieti).
 
 ## Errori da evitare
 
 - Avvicinarsi per curiosità.
 - Indossare abiti che ti fanno sembrare parte di un gruppo coinvolto.
-- Diffondere voci non verificate (vedi [[Fonti ufficiali e disinformazione]]).
+- Diffondere voci non verificate (vedi [Fonti ufficiali e disinformazione](../07%20Comunicazioni/Ricevere%20informazioni/Fonti%20ufficiali%20e%20disinformazione.md)).
 
 ## Per saperne di più
 
-- [[Sicurezza personale nel caos]]
-- [[Gestire stress e panico]]
+- [Sicurezza personale nel caos](../08%20Sicurezza%20ed%20evacuazione/Sicurezza%20personale%20nel%20caos.md)
+- [Gestire stress e panico](../15%20Supporto%20psicologico/Gestire%20stress%20e%20panico.md)
 
 ## Fonti
 

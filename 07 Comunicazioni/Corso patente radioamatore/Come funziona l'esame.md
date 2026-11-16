@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Come funziona l'esame
 
-> [!summary] In breve
+> **In breve**
 > L'esame per la **patente di radioamatore (classe A, HAREC)** è una **prova scritta** con **quiz a risposta multipla**. Il codice Morse **non** è più richiesto.
 > Gli argomenti sono tre: **elettrotecnica ed elettronica**, **radiotecnica** (trasmettitori, ricevitori, antenne, propagazione), **regolamenti e procedure**.
 > Le domande si presentano all'**Ispettorato territoriale del MIMIT** (per la Puglia: Ispettorato Puglia e Basilicata), di solito entro il **30 aprile** e il **30 settembre** per le due sessioni annuali.
@@ -26,9 +26,9 @@ Sapere come è fatto l'esame ti aiuta a studiare le cose giuste e ad arrivare tr
 4. Ricevi la **convocazione** con data e luogo.
 5. Sostieni la **prova scritta**.
 6. Se la superi, ricevi la **patente** (non scade).
-7. Chiedi l'**autorizzazione generale** e il **nominativo** (vedi [[Cos'è un radioamatore]]).
+7. Chiedi l'**autorizzazione generale** e il **nominativo** (vedi [Cos'è un radioamatore](../Radioamatori/Cos%27%C3%A8%20un%20radioamatore.md)).
 
-> [!warning] Verifica sempre
+> **Attenzione: Verifica sempre**
 > Date, moduli, importi e numero di domande possono cambiare. Prima di iscriverti controlla il sito del MIMIT e chiedi a una sezione ARI della tua zona, che di solito conosce bene l'Ispettorato locale.
 
 ## Il giorno dell'esame
@@ -54,7 +54,7 @@ Ogni lezione ha: **In breve**, spiegazione semplice, **formule** essenziali, **e
 
 ## I prefissi
 
-Le formule che servono davvero sono una decina, raccolte in [[15 Ripasso pre-esame]]. Impara bene quelle e i **prefissi**:
+Le formule che servono davvero sono una decina, raccolte in [15 Ripasso pre-esame](15%20Ripasso%20pre-esame.md). Impara bene quelle e i **prefissi**:
 
 | Prefisso | Simbolo | Valore |
 |---|---|---|
@@ -68,8 +68,8 @@ Le formule che servono davvero sono una decina, raccolte in [[15 Ripasso pre-esa
 
 ## Per saperne di più
 
-- [[Corso patente radioamatore]] (indice)
-- [[Cos'è un radioamatore]]
+- [Corso patente radioamatore](Corso%20patente%20radioamatore.md) (indice)
+- [Cos'è un radioamatore](../Radioamatori/Cos%27%C3%A8%20un%20radioamatore.md)
 
 ## Fonti
 

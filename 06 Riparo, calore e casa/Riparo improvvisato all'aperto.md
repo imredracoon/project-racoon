@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Riparo improvvisato all'aperto
 
-> [!summary] In breve
+> **In breve**
 > Se devi passare la notte fuori, le priorità sono: **stare asciutto**, **isolarti dal terreno**, **ripararti dal vento**.
 > Con un **telo** e una **corda** fai una tettoia inclinata con il lato basso verso il vento.
 > Sotto di te metti **foglie secche, cartoni, zaino**: si perde più calore verso il terreno che verso l'aria.
@@ -16,7 +16,7 @@ ultima_revisione: 2026-11-16
 
 ## Perché è importante
 
-Dopo un terremoto molte persone restano all'aperto per paura delle repliche, o una gita si trasforma in una notte fuori. Anche a 10 °C, bagnati e con il vento, si rischia l'[[Ipotermia e colpo di calore|ipotermia]].
+Dopo un terremoto molte persone restano all'aperto per paura delle repliche, o una gita si trasforma in una notte fuori. Anche a 10 °C, bagnati e con il vento, si rischia l'[ipotermia](../04%20Salute%20e%20primo%20soccorso/Ipotermia%20e%20colpo%20di%20calore.md).
 
 ## Cosa ti serve
 
@@ -33,7 +33,7 @@ Dopo un terremoto molte persone restano all'aperto per paura delle repliche, o u
    - non sotto alberi con rami secchi;
    - dopo un terremoto, lontano da edifici, muri e pali.
 2. **Guarda da dove viene il vento**.
-3. **Tendi la corda** tra due alberi o pali, a circa 1 m d'altezza. Usa il [[Nodi essenziali|nodo parlato e il nodo del camionista]].
+3. **Tendi la corda** tra due alberi o pali, a circa 1 m d'altezza. Usa il [nodo parlato e il nodo del camionista](../12%20Riparazioni%20e%20attrezzi/Nodi%20essenziali.md).
 4. **Appoggia il telo** sulla corda: un lato fissato a terra (sassi, picchetti) **verso il vento**, l'altro lato più alto. Hai una tettoia inclinata.
 5. Se hai un telo grande: fai una **tenda a A** (telo a cavallo della corda, i due lati fissati a terra).
 6. **Isola il fondo**: almeno **10-15 cm** di foglie secche, cartone o materassino.
@@ -52,8 +52,8 @@ L'auto è un buon riparo dal vento e dalla pioggia. Non tenere il motore acceso 
 
 ## Per saperne di più
 
-- [[Scaldarsi senza riscaldamento]]
-- [[Terremoto]]
+- [Scaldarsi senza riscaldamento](Scaldarsi%20senza%20riscaldamento.md)
+- [Terremoto](../02%20Scenari/Terremoto.md)
 
 ## Fonti
 

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Risparmiare la batteria del telefono
 
-> [!summary] In breve
+> **In breve**
 > Attiva il **risparmio energetico** e abbassa la **luminosità** al minimo.
 > Spegni **Wi-Fi, Bluetooth, GPS** e dati quando non servono.
 > Con poco segnale il telefono consuma molto: se non ti serve, metti la **modalità aereo** e riaccendi la rete ogni ora per qualche minuto.
@@ -26,12 +26,12 @@ In un'emergenza il telefono è torcia, mappa, radio e unico contatto con i famil
 4. Spegni il **GPS** (localizzazione) se non stai usando le mappe.
 5. **Chiudi le app** che usano molto: video, social, giochi.
 6. Spegni le **notifiche** delle app non importanti.
-7. Se il **segnale è scarso** o assente: **modalità aereo**. Ogni 1-2 ore togli la modalità aereo per 5 minuti, leggi messaggi e avvisi, rispondi, poi rimettila. Concorda questo orario con la famiglia nel [[Piano di comunicazione familiare]].
-8. Preferisci **SMS** alle chiamate e ai vocali: vedi [[SMS invece delle chiamate]].
+7. Se il **segnale è scarso** o assente: **modalità aereo**. Ogni 1-2 ore togli la modalità aereo per 5 minuti, leggi messaggi e avvisi, rispondi, poi rimettila. Concorda questo orario con la famiglia nel [Piano di comunicazione familiare](Piano%20di%20comunicazione%20familiare.md).
+8. Preferisci **SMS** alle chiamate e ai vocali: vedi [SMS invece delle chiamate](SMS%20invece%20delle%20chiamate.md).
 9. Tieni il telefono **né al freddo né al caldo**: al freddo la batteria sembra scarica (tienilo in una tasca interna).
 
-> [!warning] IT-Alert
-> La modalità aereo blocca anche i messaggi di [[IT-Alert]]. Riattiva la rete regolarmente e tieni una [[Scegliere una radio d'emergenza|radio]] per le notizie.
+> **Attenzione: IT-Alert**
+> La modalità aereo blocca anche i messaggi di [IT-Alert](../Ricevere%20informazioni/IT-Alert.md). Riattiva la rete regolarmente e tieni una [radio](../Ricevere%20informazioni/Scegliere%20una%20radio%20d%27emergenza.md) per le notizie.
 
 ## Errori da evitare
 
@@ -41,9 +41,9 @@ In un'emergenza il telefono è torcia, mappa, radio e unico contatto con i famil
 
 ## Per saperne di più
 
-- [[Power bank, pile e batterie]]
-- [[Ricaricare il telefono dall'auto]]
-- [[App che funzionano senza Internet]]
+- [Power bank, pile e batterie](../../05%20Energia%20e%20luce/Power%20bank%2C%20pile%20e%20batterie.md)
+- [Ricaricare il telefono dall'auto](../../05%20Energia%20e%20luce/Ricaricare%20il%20telefono%20dall%27auto.md)
+- [App che funzionano senza Internet](App%20che%20funzionano%20senza%20Internet.md)
 
 ## Fonti
 

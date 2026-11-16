@@ -6,12 +6,12 @@ tempo_lettura: 10 minuti
 ultima_revisione: 2026-11-16
 ---
 
-> [!warning] Questa guida non sostituisce un corso
+> **Attenzione: Questa guida non sostituisce un corso**
 > Leggerla aiuta, ma le manovre si imparano davvero solo provandole con un istruttore. Un corso **BLSD** (rianimazione e defibrillatore) dura poche ore: cercalo presso Croce Rossa, 118 o associazioni di volontariato della tua zona.
 
 # Rianimazione cardiopolmonare e DAE
 
-> [!summary] In breve
+> **In breve**
 > Se una persona **non risponde e non respira normalmente**:
 > 1. **Chiama il 112** in vivavoce e fai portare un **defibrillatore (DAE)**.
 > 2. **Spingi forte e veloce al centro del petto**: 5-6 cm di profondità, **100-120 volte al minuto** (il ritmo della canzone *Stayin' Alive*).
@@ -30,7 +30,7 @@ Solo le tue mani. Se c'è, un **DAE**: si trova in farmacie, palestre, scuole, s
 
 ## Passo per passo (adulto)
 
-1. **Controlla** che la zona sia sicura, che la persona **non risponda** e **non respiri normalmente**. Vedi [[Valutare una persona ferita]].
+1. **Controlla** che la zona sia sicura, che la persona **non risponda** e **non respiri normalmente**. Vedi [Valutare una persona ferita](Valutare%20una%20persona%20ferita.md).
 2. **Chiama il 112**, metti il vivavoce e appoggia il telefono accanto a te. Se c'è qualcun altro, fallo chiamare e mandalo a cercare un DAE.
 3. **Posizione della persona**: a pancia in su, su una superficie dura (il pavimento, non il letto).
 4. **Posizione delle mani**: inginocchiati al suo fianco. Metti il palmo di una mano **al centro del petto** (sulla metà inferiore dello sterno, l'osso piatto in mezzo al petto). Metti l'altra mano sopra e intreccia le dita.
@@ -64,8 +64,8 @@ Solo le tue mani. Se c'è, un **DAE**: si trova in farmacie, palestre, scuole, s
 
 ## Per saperne di più
 
-- [[Soffocamento]]
-- [[Scheda primo soccorso]] (da stampare)
+- [Soffocamento](Soffocamento.md)
+- [Scheda primo soccorso](../90%20Schede%20stampabili/Scheda%20primo%20soccorso.md) (da stampare)
 - [Approfondisci su WikiMed: cardiopulmonary resuscitation](http://localhost:8080/search?books.name=wikimed&pattern=cardiopulmonary%20resuscitation)
 
 ## Fonti

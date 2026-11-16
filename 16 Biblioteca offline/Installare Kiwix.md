@@ -8,8 +8,8 @@ ultima_revisione: 2026-11-16
 
 # Installare Kiwix
 
-> [!summary] In breve
-> Kiwix è il programma gratuito che apre Wikipedia offline. Scaricalo dal sito ufficiale **kiwix.org** e installalo come un normale programma. Su Linux installa anche **kiwix-tools**, che servirà per collegare Wikipedia a Obsidian.
+> **In breve**
+> Kiwix è il programma gratuito che apre Wikipedia offline. Scaricalo dal sito ufficiale **kiwix.org** e installalo come un normale programma. Su Linux installa anche **kiwix-tools**, che servirà per aprire Wikipedia dai link delle guide.
 
 ## Perché è importante
 
@@ -58,14 +58,14 @@ Apri Kiwix: deve comparire una finestra con la scheda **Libreria** (o **Library*
 ## Parole nuove
 
 - **Terminale**: una finestra in cui si danno ordini al computer scrivendo invece che cliccando.
-- **kiwix-tools / kiwix-serve**: una versione di Kiwix senza finestre che fa vedere Wikipedia dentro il browser o dentro Obsidian.
+- **kiwix-tools / kiwix-serve**: una versione di Kiwix senza finestre che fa vedere Wikipedia nel browser, così i link delle guide la aprono con un clic.
 
 ## Prossimo passo
 
-[[Scaricare Wikipedia e le altre raccolte]]
+[Scaricare Wikipedia e le altre raccolte](Scaricare%20Wikipedia%20e%20le%20altre%20raccolte.md)
 
 ## Fonti
 
 - Sito ufficiale Kiwix, kiwix.org (2026).
 
-← [[16 Biblioteca offline]]
+← [16 Biblioteca offline](16%20Biblioteca%20offline.md)

@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Tsunami
 
-> [!summary] In breve
+> **In breve**
 > Se sei sulla costa e senti un **terremoto forte**, vedi il **mare ritirarsi** all'improvviso o senti un **rumore** forte dal mare: **allontanati subito** dalla costa e sali **in alto**.
 > Non aspettare l'allarme ufficiale: la natura è il primo avviso.
 > Vai **verso l'interno** o ai **piani alti** di un edificio robusto (almeno 3° piano).
@@ -24,7 +24,7 @@ Il Mediterraneo ha avuto tsunami anche distruttivi (Messina 1908). In Puglia il 
    - un **terremoto** forte o lungo mentre sei vicino al mare;
    - il **mare che si ritira** in modo anomalo, lasciando scoperto il fondale;
    - un **rumore** forte e insolito dal mare, come un treno o un aereo;
-   - un messaggio [[IT-Alert]] di maremoto.
+   - un messaggio [IT-Alert](../07%20Comunicazioni/Ricevere%20informazioni/IT-Alert.md) di maremoto.
 2. **Allontanati** subito dalla spiaggia, dai porti, dalle foci dei fiumi.
 3. **Sali**: vai a piedi verso zone **più alte** (anche 10-20 m sopra il livello del mare fanno la differenza) o verso l'**interno**, almeno 1 km se la costa è piatta.
 4. Se non puoi allontanarti: sali ai **piani alti** di un edificio robusto in cemento armato, o sul tetto.
@@ -49,8 +49,8 @@ Il Mediterraneo ha avuto tsunami anche distruttivi (Messina 1908). In Puglia il 
 
 ## Per saperne di più
 
-- [[Terremoto]]
-- [[Rischi in Puglia]]
+- [Terremoto](Terremoto.md)
+- [Rischi in Puglia](Rischi%20in%20Puglia.md)
 
 ## Fonti
 

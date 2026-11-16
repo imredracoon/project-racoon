@@ -8,7 +8,7 @@ ultima_revisione: 2026-11-16
 
 # Piano familiare di emergenza
 
-> [!summary] In breve
+> **In breve**
 > Il piano familiare è **un foglio, deciso insieme a chi vive con te**, che dice: come ci contattiamo se la rete non funziona, **dove ci ritroviamo** se non possiamo tornare a casa, chi fa cosa (chi prende i bambini, chi aiuta il nonno, chi porta il cane). Si compila in mezz'ora e si prova una volta l'anno.
 
 ## Perché è importante
@@ -18,15 +18,15 @@ Durante un'emergenza le famiglie spesso sono divise: chi al lavoro, chi a scuola
 ## Cosa ti serve
 
 - Mezz'ora con tutta la famiglia.
-- La [[Scheda contatti e piano familiare]] stampata (oppure un foglio bianco).
-- Le informazioni sul piano di protezione civile del tuo Comune (vedi [[Piano di evacuazione del Comune]]).
+- La [Scheda contatti e piano familiare](../90%20Schede%20stampabili/Scheda%20contatti%20e%20piano%20familiare.md) stampata (oppure un foglio bianco).
+- Le informazioni sul piano di protezione civile del tuo Comune (vedi [Piano di evacuazione del Comune](../08%20Sicurezza%20ed%20evacuazione/Piano%20di%20evacuazione%20del%20Comune.md)).
 
 ## Passo per passo
 
 ### 1. I contatti
 1. Scrivete **a mano** i numeri di tutti i componenti della famiglia, dei vicini, del medico, della scuola dei bambini, del lavoro.
 2. Scegliete un **contatto fuori zona**: un parente o amico che vive in un'altra regione. Durante un'emergenza locale spesso è più facile chiamare lontano che vicino. Ognuno avvisa lui, e lui fa da "centralino" per tutti.
-3. Concordate di usare **SMS** invece delle chiamate quando la rete è congestionata: passano più facilmente. Vedi [[SMS invece delle chiamate]].
+3. Concordate di usare **SMS** invece delle chiamate quando la rete è congestionata: passano più facilmente. Vedi [SMS invece delle chiamate](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/SMS%20invece%20delle%20chiamate.md).
 
 ### 2. I punti di ritrovo
 Scegliete **due** punti:
@@ -39,8 +39,8 @@ Controllate anche le **aree di attesa** indicate dal piano di protezione civile 
 Scrivete un compito per ognuno, per esempio:
 - chi va a prendere i bambini a scuola (e la scuola deve sapere chi può ritirarli);
 - chi si occupa di una persona anziana o disabile;
-- chi prende lo [[Zaino di evacuazione|zaino di evacuazione]] e gli animali;
-- chi sa [[Chiudere gas, acqua e luce|chiudere gas, acqua e luce]].
+- chi prende lo [zaino di evacuazione](Zaino%20di%20evacuazione.md) e gli animali;
+- chi sa [chiudere gas, acqua e luce](../06%20Riparo%2C%20calore%20e%20casa/Chiudere%20gas%2C%20acqua%20e%20luce.md).
 
 ### 4. Le informazioni sulla salute
 Per ogni persona: gruppo sanguigno (se lo conoscete), allergie, malattie, farmaci con le dosi.
@@ -54,7 +54,7 @@ Per ogni persona: gruppo sanguigno (se lo conoscete), allergie, malattie, farmac
 
 - **Tenere il piano solo sul telefono**: se si scarica, è perso.
 - **Punto di ritrovo vicino a edifici alti, alberi o fili elettrici**: in caso di terremoto è pericoloso.
-- **Dimenticare i bambini**: anche loro devono conoscere il piano, con parole semplici, senza spaventarli. Vedi [[Parlare di emergenze con i bambini]].
+- **Dimenticare i bambini**: anche loro devono conoscere il piano, con parole semplici, senza spaventarli. Vedi [Parlare di emergenze con i bambini](../15%20Supporto%20psicologico/Parlare%20di%20emergenze%20con%20i%20bambini.md).
 - Andare a prendere i bambini a scuola durante l'emergenza **se la scuola dice di aspettare**: le scuole hanno piani di evacuazione propri, rischi di intasare le strade dei soccorsi.
 
 ## Parole nuove
@@ -65,8 +65,8 @@ Per ogni persona: gruppo sanguigno (se lo conoscete), allergie, malattie, farmac
 
 ## Per saperne di più
 
-- [[Piano di comunicazione familiare]]
-- [[Scheda contatti e piano familiare]] (da stampare)
+- [Piano di comunicazione familiare](../07%20Comunicazioni/Comunicare%20con%20la%20rete%20in%20crisi/Piano%20di%20comunicazione%20familiare.md)
+- [Scheda contatti e piano familiare](../90%20Schede%20stampabili/Scheda%20contatti%20e%20piano%20familiare.md) (da stampare)
 
 ## Fonti
 
